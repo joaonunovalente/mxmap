@@ -1,0 +1,1234 @@
+[
+  {
+    "municipio": "Abrantes",
+    "dominio": "cm-abrantes.pt"
+  },
+  {
+    "municipio": "Aguiar da Beira",
+    "dominio": "cm-aguiardabeira.pt"
+  },
+  {
+    "municipio": "Alandroal",
+    "dominio": "cm-alandroal.pt"
+  },
+  {
+    "municipio": "Albergaria-a-Velha",
+    "dominio": "cm-albergaria.pt"
+  },
+  {
+    "municipio": "Albufeira",
+    "dominio": "cm-albufeira.pt"
+  },
+  {
+    "municipio": "Alcanena",
+    "dominio": "cm-alcanena.pt"
+  },
+  {
+    "municipio": "Alcobaça",
+    "dominio": "cm-alcobaca.pt"
+  },
+  {
+    "municipio": "Alcochete",
+    "dominio": "cm-alcochete.pt"
+  },
+  {
+    "municipio": "Alcoutim",
+    "dominio": "cm-alcoutim.pt"
+  },
+  {
+    "municipio": "Alcácer do Sal",
+    "dominio": "m-alcacerdosal.pt"
+  },
+  {
+    "municipio": "Alenquer",
+    "dominio": "cm-alenquer.pt"
+  },
+  {
+    "municipio": "Alfândega da Fé",
+    "dominio": "cm-alfandegadafe.pt"
+  },
+  {
+    "municipio": "Alijó",
+    "dominio": "cm-alijo.pt"
+  },
+  {
+    "municipio": "Aljezur",
+    "dominio": "cm-aljezur.pt"
+  },
+  {
+    "municipio": "Aljustrel",
+    "dominio": "mun-aljustrel.pt"
+  },
+  {
+    "municipio": "Almada",
+    "dominio": "cm-almada.pt"
+  },
+  {
+    "municipio": "Almeida",
+    "dominio": "cm-almeida.pt"
+  },
+  {
+    "municipio": "Almeirim",
+    "dominio": "cm-almeirim.pt"
+  },
+  {
+    "municipio": "Almodôvar",
+    "dominio": "cm-almodovar.pt"
+  },
+  {
+    "municipio": "Alpiarça",
+    "dominio": "cm-alpiarca.pt"
+  },
+  {
+    "municipio": "Alter do Chão",
+    "dominio": "cm-alter-chao.pt"
+  },
+  {
+    "municipio": "Alvaiázere",
+    "dominio": "cm-alvaiazere.pt"
+  },
+  {
+    "municipio": "Alvito",
+    "dominio": "cm-alvito.pt"
+  },
+  {
+    "municipio": "Amadora",
+    "dominio": "cm-amadora.pt"
+  },
+  {
+    "municipio": "Amarante",
+    "dominio": "cm-amarante.pt"
+  },
+  {
+    "municipio": "Amares",
+    "dominio": "cm-amares.pt"
+  },
+  {
+    "municipio": "Anadia",
+    "dominio": "cm-anadia.pt"
+  },
+  {
+    "municipio": "Angra do Heroísmo",
+    "dominio": "cmah.pt"
+  },
+  {
+    "municipio": "Ansião",
+    "dominio": "cm-ansiao.pt"
+  },
+  {
+    "municipio": "Arcos de Valdevez",
+    "dominio": "cmav.pt"
+  },
+  {
+    "municipio": "Arganil",
+    "dominio": "cm-arganil.pt"
+  },
+  {
+    "municipio": "Armamar",
+    "dominio": "cm-armamar.pt"
+  },
+  {
+    "municipio": "Arouca",
+    "dominio": "cm-arouca.pt"
+  },
+  {
+    "municipio": "Arraiolos",
+    "dominio": "cm-arraiolos.pt"
+  },
+  {
+    "municipio": "Arronches",
+    "dominio": "cm-arronches.pt"
+  },
+  {
+    "municipio": "Arruda dos Vinhos",
+    "dominio": "cm-arruda.pt"
+  },
+  {
+    "municipio": "Aveiro",
+    "dominio": "cm-aveiro.pt"
+  },
+  {
+    "municipio": "Avis",
+    "dominio": "cm-avis.pt"
+  },
+  {
+    "municipio": "Azambuja",
+    "dominio": "cm-azambuja.pt"
+  },
+  {
+    "municipio": "Baião",
+    "dominio": "cm-baiao.pt"
+  },
+  {
+    "municipio": "Barcelos",
+    "dominio": "cm-barcelos.pt"
+  },
+  {
+    "municipio": "Barrancos",
+    "dominio": "cm-barrancos.pt"
+  },
+  {
+    "municipio": "Barreiro",
+    "dominio": "cm-barreiro.pt"
+  },
+  {
+    "municipio": "Batalha",
+    "dominio": "cm-batalha.pt"
+  },
+  {
+    "municipio": "Beja",
+    "dominio": "cm-beja.pt"
+  },
+  {
+    "municipio": "Belmonte",
+    "dominio": "cm-belmonte.pt"
+  },
+  {
+    "municipio": "Benavente",
+    "dominio": "cm-benavente.pt"
+  },
+  {
+    "municipio": "Bombarral",
+    "dominio": "cm-bombarral.pt"
+  },
+  {
+    "municipio": "Borba",
+    "dominio": "cm-borba.pt"
+  },
+  {
+    "municipio": "Boticas",
+    "dominio": "cm-boticas.pt"
+  },
+  {
+    "municipio": "Braga",
+    "dominio": "cm-braga.pt"
+  },
+  {
+    "municipio": "Bragança",
+    "dominio": "cm-braganca.pt"
+  },
+  {
+    "municipio": "Cabeceiras de Basto",
+    "dominio": "cabeceirasdebasto.pt"
+  },
+  {
+    "municipio": "Cadaval",
+    "dominio": "cm-cadaval.pt"
+  },
+  {
+    "municipio": "Caldas da Rainha",
+    "dominio": "mcr.pt"
+  },
+  {
+    "municipio": "Calheta (Açores)",
+    "dominio": "cm-calheta.pt"
+  },
+  {
+    "municipio": "Calheta (Madeira)",
+    "dominio": "cmcalheta.pt"
+  },
+  {
+    "municipio": "Caminha",
+    "dominio": "cm-caminha.pt"
+  },
+  {
+    "municipio": "Campo Maior",
+    "dominio": "cm-campo-maior.pt"
+  },
+  {
+    "municipio": "Cantanhede",
+    "dominio": "cm-cantanhede.pt"
+  },
+  {
+    "municipio": "Carrazeda de Ansiães",
+    "dominio": "cmca.pt"
+  },
+  {
+    "municipio": "Carregal do Sal",
+    "dominio": "cm-carregal.pt"
+  },
+  {
+    "municipio": "Cartaxo",
+    "dominio": "cm-cartaxo.pt"
+  },
+  {
+    "municipio": "Cascais",
+    "dominio": "cm-cascais.pt"
+  },
+  {
+    "municipio": "Castanheira de Pera",
+    "dominio": "cm-castanheiradepera.pt"
+  },
+  {
+    "municipio": "Castelo Branco",
+    "dominio": "cm-castelobranco.pt"
+  },
+  {
+    "municipio": "Castelo de Paiva",
+    "dominio": "cm-castelo-paiva.pt"
+  },
+  {
+    "municipio": "Castelo de Vide",
+    "dominio": "cm-castelo-vide.pt"
+  },
+  {
+    "municipio": "Castro Daire",
+    "dominio": "cm-castrodaire.pt"
+  },
+  {
+    "municipio": "Castro Marim",
+    "dominio": "cm-castromarim.pt"
+  },
+  {
+    "municipio": "Castro Verde",
+    "dominio": "cm-castroverde.pt"
+  },
+  {
+    "municipio": "Celorico da Beira",
+    "dominio": "cm-celoricodabeira.pt"
+  },
+  {
+    "municipio": "Celorico de Basto",
+    "dominio": "mun-celoricodebasto.pt"
+  },
+  {
+    "municipio": "Chamusca",
+    "dominio": "cm-chamusca.pt"
+  },
+  {
+    "municipio": "Chaves",
+    "dominio": "chaves.pt"
+  },
+  {
+    "municipio": "Cinfães",
+    "dominio": "cm-cinfaes.pt"
+  },
+  {
+    "municipio": "Coimbra",
+    "dominio": "cm-coimbra.pt"
+  },
+  {
+    "municipio": "Condeixa-a-Nova",
+    "dominio": "cm-condeixa.pt"
+  },
+  {
+    "municipio": "Constância",
+    "dominio": "cm-constancia.pt"
+  },
+  {
+    "municipio": "Coruche",
+    "dominio": "cm-coruche.pt"
+  },
+  {
+    "municipio": "Corvo",
+    "dominio": "cm-corvo.pt"
+  },
+  {
+    "municipio": "Covilhã",
+    "dominio": "cm-covilha.pt"
+  },
+  {
+    "municipio": "Crato",
+    "dominio": "cm-crato.pt"
+  },
+  {
+    "municipio": "Cuba",
+    "dominio": "cm-cuba.pt"
+  },
+  {
+    "municipio": "Câmara de Lobos",
+    "dominio": "cm-camaradelobos.pt"
+  },
+  {
+    "municipio": "Elvas",
+    "dominio": "cm-elvas.pt"
+  },
+  {
+    "municipio": "Entroncamento",
+    "dominio": "cm-entroncamento.pt"
+  },
+  {
+    "municipio": "Espinho",
+    "dominio": "cm-espinho.pt"
+  },
+  {
+    "municipio": "Esposende",
+    "dominio": "cm-esposende.pt"
+  },
+  {
+    "municipio": "Estarreja",
+    "dominio": "cm-estarreja.pt"
+  },
+  {
+    "municipio": "Estremoz",
+    "dominio": "cm-estremoz.pt"
+  },
+  {
+    "municipio": "Fafe",
+    "dominio": "cm-fafe.pt"
+  },
+  {
+    "municipio": "Faro",
+    "dominio": "cm-faro.pt"
+  },
+  {
+    "municipio": "Felgueiras",
+    "dominio": "cm-felgueiras.pt"
+  },
+  {
+    "municipio": "Ferreira do Alentejo",
+    "dominio": "cm-ferreira-alentejo.pt"
+  },
+  {
+    "municipio": "Ferreira do Zêzere",
+    "dominio": "cm-ferreiradozezere.pt"
+  },
+  {
+    "municipio": "Figueira da Foz",
+    "dominio": "cm-figfoz.pt"
+  },
+  {
+    "municipio": "Figueira de Castelo Rodrigo",
+    "dominio": "cm-fcr.pt"
+  },
+  {
+    "municipio": "Figueiró dos Vinhos",
+    "dominio": "cm-figueirodosvinhos.pt"
+  },
+  {
+    "municipio": "Fornos de Algodres",
+    "dominio": "cm-fornosdealgodres.pt"
+  },
+  {
+    "municipio": "Freixo de Espada à Cinta",
+    "dominio": "cm-fec.pt"
+  },
+  {
+    "municipio": "Fronteira",
+    "dominio": "cm-fronteira.pt"
+  },
+  {
+    "municipio": "Funchal",
+    "dominio": "cm-funchal.pt"
+  },
+  {
+    "municipio": "Fundão",
+    "dominio": "cm-fundao.pt"
+  },
+  {
+    "municipio": "Gavião",
+    "dominio": "cm-gaviao.pt"
+  },
+  {
+    "municipio": "Golegã",
+    "dominio": "cm-golega.pt"
+  },
+  {
+    "municipio": "Gondomar",
+    "dominio": "cm-gondomar.pt"
+  },
+  {
+    "municipio": "Gouveia",
+    "dominio": "cm-gouveia.pt"
+  },
+  {
+    "municipio": "Grândola",
+    "dominio": "cm-grandola.pt"
+  },
+  {
+    "municipio": "Guarda",
+    "dominio": "mun-guarda.pt"
+  },
+  {
+    "municipio": "Guimarães",
+    "dominio": "cm-guimaraes.pt"
+  },
+  {
+    "municipio": "Góis",
+    "dominio": "cm-gois.pt"
+  },
+  {
+    "municipio": "Horta",
+    "dominio": "cmhorta.pt"
+  },
+  {
+    "municipio": "Idanha-a-Nova",
+    "dominio": "cm-idanhanova.pt"
+  },
+  {
+    "municipio": "Lagoa (Algarve)",
+    "dominio": "cm-lagoa.pt"
+  },
+  {
+    "municipio": "Lagoa (Açores)",
+    "dominio": "lagoa-acores.pt"
+  },
+  {
+    "municipio": "Lagos",
+    "dominio": "cm-lagos.pt"
+  },
+  {
+    "municipio": "Lajes das Flores",
+    "dominio": "cmlajesdasflores.pt"
+  },
+  {
+    "municipio": "Lajes do Pico",
+    "dominio": "cm-lajesdopico.pt"
+  },
+  {
+    "municipio": "Lamego",
+    "dominio": "cm-lamego.pt"
+  },
+  {
+    "municipio": "Leiria",
+    "dominio": "cm-leiria.pt"
+  },
+  {
+    "municipio": "Lisboa",
+    "dominio": "cm-lisboa.pt"
+  },
+  {
+    "municipio": "Loulé",
+    "dominio": "cm-loule.pt"
+  },
+  {
+    "municipio": "Loures",
+    "dominio": "cm-loures.pt"
+  },
+  {
+    "municipio": "Lourinhã",
+    "dominio": "cm-lourinha.pt"
+  },
+  {
+    "municipio": "Lousada",
+    "dominio": "cm-lousada.pt"
+  },
+  {
+    "municipio": "Lousã",
+    "dominio": "cm-lousa.pt"
+  },
+  {
+    "municipio": "Macedo de Cavaleiros",
+    "dominio": "cm-macedodecavaleiros.pt"
+  },
+  {
+    "municipio": "Machico",
+    "dominio": "cm-machico.pt"
+  },
+  {
+    "municipio": "Madalena",
+    "dominio": "cm-madalena.pt"
+  },
+  {
+    "municipio": "Mafra",
+    "dominio": "cm-mafra.pt"
+  },
+  {
+    "municipio": "Maia",
+    "dominio": "cm-maia.pt"
+  },
+  {
+    "municipio": "Mangualde",
+    "dominio": "cmmangualde.pt"
+  },
+  {
+    "municipio": "Manteigas",
+    "dominio": "cm-manteigas.pt"
+  },
+  {
+    "municipio": "Marco de Canaveses",
+    "dominio": "cm-marco-canaveses.pt"
+  },
+  {
+    "municipio": "Marinha Grande",
+    "dominio": "cm-mgrande.pt"
+  },
+  {
+    "municipio": "Marvão",
+    "dominio": "cm-marvao.pt"
+  },
+  {
+    "municipio": "Matosinhos",
+    "dominio": "cm-matosinhos.pt"
+  },
+  {
+    "municipio": "Mação",
+    "dominio": "cm-macao.pt"
+  },
+  {
+    "municipio": "Mealhada",
+    "dominio": "cm-mealhada.pt"
+  },
+  {
+    "municipio": "Melgaço",
+    "dominio": "cm-melgaco.pt"
+  },
+  {
+    "municipio": "Mesão Frio",
+    "dominio": "cm-mesaofrio.pt"
+  },
+  {
+    "municipio": "Mira",
+    "dominio": "cm-mira.pt"
+  },
+  {
+    "municipio": "Miranda do Corvo",
+    "dominio": "cm-mirandadocorvo.pt"
+  },
+  {
+    "municipio": "Miranda do Douro",
+    "dominio": "cm-mdouro.pt"
+  },
+  {
+    "municipio": "Mirandela",
+    "dominio": "cm-mirandela.pt"
+  },
+  {
+    "municipio": "Mogadouro",
+    "dominio": "mogadouro.pt"
+  },
+  {
+    "municipio": "Moimenta da Beira",
+    "dominio": "cm-moimenta.pt"
+  },
+  {
+    "municipio": "Moita",
+    "dominio": "cm-moita.pt"
+  },
+  {
+    "municipio": "Monchique",
+    "dominio": "cm-monchique.pt"
+  },
+  {
+    "municipio": "Mondim de Basto",
+    "dominio": "mondimdebasto.pt"
+  },
+  {
+    "municipio": "Monforte",
+    "dominio": "cm-monforte.pt"
+  },
+  {
+    "municipio": "Montalegre",
+    "dominio": "cm-montalegre.pt"
+  },
+  {
+    "municipio": "Montemor-o-Novo",
+    "dominio": "cm-montemornovo.pt"
+  },
+  {
+    "municipio": "Montemor-o-Velho",
+    "dominio": "cm-montemorvelho.pt"
+  },
+  {
+    "municipio": "Montijo",
+    "dominio": "mun-montijo.pt"
+  },
+  {
+    "municipio": "Monção",
+    "dominio": "cm-moncao.pt"
+  },
+  {
+    "municipio": "Mora",
+    "dominio": "cm-mora.pt"
+  },
+  {
+    "municipio": "Mortágua",
+    "dominio": "cm-mortagua.pt"
+  },
+  {
+    "municipio": "Moura",
+    "dominio": "cm-moura.pt"
+  },
+  {
+    "municipio": "Mourão",
+    "dominio": "cm-mourao.pt"
+  },
+  {
+    "municipio": "Murtosa",
+    "dominio": "cm-murtosa.pt"
+  },
+  {
+    "municipio": "Murça",
+    "dominio": "cm-murca.pt"
+  },
+  {
+    "municipio": "Mértola",
+    "dominio": "cm-mertola.pt"
+  },
+  {
+    "municipio": "Mêda",
+    "dominio": "cm-meda.pt"
+  },
+  {
+    "municipio": "Nazaré",
+    "dominio": "cm-nazare.pt"
+  },
+  {
+    "municipio": "Nelas",
+    "dominio": "cm-nelas.pt"
+  },
+  {
+    "municipio": "Nisa",
+    "dominio": "cm-nisa.pt"
+  },
+  {
+    "municipio": "Nordeste",
+    "dominio": "cmnordeste.pt"
+  },
+  {
+    "municipio": "Odemira",
+    "dominio": "cm-odemira.pt"
+  },
+  {
+    "municipio": "Odivelas",
+    "dominio": "cm-odivelas.pt"
+  },
+  {
+    "municipio": "Oeiras",
+    "dominio": "cm-oeiras.pt"
+  },
+  {
+    "municipio": "Oleiros",
+    "dominio": "cm-oleiros.pt"
+  },
+  {
+    "municipio": "Olhão",
+    "dominio": "cm-olhao.pt"
+  },
+  {
+    "municipio": "Oliveira de Azeméis",
+    "dominio": "cm-oaz.pt"
+  },
+  {
+    "municipio": "Oliveira de Frades",
+    "dominio": "cm-ofrades.pt"
+  },
+  {
+    "municipio": "Oliveira do Bairro",
+    "dominio": "cm-olb.pt"
+  },
+  {
+    "municipio": "Oliveira do Hospital",
+    "dominio": "cm-oliveiradohospital.pt"
+  },
+  {
+    "municipio": "Ourique",
+    "dominio": "cm-ourique.pt"
+  },
+  {
+    "municipio": "Ourém",
+    "dominio": "cm.ourem.pt"
+  },
+  {
+    "municipio": "Ovar",
+    "dominio": "cm-ovar.pt"
+  },
+  {
+    "municipio": "Palmela",
+    "dominio": "cm-palmela.pt"
+  },
+  {
+    "municipio": "Pampilhosa da Serra",
+    "dominio": "cm-pampilhosadaserra.pt"
+  },
+  {
+    "municipio": "Paredes",
+    "dominio": "cm-paredes.pt"
+  },
+  {
+    "municipio": "Paredes de Coura",
+    "dominio": "paredesdecoura.pt"
+  },
+  {
+    "municipio": "Paços de Ferreira",
+    "dominio": "cm-pacosdeferreira.pt"
+  },
+  {
+    "municipio": "Pedrógão Grande",
+    "dominio": "cm-pedrogaogrande.pt"
+  },
+  {
+    "municipio": "Penacova",
+    "dominio": "cm-penacova.pt"
+  },
+  {
+    "municipio": "Penafiel",
+    "dominio": "cm-penafiel.pt"
+  },
+  {
+    "municipio": "Penalva do Castelo",
+    "dominio": "cm-penalvadocastelo.pt"
+  },
+  {
+    "municipio": "Penamacor",
+    "dominio": "cm-penamacor.pt"
+  },
+  {
+    "municipio": "Penedono",
+    "dominio": "cm-penedono.pt"
+  },
+  {
+    "municipio": "Penela",
+    "dominio": "cm-penela.pt"
+  },
+  {
+    "municipio": "Peniche",
+    "dominio": "cm-peniche.pt"
+  },
+  {
+    "municipio": "Peso da Régua",
+    "dominio": "cmpr.pt"
+  },
+  {
+    "municipio": "Pinhel",
+    "dominio": "cm-pinhel.pt"
+  },
+  {
+    "municipio": "Pombal",
+    "dominio": "cm-pombal.pt"
+  },
+  {
+    "municipio": "Ponta Delgada",
+    "dominio": "cm-pontadelgada.pt"
+  },
+  {
+    "municipio": "Ponta do Sol",
+    "dominio": "cm-pontadosol.pt"
+  },
+  {
+    "municipio": "Ponte da Barca",
+    "dominio": "cmpb.pt"
+  },
+  {
+    "municipio": "Ponte de Lima",
+    "dominio": "cm-pontedelima.pt"
+  },
+  {
+    "municipio": "Ponte de Sor",
+    "dominio": "cm-pontedesor.pt"
+  },
+  {
+    "municipio": "Portalegre",
+    "dominio": "cm-portalegre.pt"
+  },
+  {
+    "municipio": "Portel",
+    "dominio": "cm-portel.pt"
+  },
+  {
+    "municipio": "Portimão",
+    "dominio": "cm-portimao.pt"
+  },
+  {
+    "municipio": "Porto",
+    "dominio": "cm-porto.pt"
+  },
+  {
+    "municipio": "Porto de Mós",
+    "dominio": "municipio-portodemos.pt"
+  },
+  {
+    "municipio": "Porto Moniz",
+    "dominio": "portomoniz.pt"
+  },
+  {
+    "municipio": "Porto Santo",
+    "dominio": "cm-portosanto.pt"
+  },
+  {
+    "municipio": "Povoação",
+    "dominio": "cm-povoacao.pt"
+  },
+  {
+    "municipio": "Praia da Vitória",
+    "dominio": "cmpv.pt"
+  },
+  {
+    "municipio": "Proença-a-Nova",
+    "dominio": "cm-proencanova.pt"
+  },
+  {
+    "municipio": "Póvoa de Lanhoso",
+    "dominio": "mun-planhoso.pt"
+  },
+  {
+    "municipio": "Póvoa de Varzim",
+    "dominio": "cm-pvarzim.pt"
+  },
+  {
+    "municipio": "Redondo",
+    "dominio": "cm-redondo.pt"
+  },
+  {
+    "municipio": "Reguengos de Monsaraz",
+    "dominio": "cm-reguengos-monsaraz.pt"
+  },
+  {
+    "municipio": "Resende",
+    "dominio": "cm-resende.pt"
+  },
+  {
+    "municipio": "Ribeira Brava",
+    "dominio": "cm-ribeirabrava.pt"
+  },
+  {
+    "municipio": "Ribeira de Pena",
+    "dominio": "cm-rpena.pt"
+  },
+  {
+    "municipio": "Ribeira Grande",
+    "dominio": "cm-ribeiragrande.pt"
+  },
+  {
+    "municipio": "Rio Maior",
+    "dominio": "cm-riomaior.pt"
+  },
+  {
+    "municipio": "Sabrosa",
+    "dominio": "cm-sabrosa.pt"
+  },
+  {
+    "municipio": "Sabugal",
+    "dominio": "cm-sabugal.pt"
+  },
+  {
+    "municipio": "Salvaterra de Magos",
+    "dominio": "cm-salvaterrademagos.pt"
+  },
+  {
+    "municipio": "Santa Comba Dão",
+    "dominio": "cm-santacombadao.pt"
+  },
+  {
+    "municipio": "Santa Cruz",
+    "dominio": "cm-santacruz.pt"
+  },
+  {
+    "municipio": "Santa Cruz da Graciosa",
+    "dominio": "cm-graciosa.pt"
+  },
+  {
+    "municipio": "Santa Cruz das Flores",
+    "dominio": "cmscflores.pt"
+  },
+  {
+    "municipio": "Santa Maria da Feira",
+    "dominio": "cm-feira.pt"
+  },
+  {
+    "municipio": "Santa Marta de Penaguião",
+    "dominio": "cm-smpenaguiao.pt"
+  },
+  {
+    "municipio": "Santana",
+    "dominio": "cm-santana.com"
+  },
+  {
+    "municipio": "Santarém",
+    "dominio": "cm-santarem.pt"
+  },
+  {
+    "municipio": "Santiago do Cacém",
+    "dominio": "cm-santiagocacem.pt"
+  },
+  {
+    "municipio": "Santo Tirso",
+    "dominio": "cm-stirso.pt"
+  },
+  {
+    "municipio": "Sardoal",
+    "dominio": "cm-sardoal.pt"
+  },
+  {
+    "municipio": "Seia",
+    "dominio": "cm-seia.pt"
+  },
+  {
+    "municipio": "Seixal",
+    "dominio": "cm-seixal.pt"
+  },
+  {
+    "municipio": "Sernancelhe",
+    "dominio": "cm-sernancelhe.pt"
+  },
+  {
+    "municipio": "Serpa",
+    "dominio": "cm-serpa.pt"
+  },
+  {
+    "municipio": "Sertã",
+    "dominio": "cm-serta.pt"
+  },
+  {
+    "municipio": "Sesimbra",
+    "dominio": "sesimbra.pt"
+  },
+  {
+    "municipio": "Setúbal",
+    "dominio": "mun-setubal.pt"
+  },
+  {
+    "municipio": "Sever do Vouga",
+    "dominio": "cm-sever.pt"
+  },
+  {
+    "municipio": "Silves",
+    "dominio": "cm-silves.pt"
+  },
+  {
+    "municipio": "Sines",
+    "dominio": "mun-sines.pt"
+  },
+  {
+    "municipio": "Sintra",
+    "dominio": "cm-sintra.pt"
+  },
+  {
+    "municipio": "Sobral de Monte Agraço",
+    "dominio": "cm-sobral.pt"
+  },
+  {
+    "municipio": "Soure",
+    "dominio": "cm-soure.pt"
+  },
+  {
+    "municipio": "Sousel",
+    "dominio": "cm-sousel.pt"
+  },
+  {
+    "municipio": "Sátão",
+    "dominio": "cm-satao.pt"
+  },
+  {
+    "municipio": "São Brás de Alportel",
+    "dominio": "cm-sbras.pt"
+  },
+  {
+    "municipio": "São João da Madeira",
+    "dominio": "cm-sjm.pt"
+  },
+  {
+    "municipio": "São João da Pesqueira",
+    "dominio": "sjpesqueira.pt"
+  },
+  {
+    "municipio": "São Pedro do Sul",
+    "dominio": "cm-spsul.pt"
+  },
+  {
+    "municipio": "São Roque do Pico",
+    "dominio": "cm-saoroquedopico.pt"
+  },
+  {
+    "municipio": "São Vicente",
+    "dominio": "cm-saovicente.pt"
+  },
+  {
+    "municipio": "Tabuaço",
+    "dominio": "cm-tabuaco.pt"
+  },
+  {
+    "municipio": "Tarouca",
+    "dominio": "cm-tarouca.pt"
+  },
+  {
+    "municipio": "Tavira",
+    "dominio": "cm-tavira.pt"
+  },
+  {
+    "municipio": "Terras de Bouro",
+    "dominio": "cm-terrasdebouro.pt"
+  },
+  {
+    "municipio": "Tomar",
+    "dominio": "cm-tomar.pt"
+  },
+  {
+    "municipio": "Tondela",
+    "dominio": "cm-tondela.pt"
+  },
+  {
+    "municipio": "Torre de Moncorvo",
+    "dominio": "torredemoncorvo.pt"
+  },
+  {
+    "municipio": "Torres Novas",
+    "dominio": "cm-torresnovas.pt"
+  },
+  {
+    "municipio": "Torres Vedras",
+    "dominio": "cm-tvedras.pt"
+  },
+  {
+    "municipio": "Trancoso",
+    "dominio": "cm-trancoso.pt"
+  },
+  {
+    "municipio": "Trofa",
+    "dominio": "mun-trofa.pt"
+  },
+  {
+    "municipio": "Tábua",
+    "dominio": "cm-tabua.pt"
+  },
+  {
+    "municipio": "Vagos",
+    "dominio": "cm-vagos.pt"
+  },
+  {
+    "municipio": "Vale de Cambra",
+    "dominio": "cm-valedecambra.pt"
+  },
+  {
+    "municipio": "Valença",
+    "dominio": "cm-valenca.pt"
+  },
+  {
+    "municipio": "Valongo",
+    "dominio": "cm-valongo.pt"
+  },
+  {
+    "municipio": "Valpaços",
+    "dominio": "valpacos.pt"
+  },
+  {
+    "municipio": "Velas",
+    "dominio": "cmvelas.pt"
+  },
+  {
+    "municipio": "Vendas Novas",
+    "dominio": "cm-vendasnovas.pt"
+  },
+  {
+    "municipio": "Viana do Alentejo",
+    "dominio": "cm-vianadoalentejo.pt"
+  },
+  {
+    "municipio": "Viana do Castelo",
+    "dominio": "cm-viana-castelo.pt"
+  },
+  {
+    "municipio": "Vidigueira",
+    "dominio": "cm-vidigueira.pt"
+  },
+  {
+    "municipio": "Vieira do Minho",
+    "dominio": "cm-vminho.pt"
+  },
+  {
+    "municipio": "Vila de Rei",
+    "dominio": "cm-viladerei.pt"
+  },
+  {
+    "municipio": "Vila do Bispo",
+    "dominio": "cm-viladobispo.pt"
+  },
+  {
+    "municipio": "Vila do Conde",
+    "dominio": "cm-viladoconde.pt"
+  },
+  {
+    "municipio": "Vila do Porto",
+    "dominio": "cm-viladoporto.pt"
+  },
+  {
+    "municipio": "Vila Flor",
+    "dominio": "cm-vilaflor.pt"
+  },
+  {
+    "municipio": "Vila Franca de Xira",
+    "dominio": "cm-vfxira.pt"
+  },
+  {
+    "municipio": "Vila Franca do Campo",
+    "dominio": "cmvfc.pt"
+  },
+  {
+    "municipio": "Vila Nova da Barquinha",
+    "dominio": "cm-vnbarquinha.pt"
+  },
+  {
+    "municipio": "Vila Nova de Cerveira",
+    "dominio": "cm-vncerveira.pt"
+  },
+  {
+    "municipio": "Vila Nova de Famalicão",
+    "dominio": "famalicao.pt"
+  },
+  {
+    "municipio": "Vila Nova de Foz Côa",
+    "dominio": "cm-fozcoa.pt"
+  },
+  {
+    "municipio": "Vila Nova de Gaia",
+    "dominio": "cm-gaia.pt"
+  },
+  {
+    "municipio": "Vila Nova de Paiva",
+    "dominio": "cm-vnpaiva.pt"
+  },
+  {
+    "municipio": "Vila Nova de Poiares",
+    "dominio": "cm-vilanovadepoiares.pt"
+  },
+  {
+    "municipio": "Vila Pouca de Aguiar",
+    "dominio": "cm-vpaguiar.pt"
+  },
+  {
+    "municipio": "Vila Real",
+    "dominio": "cm-vilareal.pt"
+  },
+  {
+    "municipio": "Vila Real de Santo António",
+    "dominio": "cm-vrsa.pt"
+  },
+  {
+    "municipio": "Vila Velha de Ródão",
+    "dominio": "cm-vvrodao.pt"
+  },
+  {
+    "municipio": "Vila Verde",
+    "dominio": "cm-vilaverde.pt"
+  },
+  {
+    "municipio": "Vila Viçosa",
+    "dominio": "cm-vilavicosa.pt"
+  },
+  {
+    "municipio": "Vimioso",
+    "dominio": "cm-vimioso.pt"
+  },
+  {
+    "municipio": "Vinhais",
+    "dominio": "cm-vinhais.pt"
+  },
+  {
+    "municipio": "Viseu",
+    "dominio": "cmviseu.pt"
+  },
+  {
+    "municipio": "Vizela",
+    "dominio": "cm-vizela.pt"
+  },
+  {
+    "municipio": "Vouzela",
+    "dominio": "cm-vouzela.pt"
+  },
+  {
+    "municipio": "Águeda",
+    "dominio": "cm-agueda.pt"
+  },
+  {
+    "municipio": "Évora",
+    "dominio": "cm-evora.pt"
+  },
+  {
+    "municipio": "Ílhavo",
+    "dominio": "cm-ilhavo.pt"
+  },
+  {
+    "municipio": "Óbidos",
+    "dominio": "cm-obidos.pt"
+  }
+]

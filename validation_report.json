@@ -1,0 +1,3632 @@
+{
+  "total": 308,
+  "average_score": 90.4,
+  "high_confidence_pct": 93.8,
+  "quality_passed": true,
+  "entries": {
+    "1401": {
+      "name": "Abrantes",
+      "provider": "microsoft",
+      "domain": "cm-abrantes.pt",
+      "confidence": 95,
+      "flags": [
+        "spf_strict",
+        "mx_spf_match",
+        "provider_classified",
+        "autodiscover_confirms"
+      ]
+    },
+    "0901": {
+      "name": "Aguiar da Beira",
+      "provider": "microsoft",
+      "domain": "cm-aguiardabeira.pt",
+      "confidence": 95,
+      "flags": [
+        "spf_strict",
+        "mx_spf_match",
+        "provider_classified",
+        "autodiscover_confirms"
+      ]
+    },
+    "0701": {
+      "name": "Alandroal",
+      "provider": "independent",
+      "domain": "cm-alandroal.pt",
+      "confidence": 95,
+      "flags": [
+        "multiple_mx",
+        "spf_strict",
+        "mx_spf_match",
+        "provider_classified"
+      ]
+    },
+    "0801": {
+      "name": "Albufeira",
+      "provider": "microsoft",
+      "domain": "cm-albufeira.pt",
+      "confidence": 95,
+      "flags": [
+        "spf_strict",
+        "mx_spf_match",
+        "provider_classified",
+        "autodiscover_confirms"
+      ]
+    },
+    "1001": {
+      "name": "Alcobaça",
+      "provider": "microsoft",
+      "domain": "cm-alcobaca.pt",
+      "confidence": 93,
+      "flags": [
+        "spf_softfail",
+        "mx_spf_match",
+        "provider_classified",
+        "autodiscover_confirms"
+      ]
+    },
+    "1501": {
+      "name": "Alcácer do Sal",
+      "provider": "microsoft",
+      "domain": "m-alcacerdosal.pt",
+      "confidence": 95,
+      "flags": [
+        "spf_strict",
+        "mx_spf_match",
+        "provider_classified",
+        "autodiscover_confirms"
+      ]
+    },
+    "1101": {
+      "name": "Alenquer",
+      "provider": "microsoft",
+      "domain": "cm-alenquer.pt",
+      "confidence": 93,
+      "flags": [
+        "spf_softfail",
+        "mx_spf_match",
+        "provider_classified",
+        "autodiscover_confirms"
+      ]
+    },
+    "0401": {
+      "name": "Alfândega da Fé",
+      "provider": "pt-isp",
+      "domain": "cm-alfandegadafe.pt",
+      "confidence": 95,
+      "flags": [
+        "multiple_mx",
+        "spf_strict",
+        "mx_spf_match",
+        "provider_classified"
+      ]
+    },
+    "1701": {
+      "name": "Alijó",
+      "provider": "microsoft",
+      "domain": "cm-alijo.pt",
+      "confidence": 95,
+      "flags": [
+        "spf_strict",
+        "mx_spf_match",
+        "provider_classified",
+        "autodiscover_confirms"
+      ]
+    },
+    "0201": {
+      "name": "Aljustrel",
+      "provider": "us-other",
+      "domain": "mun-aljustrel.pt",
+      "confidence": 95,
+      "flags": [
+        "multiple_mx",
+        "spf_strict",
+        "mx_spf_match",
+        "provider_classified"
+      ]
+    },
+    "1201": {
+      "name": "Alter do Chão",
+      "provider": "independent",
+      "domain": "cm-alter-chao.pt",
+      "confidence": 80,
+      "flags": [
+        "spf_strict",
+        "independent_mx_with_cloud_spf",
+        "provider_classified"
+      ]
+    },
+    "1301": {
+      "name": "Amarante",
+      "provider": "microsoft",
+      "domain": "cm-amarante.pt",
+      "confidence": 95,
+      "flags": [
+        "spf_strict",
+        "mx_spf_match",
+        "provider_classified",
+        "autodiscover_confirms"
+      ]
+    },
+    "0301": {
+      "name": "Amares",
+      "provider": "aws",
+      "domain": "cm-amares.pt",
+      "confidence": 88,
+      "flags": [
+        "spf_softfail",
+        "mx_spf_match",
+        "provider_classified"
+      ]
+    },
+    "4301": {
+      "name": "Angra do Heroísmo",
+      "provider": "microsoft",
+      "domain": "cmah.pt",
+      "confidence": 95,
+      "flags": [
+        "spf_strict",
+        "mx_spf_match",
+        "provider_classified",
+        "autodiscover_confirms"
+      ]
+    },
+    "1601": {
+      "name": "Arcos de Valdevez",
+      "provider": "us-other",
+      "domain": "cmav.pt",
+      "confidence": 75,
+      "flags": [
+        "multiple_mx",
+        "spf_strict",
+        "provider_classified"
+      ]
+    },
+    "0601": {
+      "name": "Arganil",
+      "provider": "us-other",
+      "domain": "cm-arganil.pt",
+      "confidence": 85,
+      "flags": [
+        "multiple_mx",
+        "spf_strict",
+        "mx_spf_match",
+        "multi_provider_spf:microsoft+us-other",
+        "provider_classified"
+      ]
+    },
+    "1801": {
+      "name": "Armamar",
+      "provider": "us-other",
+      "domain": "cm-armamar.pt",
+      "confidence": 55,
+      "flags": [
+        "multiple_mx",
+        "spf_strict",
+        "mx_spf_mismatch",
+        "provider_classified"
+      ]
+    },
+    "0501": {
+      "name": "Belmonte",
+      "provider": "microsoft",
+      "domain": "cm-belmonte.pt",
+      "confidence": 93,
+      "flags": [
+        "spf_softfail",
+        "mx_spf_match",
+        "provider_classified",
+        "autodiscover_confirms"
+      ]
+    },
+    "4501": {
+      "name": "Calheta (Açores)",
+      "provider": "pt-isp",
+      "domain": "cm-calheta.pt",
+      "confidence": 90,
+      "flags": [
+        "multiple_mx",
+        "mx_spf_match",
+        "provider_classified"
+      ]
+    },
+    "3101": {
+      "name": "Calheta (Madeira)",
+      "provider": "independent",
+      "domain": "cmcalheta.pt",
+      "confidence": 88,
+      "flags": [
+        "spf_softfail",
+        "mx_spf_match",
+        "provider_classified"
+      ]
+    },
+    "4901": {
+      "name": "Corvo",
+      "provider": "microsoft",
+      "domain": "cm-corvo.pt",
+      "confidence": 95,
+      "flags": [
+        "spf_strict",
+        "mx_spf_match",
+        "provider_classified",
+        "autodiscover_confirms"
+      ]
+    },
+    "4701": {
+      "name": "Horta",
+      "provider": "microsoft",
+      "domain": "cmhorta.pt",
+      "confidence": 95,
+      "flags": [
+        "spf_strict",
+        "mx_spf_match",
+        "provider_classified",
+        "autodiscover_confirms"
+      ]
+    },
+    "4201": {
+      "name": "Lagoa (Açores)",
+      "provider": "microsoft",
+      "domain": "lagoa-acores.pt",
+      "confidence": 95,
+      "flags": [
+        "spf_strict",
+        "mx_spf_match",
+        "provider_classified",
+        "autodiscover_confirms"
+      ]
+    },
+    "4801": {
+      "name": "Lajes das Flores",
+      "provider": "microsoft",
+      "domain": "cmlajesdasflores.pt",
+      "confidence": 90,
+      "flags": [
+        "multiple_mx",
+        "mx_spf_match",
+        "provider_classified",
+        "provider_via_gateway_spf"
+      ]
+    },
+    "4601": {
+      "name": "Lajes do Pico",
+      "provider": "microsoft",
+      "domain": "cm-lajesdopico.pt",
+      "confidence": 95,
+      "flags": [
+        "spf_strict",
+        "mx_spf_match",
+        "provider_classified",
+        "autodiscover_confirms"
+      ]
+    },
+    "3201": {
+      "name": "Porto Santo",
+      "provider": "microsoft",
+      "domain": "cm-portosanto.pt",
+      "confidence": 95,
+      "flags": [
+        "spf_strict",
+        "mx_spf_match",
+        "provider_classified",
+        "autodiscover_confirms"
+      ]
+    },
+    "4401": {
+      "name": "Santa Cruz da Graciosa",
+      "provider": "independent",
+      "domain": "cm-graciosa.pt",
+      "confidence": 90,
+      "flags": [
+        "spf_strict",
+        "mx_spf_match",
+        "provider_classified"
+      ]
+    },
+    "4101": {
+      "name": "Vila do Porto",
+      "provider": "microsoft",
+      "domain": "cm-viladoporto.pt",
+      "confidence": 75,
+      "flags": [
+        "spf_strict",
+        "independent_mx_with_cloud_spf",
+        "multi_provider_spf:google+microsoft",
+        "provider_classified",
+        "autodiscover_confirms"
+      ]
+    },
+    "0101": {
+      "name": "Águeda",
+      "provider": "independent",
+      "domain": "cm-agueda.pt",
+      "confidence": 88,
+      "flags": [
+        "spf_softfail",
+        "mx_spf_match",
+        "provider_classified"
+      ]
+    },
+    "0102": {
+      "name": "Albergaria-a-Velha",
+      "provider": "pt-isp",
+      "domain": "cm-albergaria.pt",
+      "confidence": 95,
+      "flags": [
+        "multiple_mx",
+        "spf_strict",
+        "mx_spf_match",
+        "provider_classified"
+      ]
+    },
+    "1402": {
+      "name": "Alcanena",
+      "provider": "microsoft",
+      "domain": "cm-alcanena.pt",
+      "confidence": 95,
+      "flags": [
+        "spf_strict",
+        "mx_spf_match",
+        "provider_classified",
+        "autodiscover_confirms"
+      ]
+    },
+    "1502": {
+      "name": "Alcochete",
+      "provider": "microsoft",
+      "domain": "cm-alcochete.pt",
+      "confidence": 95,
+      "flags": [
+        "spf_strict",
+        "mx_spf_match",
+        "provider_classified",
+        "autodiscover_confirms"
+      ]
+    },
+    "0802": {
+      "name": "Alcoutim",
+      "provider": "us-other",
+      "domain": "cm-alcoutim.pt",
+      "confidence": 95,
+      "flags": [
+        "multiple_mx",
+        "spf_strict",
+        "mx_spf_match",
+        "provider_classified"
+      ]
+    },
+    "0902": {
+      "name": "Almeida",
+      "provider": "microsoft",
+      "domain": "cm-almeida.pt",
+      "confidence": 95,
+      "flags": [
+        "spf_strict",
+        "mx_spf_match",
+        "provider_classified",
+        "autodiscover_confirms"
+      ]
+    },
+    "0202": {
+      "name": "Almodôvar",
+      "provider": "google",
+      "domain": "cm-almodovar.pt",
+      "confidence": 93,
+      "flags": [
+        "multiple_mx",
+        "spf_softfail",
+        "mx_spf_match",
+        "provider_classified"
+      ]
+    },
+    "1002": {
+      "name": "Alvaiázere",
+      "provider": "independent",
+      "domain": "cm-alvaiazere.pt",
+      "confidence": 95,
+      "flags": [
+        "multiple_mx",
+        "spf_strict",
+        "mx_spf_match",
+        "provider_classified"
+      ]
+    },
+    "0702": {
+      "name": "Arraiolos",
+      "provider": "independent",
+      "domain": "cm-arraiolos.pt",
+      "confidence": 95,
+      "flags": [
+        "multiple_mx",
+        "spf_strict",
+        "mx_spf_match",
+        "provider_classified"
+      ]
+    },
+    "1202": {
+      "name": "Arronches",
+      "provider": "independent",
+      "domain": "cm-arronches.pt",
+      "confidence": 90,
+      "flags": [
+        "spf_strict",
+        "mx_spf_match",
+        "provider_classified"
+      ]
+    },
+    "1102": {
+      "name": "Arruda dos Vinhos",
+      "provider": "independent",
+      "domain": "cm-arruda.pt",
+      "confidence": 93,
+      "flags": [
+        "multiple_mx",
+        "spf_softfail",
+        "mx_spf_match",
+        "provider_classified"
+      ]
+    },
+    "1302": {
+      "name": "Baião",
+      "provider": "microsoft",
+      "domain": "cm-baiao.pt",
+      "confidence": 90,
+      "flags": [
+        "multiple_mx",
+        "spf_strict",
+        "independent_mx_with_cloud_spf",
+        "provider_classified",
+        "autodiscover_confirms"
+      ]
+    },
+    "0302": {
+      "name": "Barcelos",
+      "provider": "aws",
+      "domain": "cm-barcelos.pt",
+      "confidence": 80,
+      "flags": [
+        "spf_strict",
+        "independent_mx_with_cloud_spf",
+        "provider_classified"
+      ]
+    },
+    "1702": {
+      "name": "Boticas",
+      "provider": "microsoft",
+      "domain": "cm-boticas.pt",
+      "confidence": 85,
+      "flags": [
+        "spf_strict",
+        "independent_mx_with_cloud_spf",
+        "provider_classified",
+        "autodiscover_confirms"
+      ]
+    },
+    "0402": {
+      "name": "Bragança",
+      "provider": "microsoft",
+      "domain": "cm-braganca.pt",
+      "confidence": 95,
+      "flags": [
+        "spf_strict",
+        "mx_spf_match",
+        "provider_classified",
+        "autodiscover_confirms"
+      ]
+    },
+    "1602": {
+      "name": "Caminha",
+      "provider": "microsoft",
+      "domain": "cm-caminha.pt",
+      "confidence": 95,
+      "flags": [
+        "spf_strict",
+        "mx_spf_match",
+        "provider_classified",
+        "autodiscover_confirms"
+      ]
+    },
+    "0602": {
+      "name": "Cantanhede",
+      "provider": "microsoft",
+      "domain": "cm-cantanhede.pt",
+      "confidence": 100,
+      "flags": [
+        "multiple_mx",
+        "spf_strict",
+        "mx_spf_match",
+        "provider_classified",
+        "autodiscover_confirms"
+      ]
+    },
+    "1802": {
+      "name": "Carregal do Sal",
+      "provider": "microsoft",
+      "domain": "cm-carregal.pt",
+      "confidence": 95,
+      "flags": [
+        "spf_strict",
+        "mx_spf_match",
+        "provider_classified",
+        "autodiscover_confirms"
+      ]
+    },
+    "0502": {
+      "name": "Castelo Branco",
+      "provider": "microsoft",
+      "domain": "cm-castelobranco.pt",
+      "confidence": 95,
+      "flags": [
+        "spf_strict",
+        "mx_spf_match",
+        "provider_classified",
+        "autodiscover_confirms"
+      ]
+    },
+    "3102": {
+      "name": "Câmara de Lobos",
+      "provider": "independent",
+      "domain": "cm-camaradelobos.pt",
+      "confidence": 90,
+      "flags": [
+        "spf_strict",
+        "mx_spf_match",
+        "provider_classified"
+      ]
+    },
+    "4602": {
+      "name": "Madalena",
+      "provider": "microsoft",
+      "domain": "cm-madalena.pt",
+      "confidence": 95,
+      "flags": [
+        "spf_strict",
+        "mx_spf_match",
+        "provider_classified",
+        "autodiscover_confirms"
+      ]
+    },
+    "4202": {
+      "name": "Nordeste",
+      "provider": "independent",
+      "domain": "cmnordeste.pt",
+      "confidence": 95,
+      "flags": [
+        "multiple_mx",
+        "spf_strict",
+        "mx_spf_match",
+        "provider_classified"
+      ]
+    },
+    "4302": {
+      "name": "Praia da Vitória",
+      "provider": "pt-isp",
+      "domain": "cmpv.pt",
+      "confidence": 90,
+      "flags": [
+        "multiple_mx",
+        "mx_spf_match",
+        "provider_classified"
+      ]
+    },
+    "4802": {
+      "name": "Santa Cruz das Flores",
+      "provider": "pt-isp",
+      "domain": "cmscflores.pt",
+      "confidence": 90,
+      "flags": [
+        "multiple_mx",
+        "mx_spf_match",
+        "provider_classified"
+      ]
+    },
+    "4502": {
+      "name": "Velas",
+      "provider": "us-other",
+      "domain": "cmvelas.pt",
+      "confidence": 55,
+      "flags": [
+        "multiple_mx",
+        "spf_strict",
+        "mx_spf_mismatch",
+        "provider_classified"
+      ]
+    },
+    "0803": {
+      "name": "Aljezur",
+      "provider": "microsoft",
+      "domain": "cm-aljezur.pt",
+      "confidence": 78,
+      "flags": [
+        "spf_softfail",
+        "independent_mx_with_cloud_spf",
+        "provider_classified"
+      ]
+    },
+    "1503": {
+      "name": "Almada",
+      "provider": "microsoft",
+      "domain": "cm-almada.pt",
+      "confidence": 78,
+      "flags": [
+        "spf_softfail",
+        "independent_mx_with_cloud_spf",
+        "provider_classified"
+      ]
+    },
+    "1403": {
+      "name": "Almeirim",
+      "provider": "independent",
+      "domain": "cm-almeirim.pt",
+      "confidence": 95,
+      "flags": [
+        "multiple_mx",
+        "spf_strict",
+        "mx_spf_match",
+        "provider_classified"
+      ]
+    },
+    "0203": {
+      "name": "Alvito",
+      "provider": "us-other",
+      "domain": "cm-alvito.pt",
+      "confidence": 95,
+      "flags": [
+        "multiple_mx",
+        "spf_strict",
+        "mx_spf_match",
+        "provider_classified"
+      ]
+    },
+    "0103": {
+      "name": "Anadia",
+      "provider": "us-other",
+      "domain": "cm-anadia.pt",
+      "confidence": 88,
+      "flags": [
+        "spf_softfail",
+        "mx_spf_match",
+        "provider_classified",
+        "provider_via_gateway_spf"
+      ]
+    },
+    "1003": {
+      "name": "Ansião",
+      "provider": "microsoft",
+      "domain": "cm-ansiao.pt",
+      "confidence": 95,
+      "flags": [
+        "spf_strict",
+        "mx_spf_match",
+        "provider_classified",
+        "autodiscover_confirms"
+      ]
+    },
+    "1203": {
+      "name": "Avis",
+      "provider": "independent",
+      "domain": "cm-avis.pt",
+      "confidence": 90,
+      "flags": [
+        "spf_strict",
+        "mx_spf_match",
+        "provider_classified"
+      ]
+    },
+    "1103": {
+      "name": "Azambuja",
+      "provider": "us-other",
+      "domain": "cm-azambuja.pt",
+      "confidence": 55,
+      "flags": [
+        "multiple_mx",
+        "spf_strict",
+        "mx_spf_mismatch",
+        "provider_classified"
+      ]
+    },
+    "0703": {
+      "name": "Borba",
+      "provider": "independent",
+      "domain": "cm-borba.pt",
+      "confidence": 95,
+      "flags": [
+        "multiple_mx",
+        "spf_strict",
+        "mx_spf_match",
+        "provider_classified"
+      ]
+    },
+    "0303": {
+      "name": "Braga",
+      "provider": "microsoft",
+      "domain": "cm-braga.pt",
+      "confidence": 95,
+      "flags": [
+        "spf_strict",
+        "mx_spf_match",
+        "provider_classified",
+        "autodiscover_confirms"
+      ]
+    },
+    "0403": {
+      "name": "Carrazeda de Ansiães",
+      "provider": "independent",
+      "domain": "cmca.pt",
+      "confidence": 85,
+      "flags": [
+        "mx_spf_match",
+        "provider_classified"
+      ]
+    },
+    "1803": {
+      "name": "Castro Daire",
+      "provider": "microsoft",
+      "domain": "cm-castrodaire.pt",
+      "confidence": 75,
+      "flags": [
+        "multiple_mx",
+        "spf_strict",
+        "independent_mx_with_cloud_spf",
+        "multi_provider_spf:google+microsoft",
+        "provider_classified"
+      ]
+    },
+    "0903": {
+      "name": "Celorico da Beira",
+      "provider": "eu-isp",
+      "domain": "cm-celoricodabeira.pt",
+      "confidence": 95,
+      "flags": [
+        "multiple_mx",
+        "spf_strict",
+        "mx_spf_match",
+        "provider_classified"
+      ]
+    },
+    "1703": {
+      "name": "Chaves",
+      "provider": "google",
+      "domain": "chaves.pt",
+      "confidence": 95,
+      "flags": [
+        "multiple_mx",
+        "spf_strict",
+        "mx_spf_match",
+        "provider_classified"
+      ]
+    },
+    "0603": {
+      "name": "Coimbra",
+      "provider": "microsoft",
+      "domain": "cm-coimbra.pt",
+      "confidence": 95,
+      "flags": [
+        "spf_strict",
+        "mx_spf_match",
+        "provider_classified",
+        "autodiscover_confirms"
+      ]
+    },
+    "0503": {
+      "name": "Covilhã",
+      "provider": "independent",
+      "domain": "cm-covilha.pt",
+      "confidence": 95,
+      "flags": [
+        "multiple_mx",
+        "spf_strict",
+        "mx_spf_match",
+        "provider_classified"
+      ]
+    },
+    "1303": {
+      "name": "Felgueiras",
+      "provider": "microsoft",
+      "domain": "cm-felgueiras.pt",
+      "confidence": 90,
+      "flags": [
+        "multiple_mx",
+        "spf_strict",
+        "mx_spf_match",
+        "multi_provider_spf:microsoft+us-other",
+        "provider_classified",
+        "autodiscover_confirms"
+      ]
+    },
+    "3103": {
+      "name": "Funchal",
+      "provider": "microsoft",
+      "domain": "cm-funchal.pt",
+      "confidence": 85,
+      "flags": [
+        "multiple_mx",
+        "spf_strict",
+        "independent_mx_with_cloud_spf",
+        "provider_classified"
+      ]
+    },
+    "1603": {
+      "name": "Melgaço",
+      "provider": "microsoft",
+      "domain": "cm-melgaco.pt",
+      "confidence": 95,
+      "flags": [
+        "spf_strict",
+        "mx_spf_match",
+        "provider_classified",
+        "autodiscover_confirms"
+      ]
+    },
+    "4203": {
+      "name": "Ponta Delgada",
+      "provider": "independent",
+      "domain": "cm-pontadelgada.pt",
+      "confidence": 90,
+      "flags": [
+        "spf_strict",
+        "mx_spf_match",
+        "provider_classified"
+      ]
+    },
+    "4603": {
+      "name": "São Roque do Pico",
+      "provider": "microsoft",
+      "domain": "cm-saoroquedopico.pt",
+      "confidence": 93,
+      "flags": [
+        "spf_softfail",
+        "mx_spf_match",
+        "provider_classified",
+        "autodiscover_confirms"
+      ]
+    },
+    "1404": {
+      "name": "Alpiarça",
+      "provider": "pt-isp",
+      "domain": "cm-alpiarca.pt",
+      "confidence": 85,
+      "flags": [
+        "multiple_mx",
+        "spf_strict",
+        "independent_mx_with_cloud_spf",
+        "provider_classified"
+      ]
+    },
+    "0104": {
+      "name": "Arouca",
+      "provider": "microsoft",
+      "domain": "cm-arouca.pt",
+      "confidence": 83,
+      "flags": [
+        "multiple_mx",
+        "spf_softfail",
+        "independent_mx_with_cloud_spf",
+        "provider_classified"
+      ]
+    },
+    "0204": {
+      "name": "Barrancos",
+      "provider": "pt-isp",
+      "domain": "cm-barrancos.pt",
+      "confidence": 90,
+      "flags": [
+        "multiple_mx",
+        "mx_spf_match",
+        "provider_classified"
+      ]
+    },
+    "1504": {
+      "name": "Barreiro",
+      "provider": "us-other",
+      "domain": "cm-barreiro.pt",
+      "confidence": 85,
+      "flags": [
+        "multiple_mx",
+        "spf_strict",
+        "independent_mx_with_cloud_spf",
+        "provider_classified"
+      ]
+    },
+    "1004": {
+      "name": "Batalha",
+      "provider": "microsoft",
+      "domain": "cm-batalha.pt",
+      "confidence": 93,
+      "flags": [
+        "spf_softfail",
+        "mx_spf_match",
+        "provider_classified",
+        "smtp_confirms"
+      ]
+    },
+    "0304": {
+      "name": "Cabeceiras de Basto",
+      "provider": "us-other",
+      "domain": "cabeceirasdebasto.pt",
+      "confidence": 95,
+      "flags": [
+        "multiple_mx",
+        "spf_strict",
+        "mx_spf_match",
+        "provider_classified",
+        "provider_via_gateway_spf"
+      ]
+    },
+    "1104": {
+      "name": "Cadaval",
+      "provider": "independent",
+      "domain": "cm-cadaval.pt",
+      "confidence": 90,
+      "flags": [
+        "spf_strict",
+        "mx_spf_match",
+        "provider_classified"
+      ]
+    },
+    "1204": {
+      "name": "Campo Maior",
+      "provider": "independent",
+      "domain": "cm-campo-maior.pt",
+      "confidence": 90,
+      "flags": [
+        "spf_strict",
+        "mx_spf_match",
+        "provider_classified"
+      ]
+    },
+    "0804": {
+      "name": "Castro Marim",
+      "provider": "us-other",
+      "domain": "cm-castromarim.pt",
+      "confidence": 93,
+      "flags": [
+        "multiple_mx",
+        "spf_softfail",
+        "mx_spf_match",
+        "provider_classified"
+      ]
+    },
+    "1804": {
+      "name": "Cinfães",
+      "provider": "google",
+      "domain": "cm-cinfaes.pt",
+      "confidence": 90,
+      "flags": [
+        "spf_strict",
+        "mx_spf_match",
+        "provider_classified"
+      ]
+    },
+    "0604": {
+      "name": "Condeixa-a-Nova",
+      "provider": "independent",
+      "domain": "cm-condeixa.pt",
+      "confidence": 90,
+      "flags": [
+        "spf_strict",
+        "mx_spf_match",
+        "provider_classified"
+      ]
+    },
+    "0704": {
+      "name": "Estremoz",
+      "provider": "independent",
+      "domain": "cm-estremoz.pt",
+      "confidence": 88,
+      "flags": [
+        "spf_softfail",
+        "mx_spf_match",
+        "provider_classified"
+      ]
+    },
+    "0904": {
+      "name": "Figueira de Castelo Rodrigo",
+      "provider": "microsoft",
+      "domain": "cm-fcr.pt",
+      "confidence": 95,
+      "flags": [
+        "spf_strict",
+        "mx_spf_match",
+        "provider_classified",
+        "autodiscover_confirms"
+      ]
+    },
+    "0404": {
+      "name": "Freixo de Espada à Cinta",
+      "provider": "independent",
+      "domain": "cm-fec.pt",
+      "confidence": 95,
+      "flags": [
+        "multiple_mx",
+        "spf_strict",
+        "mx_spf_match",
+        "provider_classified"
+      ]
+    },
+    "0504": {
+      "name": "Fundão",
+      "provider": "microsoft",
+      "domain": "cm-fundao.pt",
+      "confidence": 95,
+      "flags": [
+        "spf_strict",
+        "mx_spf_match",
+        "provider_classified",
+        "autodiscover_confirms"
+      ]
+    },
+    "1304": {
+      "name": "Gondomar",
+      "provider": "pt-isp",
+      "domain": "cm-gondomar.pt",
+      "confidence": 85,
+      "flags": [
+        "multiple_mx",
+        "spf_strict",
+        "independent_mx_with_cloud_spf",
+        "provider_classified"
+      ]
+    },
+    "3104": {
+      "name": "Machico",
+      "provider": "pt-isp",
+      "domain": "cm-machico.pt",
+      "confidence": 88,
+      "flags": [
+        "spf_softfail",
+        "mx_spf_match",
+        "provider_classified"
+      ]
+    },
+    "1704": {
+      "name": "Mesão Frio",
+      "provider": "independent",
+      "domain": "cm-mesaofrio.pt",
+      "confidence": 88,
+      "flags": [
+        "spf_softfail",
+        "mx_spf_match",
+        "provider_classified"
+      ]
+    },
+    "1604": {
+      "name": "Monção",
+      "provider": "microsoft",
+      "domain": "cm-moncao.pt",
+      "confidence": 95,
+      "flags": [
+        "spf_strict",
+        "mx_spf_match",
+        "provider_classified",
+        "autodiscover_confirms"
+      ]
+    },
+    "4204": {
+      "name": "Povoação",
+      "provider": "microsoft",
+      "domain": "cm-povoacao.pt",
+      "confidence": 95,
+      "flags": [
+        "spf_strict",
+        "mx_spf_match",
+        "provider_classified",
+        "autodiscover_confirms"
+      ]
+    },
+    "0105": {
+      "name": "Aveiro",
+      "provider": "microsoft",
+      "domain": "cm-aveiro.pt",
+      "confidence": 85,
+      "flags": [
+        "multiple_mx",
+        "spf_strict",
+        "independent_mx_with_cloud_spf",
+        "provider_classified"
+      ]
+    },
+    "0205": {
+      "name": "Beja",
+      "provider": "microsoft",
+      "domain": "cm-beja.pt",
+      "confidence": 90,
+      "flags": [
+        "multiple_mx",
+        "spf_strict",
+        "mx_spf_match",
+        "multi_provider_spf:microsoft+us-other",
+        "provider_classified",
+        "autodiscover_confirms"
+      ]
+    },
+    "1405": {
+      "name": "Benavente",
+      "provider": "microsoft",
+      "domain": "cm-benavente.pt",
+      "confidence": 95,
+      "flags": [
+        "spf_strict",
+        "mx_spf_match",
+        "provider_classified",
+        "autodiscover_confirms"
+      ]
+    },
+    "1005": {
+      "name": "Bombarral",
+      "provider": "independent",
+      "domain": "cm-bombarral.pt",
+      "confidence": 90,
+      "flags": [
+        "spf_strict",
+        "mx_spf_match",
+        "provider_classified"
+      ]
+    },
+    "1105": {
+      "name": "Cascais",
+      "provider": "microsoft",
+      "domain": "cm-cascais.pt",
+      "confidence": 85,
+      "flags": [
+        "spf_strict",
+        "mx_spf_match",
+        "multi_provider_spf:aws+mailjet+microsoft",
+        "provider_classified",
+        "autodiscover_confirms"
+      ]
+    },
+    "1205": {
+      "name": "Castelo de Vide",
+      "provider": "independent",
+      "domain": "cm-castelo-vide.pt",
+      "confidence": 90,
+      "flags": [
+        "spf_strict",
+        "mx_spf_match",
+        "provider_classified"
+      ]
+    },
+    "0305": {
+      "name": "Celorico de Basto",
+      "provider": "eu-isp",
+      "domain": "mun-celoricodebasto.pt",
+      "confidence": 95,
+      "flags": [
+        "multiple_mx",
+        "spf_strict",
+        "mx_spf_match",
+        "provider_classified"
+      ]
+    },
+    "0805": {
+      "name": "Faro",
+      "provider": "us-other",
+      "domain": "cm-faro.pt",
+      "confidence": 85,
+      "flags": [
+        "multiple_mx",
+        "spf_strict",
+        "mx_spf_match",
+        "multi_provider_spf:google+microsoft+us-other",
+        "provider_classified"
+      ]
+    },
+    "0605": {
+      "name": "Figueira da Foz",
+      "provider": "microsoft",
+      "domain": "cm-figfoz.pt",
+      "confidence": 93,
+      "flags": [
+        "spf_softfail",
+        "mx_spf_match",
+        "provider_classified",
+        "autodiscover_confirms"
+      ]
+    },
+    "0905": {
+      "name": "Fornos de Algodres",
+      "provider": "microsoft",
+      "domain": "cm-fornosdealgodres.pt",
+      "confidence": 95,
+      "flags": [
+        "spf_strict",
+        "mx_spf_match",
+        "provider_classified",
+        "autodiscover_confirms"
+      ]
+    },
+    "1505": {
+      "name": "Grândola",
+      "provider": "us-other",
+      "domain": "cm-grandola.pt",
+      "confidence": 90,
+      "flags": [
+        "multiple_mx",
+        "mx_spf_match",
+        "provider_classified"
+      ]
+    },
+    "0505": {
+      "name": "Idanha-a-Nova",
+      "provider": "microsoft",
+      "domain": "cm-idanhanova.pt",
+      "confidence": 95,
+      "flags": [
+        "spf_strict",
+        "mx_spf_match",
+        "provider_classified",
+        "autodiscover_confirms"
+      ]
+    },
+    "1805": {
+      "name": "Lamego",
+      "provider": "google",
+      "domain": "cm-lamego.pt",
+      "confidence": 93,
+      "flags": [
+        "multiple_mx",
+        "spf_softfail",
+        "mx_spf_match",
+        "provider_classified"
+      ]
+    },
+    "1305": {
+      "name": "Lousada",
+      "provider": "microsoft",
+      "domain": "cm-lousada.pt",
+      "confidence": 95,
+      "flags": [
+        "spf_strict",
+        "mx_spf_match",
+        "provider_classified",
+        "autodiscover_confirms"
+      ]
+    },
+    "0405": {
+      "name": "Macedo de Cavaleiros",
+      "provider": "google",
+      "domain": "cm-macedodecavaleiros.pt",
+      "confidence": 93,
+      "flags": [
+        "multiple_mx",
+        "spf_softfail",
+        "mx_spf_match",
+        "provider_classified"
+      ]
+    },
+    "1705": {
+      "name": "Mondim de Basto",
+      "provider": "aws",
+      "domain": "mondimdebasto.pt",
+      "confidence": 88,
+      "flags": [
+        "spf_softfail",
+        "mx_spf_match",
+        "provider_classified"
+      ]
+    },
+    "1605": {
+      "name": "Paredes de Coura",
+      "provider": "microsoft",
+      "domain": "paredesdecoura.pt",
+      "confidence": 95,
+      "flags": [
+        "spf_strict",
+        "mx_spf_match",
+        "provider_classified",
+        "autodiscover_confirms"
+      ]
+    },
+    "3105": {
+      "name": "Ponta do Sol",
+      "provider": "independent",
+      "domain": "cm-pontadosol.pt",
+      "confidence": 95,
+      "flags": [
+        "multiple_mx",
+        "spf_strict",
+        "mx_spf_match",
+        "provider_classified"
+      ]
+    },
+    "4205": {
+      "name": "Ribeira Grande",
+      "provider": "us-other",
+      "domain": "cm-ribeiragrande.pt",
+      "confidence": 75,
+      "flags": [
+        "multiple_mx",
+        "spf_strict",
+        "provider_classified"
+      ]
+    },
+    "0705": {
+      "name": "Évora",
+      "provider": "independent",
+      "domain": "cm-evora.pt",
+      "confidence": 93,
+      "flags": [
+        "multiple_mx",
+        "spf_softfail",
+        "mx_spf_match",
+        "provider_classified"
+      ]
+    },
+    "1006": {
+      "name": "Caldas da Rainha",
+      "provider": "independent",
+      "domain": "mcr.pt",
+      "confidence": 88,
+      "flags": [
+        "spf_softfail",
+        "mx_spf_match",
+        "provider_classified"
+      ]
+    },
+    "1406": {
+      "name": "Cartaxo",
+      "provider": "microsoft",
+      "domain": "cm-cartaxo.pt",
+      "confidence": 95,
+      "flags": [
+        "spf_strict",
+        "mx_spf_match",
+        "provider_classified",
+        "autodiscover_confirms"
+      ]
+    },
+    "0106": {
+      "name": "Castelo de Paiva",
+      "provider": "microsoft",
+      "domain": "cm-castelo-paiva.pt",
+      "confidence": 85,
+      "flags": [
+        "spf_strict",
+        "independent_mx_with_cloud_spf",
+        "provider_classified",
+        "autodiscover_confirms"
+      ]
+    },
+    "0206": {
+      "name": "Castro Verde",
+      "provider": "us-other",
+      "domain": "cm-castroverde.pt",
+      "confidence": 90,
+      "flags": [
+        "multiple_mx",
+        "mx_spf_match",
+        "provider_classified"
+      ]
+    },
+    "1206": {
+      "name": "Crato",
+      "provider": "independent",
+      "domain": "cm-crato.pt",
+      "confidence": 90,
+      "flags": [
+        "spf_strict",
+        "mx_spf_match",
+        "provider_classified"
+      ]
+    },
+    "0306": {
+      "name": "Esposende",
+      "provider": "microsoft",
+      "domain": "cm-esposende.pt",
+      "confidence": 95,
+      "flags": [
+        "spf_strict",
+        "mx_spf_match",
+        "provider_classified",
+        "autodiscover_confirms"
+      ]
+    },
+    "0906": {
+      "name": "Gouveia",
+      "provider": "us-other",
+      "domain": "cm-gouveia.pt",
+      "confidence": 95,
+      "flags": [
+        "multiple_mx",
+        "spf_strict",
+        "mx_spf_match",
+        "provider_classified",
+        "provider_via_gateway_spf"
+      ]
+    },
+    "0606": {
+      "name": "Góis",
+      "provider": "pt-isp",
+      "domain": "cm-gois.pt",
+      "confidence": 90,
+      "flags": [
+        "multiple_mx",
+        "mx_spf_match",
+        "provider_classified"
+      ]
+    },
+    "0806": {
+      "name": "Lagoa (Algarve)",
+      "provider": "microsoft",
+      "domain": "cm-lagoa.pt",
+      "confidence": 88,
+      "flags": [
+        "spf_softfail",
+        "mx_spf_match",
+        "provider_classified"
+      ]
+    },
+    "1106": {
+      "name": "Lisboa",
+      "provider": "microsoft",
+      "domain": "cm-lisboa.pt",
+      "confidence": 93,
+      "flags": [
+        "spf_softfail",
+        "mx_spf_match",
+        "provider_classified",
+        "autodiscover_confirms"
+      ]
+    },
+    "1306": {
+      "name": "Maia",
+      "provider": "microsoft",
+      "domain": "cm-maia.pt",
+      "confidence": 85,
+      "flags": [
+        "spf_strict",
+        "independent_mx_with_cloud_spf",
+        "provider_classified",
+        "autodiscover_confirms"
+      ]
+    },
+    "1806": {
+      "name": "Mangualde",
+      "provider": "microsoft",
+      "domain": "cmmangualde.pt",
+      "confidence": 95,
+      "flags": [
+        "spf_strict",
+        "mx_spf_match",
+        "provider_classified",
+        "autodiscover_confirms"
+      ]
+    },
+    "0406": {
+      "name": "Miranda do Douro",
+      "provider": "google",
+      "domain": "cm-mdouro.pt",
+      "confidence": 93,
+      "flags": [
+        "multiple_mx",
+        "spf_softfail",
+        "mx_spf_match",
+        "provider_classified"
+      ]
+    },
+    "1506": {
+      "name": "Moita",
+      "provider": "microsoft",
+      "domain": "cm-moita.pt",
+      "confidence": 95,
+      "flags": [
+        "spf_strict",
+        "mx_spf_match",
+        "provider_classified",
+        "autodiscover_confirms"
+      ]
+    },
+    "1706": {
+      "name": "Montalegre",
+      "provider": "microsoft",
+      "domain": "cm-montalegre.pt",
+      "confidence": 95,
+      "flags": [
+        "spf_strict",
+        "mx_spf_match",
+        "provider_classified",
+        "autodiscover_confirms"
+      ]
+    },
+    "0706": {
+      "name": "Montemor-o-Novo",
+      "provider": "independent",
+      "domain": "cm-montemornovo.pt",
+      "confidence": 95,
+      "flags": [
+        "multiple_mx",
+        "spf_strict",
+        "mx_spf_match",
+        "provider_classified"
+      ]
+    },
+    "0506": {
+      "name": "Oleiros",
+      "provider": "pt-isp",
+      "domain": "cm-oleiros.pt",
+      "confidence": 93,
+      "flags": [
+        "multiple_mx",
+        "spf_softfail",
+        "mx_spf_match",
+        "provider_classified"
+      ]
+    },
+    "1606": {
+      "name": "Ponte da Barca",
+      "provider": "us-other",
+      "domain": "cmpb.pt",
+      "confidence": 75,
+      "flags": [
+        "multiple_mx",
+        "spf_strict",
+        "provider_classified"
+      ]
+    },
+    "3106": {
+      "name": "Porto Moniz",
+      "provider": "microsoft",
+      "domain": "portomoniz.pt",
+      "confidence": 95,
+      "flags": [
+        "spf_strict",
+        "mx_spf_match",
+        "provider_classified",
+        "autodiscover_confirms"
+      ]
+    },
+    "4206": {
+      "name": "Vila Franca do Campo",
+      "provider": "microsoft",
+      "domain": "cmvfc.pt",
+      "confidence": 95,
+      "flags": [
+        "spf_strict",
+        "mx_spf_match",
+        "provider_classified",
+        "autodiscover_confirms"
+      ]
+    },
+    "1007": {
+      "name": "Castanheira de Pera",
+      "provider": "pt-isp",
+      "domain": "cm-castanheiradepera.pt",
+      "confidence": 90,
+      "flags": [
+        "multiple_mx",
+        "mx_spf_match",
+        "provider_classified"
+      ]
+    },
+    "1407": {
+      "name": "Chamusca",
+      "provider": "microsoft",
+      "domain": "cm-chamusca.pt",
+      "confidence": 95,
+      "flags": [
+        "spf_strict",
+        "mx_spf_match",
+        "provider_classified",
+        "autodiscover_confirms"
+      ]
+    },
+    "0207": {
+      "name": "Cuba",
+      "provider": "independent",
+      "domain": "cm-cuba.pt",
+      "confidence": 93,
+      "flags": [
+        "multiple_mx",
+        "spf_softfail",
+        "mx_spf_match",
+        "provider_classified"
+      ]
+    },
+    "1207": {
+      "name": "Elvas",
+      "provider": "independent",
+      "domain": "cm-elvas.pt",
+      "confidence": 90,
+      "flags": [
+        "spf_strict",
+        "mx_spf_match",
+        "provider_classified"
+      ]
+    },
+    "0107": {
+      "name": "Espinho",
+      "provider": "microsoft",
+      "domain": "cm-espinho.pt",
+      "confidence": 95,
+      "flags": [
+        "spf_strict",
+        "mx_spf_match",
+        "provider_classified",
+        "autodiscover_confirms"
+      ]
+    },
+    "0307": {
+      "name": "Fafe",
+      "provider": "microsoft",
+      "domain": "cm-fafe.pt",
+      "confidence": 95,
+      "flags": [
+        "spf_strict",
+        "mx_spf_match",
+        "provider_classified",
+        "autodiscover_confirms"
+      ]
+    },
+    "0907": {
+      "name": "Guarda",
+      "provider": "microsoft",
+      "domain": "mun-guarda.pt",
+      "confidence": 95,
+      "flags": [
+        "spf_strict",
+        "mx_spf_match",
+        "provider_classified",
+        "autodiscover_confirms"
+      ]
+    },
+    "0807": {
+      "name": "Lagos",
+      "provider": "microsoft",
+      "domain": "cm-lagos.pt",
+      "confidence": 95,
+      "flags": [
+        "spf_strict",
+        "mx_spf_match",
+        "provider_classified",
+        "autodiscover_confirms"
+      ]
+    },
+    "1107": {
+      "name": "Loures",
+      "provider": "microsoft",
+      "domain": "cm-loures.pt",
+      "confidence": 90,
+      "flags": [
+        "spf_strict",
+        "mx_spf_match",
+        "provider_classified"
+      ]
+    },
+    "0607": {
+      "name": "Lousã",
+      "provider": "microsoft",
+      "domain": "cm-lousa.pt",
+      "confidence": 95,
+      "flags": [
+        "spf_strict",
+        "mx_spf_match",
+        "provider_classified",
+        "autodiscover_confirms"
+      ]
+    },
+    "1307": {
+      "name": "Marco de Canaveses",
+      "provider": "us-other",
+      "domain": "cm-marco-canaveses.pt",
+      "confidence": 53,
+      "flags": [
+        "multiple_mx",
+        "spf_softfail",
+        "mx_spf_mismatch",
+        "provider_classified"
+      ]
+    },
+    "0407": {
+      "name": "Mirandela",
+      "provider": "independent",
+      "domain": "cm-mirandela.pt",
+      "confidence": 90,
+      "flags": [
+        "spf_strict",
+        "mx_spf_match",
+        "provider_classified"
+      ]
+    },
+    "1807": {
+      "name": "Moimenta da Beira",
+      "provider": "microsoft",
+      "domain": "cm-moimenta.pt",
+      "confidence": 95,
+      "flags": [
+        "spf_strict",
+        "mx_spf_match",
+        "provider_classified",
+        "autodiscover_confirms"
+      ]
+    },
+    "1507": {
+      "name": "Montijo",
+      "provider": "microsoft",
+      "domain": "mun-montijo.pt",
+      "confidence": 95,
+      "flags": [
+        "spf_strict",
+        "mx_spf_match",
+        "provider_classified",
+        "autodiscover_confirms"
+      ]
+    },
+    "0707": {
+      "name": "Mora",
+      "provider": "independent",
+      "domain": "cm-mora.pt",
+      "confidence": 95,
+      "flags": [
+        "multiple_mx",
+        "spf_strict",
+        "mx_spf_match",
+        "provider_classified"
+      ]
+    },
+    "1707": {
+      "name": "Murça",
+      "provider": "pt-isp",
+      "domain": "cm-murca.pt",
+      "confidence": 90,
+      "flags": [
+        "multiple_mx",
+        "mx_spf_match",
+        "provider_classified"
+      ]
+    },
+    "0507": {
+      "name": "Penamacor",
+      "provider": "microsoft",
+      "domain": "cm-penamacor.pt",
+      "confidence": 95,
+      "flags": [
+        "spf_strict",
+        "mx_spf_match",
+        "provider_classified",
+        "autodiscover_confirms"
+      ]
+    },
+    "1607": {
+      "name": "Ponte de Lima",
+      "provider": "us-other",
+      "domain": "cm-pontedelima.pt",
+      "confidence": 95,
+      "flags": [
+        "multiple_mx",
+        "spf_strict",
+        "mx_spf_match",
+        "provider_classified"
+      ]
+    },
+    "3107": {
+      "name": "Ribeira Brava",
+      "provider": "independent",
+      "domain": "cm-ribeirabrava.pt",
+      "confidence": 90,
+      "flags": [
+        "spf_strict",
+        "mx_spf_match",
+        "provider_classified"
+      ]
+    },
+    "1408": {
+      "name": "Constância",
+      "provider": "us-other",
+      "domain": "cm-constancia.pt",
+      "confidence": 95,
+      "flags": [
+        "multiple_mx",
+        "spf_strict",
+        "mx_spf_match",
+        "provider_classified"
+      ]
+    },
+    "0108": {
+      "name": "Estarreja",
+      "provider": "microsoft",
+      "domain": "cm-estarreja.pt",
+      "confidence": 95,
+      "flags": [
+        "spf_strict",
+        "mx_spf_match",
+        "provider_classified",
+        "autodiscover_confirms"
+      ]
+    },
+    "0208": {
+      "name": "Ferreira do Alentejo",
+      "provider": "independent",
+      "domain": "cm-ferreira-alentejo.pt",
+      "confidence": 95,
+      "flags": [
+        "multiple_mx",
+        "spf_strict",
+        "mx_spf_match",
+        "provider_classified"
+      ]
+    },
+    "1008": {
+      "name": "Figueiró dos Vinhos",
+      "provider": "google",
+      "domain": "cm-figueirodosvinhos.pt",
+      "confidence": 78,
+      "flags": [
+        "spf_softfail",
+        "independent_mx_with_cloud_spf",
+        "provider_classified"
+      ]
+    },
+    "1208": {
+      "name": "Fronteira",
+      "provider": "independent",
+      "domain": "cm-fronteira.pt",
+      "confidence": 90,
+      "flags": [
+        "spf_strict",
+        "mx_spf_match",
+        "provider_classified"
+      ]
+    },
+    "0308": {
+      "name": "Guimarães",
+      "provider": "microsoft",
+      "domain": "cm-guimaraes.pt",
+      "confidence": 95,
+      "flags": [
+        "spf_strict",
+        "mx_spf_match",
+        "provider_classified",
+        "autodiscover_confirms"
+      ]
+    },
+    "0808": {
+      "name": "Loulé",
+      "provider": "microsoft",
+      "domain": "cm-loule.pt",
+      "confidence": 93,
+      "flags": [
+        "multiple_mx",
+        "spf_softfail",
+        "mx_spf_match",
+        "provider_classified"
+      ]
+    },
+    "1108": {
+      "name": "Lourinhã",
+      "provider": "independent",
+      "domain": "cm-lourinha.pt",
+      "confidence": 93,
+      "flags": [
+        "multiple_mx",
+        "spf_softfail",
+        "mx_spf_match",
+        "provider_classified"
+      ]
+    },
+    "0908": {
+      "name": "Manteigas",
+      "provider": "microsoft",
+      "domain": "cm-manteigas.pt",
+      "confidence": 95,
+      "flags": [
+        "spf_strict",
+        "mx_spf_match",
+        "provider_classified",
+        "autodiscover_confirms"
+      ]
+    },
+    "1308": {
+      "name": "Matosinhos",
+      "provider": "microsoft",
+      "domain": "cm-matosinhos.pt",
+      "confidence": 95,
+      "flags": [
+        "spf_strict",
+        "mx_spf_match",
+        "provider_classified",
+        "autodiscover_confirms"
+      ]
+    },
+    "0608": {
+      "name": "Mira",
+      "provider": "pt-isp",
+      "domain": "cm-mira.pt",
+      "confidence": 95,
+      "flags": [
+        "multiple_mx",
+        "spf_strict",
+        "mx_spf_match",
+        "provider_classified"
+      ]
+    },
+    "0408": {
+      "name": "Mogadouro",
+      "provider": "google",
+      "domain": "mogadouro.pt",
+      "confidence": 93,
+      "flags": [
+        "multiple_mx",
+        "spf_softfail",
+        "mx_spf_match",
+        "provider_classified"
+      ]
+    },
+    "1808": {
+      "name": "Mortágua",
+      "provider": "independent",
+      "domain": "cm-mortagua.pt",
+      "confidence": 93,
+      "flags": [
+        "multiple_mx",
+        "spf_softfail",
+        "mx_spf_match",
+        "provider_classified"
+      ]
+    },
+    "0708": {
+      "name": "Mourão",
+      "provider": "independent",
+      "domain": "cm-mourao.pt",
+      "confidence": 95,
+      "flags": [
+        "multiple_mx",
+        "spf_strict",
+        "mx_spf_match",
+        "provider_classified"
+      ]
+    },
+    "1508": {
+      "name": "Palmela",
+      "provider": "microsoft",
+      "domain": "cm-palmela.pt",
+      "confidence": 90,
+      "flags": [
+        "spf_strict",
+        "mx_spf_match",
+        "provider_classified"
+      ]
+    },
+    "1708": {
+      "name": "Peso da Régua",
+      "provider": "microsoft",
+      "domain": "cmpr.pt",
+      "confidence": 95,
+      "flags": [
+        "spf_strict",
+        "mx_spf_match",
+        "provider_classified",
+        "autodiscover_confirms"
+      ]
+    },
+    "0508": {
+      "name": "Proença-a-Nova",
+      "provider": "pt-isp",
+      "domain": "cm-proencanova.pt",
+      "confidence": 95,
+      "flags": [
+        "multiple_mx",
+        "spf_strict",
+        "mx_spf_match",
+        "provider_classified"
+      ]
+    },
+    "3108": {
+      "name": "Santa Cruz",
+      "provider": "microsoft",
+      "domain": "cm-santacruz.pt",
+      "confidence": 95,
+      "flags": [
+        "spf_strict",
+        "mx_spf_match",
+        "provider_classified",
+        "autodiscover_confirms"
+      ]
+    },
+    "1608": {
+      "name": "Valença",
+      "provider": "microsoft",
+      "domain": "cm-valenca.pt",
+      "confidence": 90,
+      "flags": [
+        "multiple_mx",
+        "spf_strict",
+        "independent_mx_with_cloud_spf",
+        "provider_classified",
+        "autodiscover_confirms"
+      ]
+    },
+    "1409": {
+      "name": "Coruche",
+      "provider": "pt-isp",
+      "domain": "cm-coruche.pt",
+      "confidence": 90,
+      "flags": [
+        "multiple_mx",
+        "mx_spf_match",
+        "provider_classified"
+      ]
+    },
+    "1209": {
+      "name": "Gavião",
+      "provider": "independent",
+      "domain": "cm-gaviao.pt",
+      "confidence": 90,
+      "flags": [
+        "spf_strict",
+        "mx_spf_match",
+        "provider_classified"
+      ]
+    },
+    "1009": {
+      "name": "Leiria",
+      "provider": "microsoft",
+      "domain": "cm-leiria.pt",
+      "confidence": 95,
+      "flags": [
+        "spf_strict",
+        "mx_spf_match",
+        "provider_classified",
+        "autodiscover_confirms"
+      ]
+    },
+    "1109": {
+      "name": "Mafra",
+      "provider": "microsoft",
+      "domain": "cm-mafra.pt",
+      "confidence": 85,
+      "flags": [
+        "multiple_mx",
+        "spf_strict",
+        "independent_mx_with_cloud_spf",
+        "provider_classified"
+      ]
+    },
+    "0609": {
+      "name": "Miranda do Corvo",
+      "provider": "pt-isp",
+      "domain": "cm-mirandadocorvo.pt",
+      "confidence": 95,
+      "flags": [
+        "multiple_mx",
+        "spf_strict",
+        "mx_spf_match",
+        "provider_classified"
+      ]
+    },
+    "0809": {
+      "name": "Monchique",
+      "provider": "microsoft",
+      "domain": "cm-monchique.pt",
+      "confidence": 93,
+      "flags": [
+        "spf_softfail",
+        "mx_spf_match",
+        "provider_classified",
+        "autodiscover_confirms"
+      ]
+    },
+    "0209": {
+      "name": "Mértola",
+      "provider": "microsoft",
+      "domain": "cm-mertola.pt",
+      "confidence": 85,
+      "flags": [
+        "multiple_mx",
+        "spf_strict",
+        "mx_spf_match",
+        "multi_provider_spf:microsoft+us-other",
+        "provider_classified"
+      ]
+    },
+    "0909": {
+      "name": "Mêda",
+      "provider": "eu-isp",
+      "domain": "cm-meda.pt",
+      "confidence": 93,
+      "flags": [
+        "multiple_mx",
+        "spf_softfail",
+        "mx_spf_match",
+        "provider_classified"
+      ]
+    },
+    "1809": {
+      "name": "Nelas",
+      "provider": "microsoft",
+      "domain": "cm-nelas.pt",
+      "confidence": 95,
+      "flags": [
+        "multiple_mx",
+        "spf_strict",
+        "mx_spf_match",
+        "provider_classified",
+        "provider_via_gateway_spf"
+      ]
+    },
+    "1309": {
+      "name": "Paços de Ferreira",
+      "provider": "microsoft",
+      "domain": "cm-pacosdeferreira.pt",
+      "confidence": 85,
+      "flags": [
+        "spf_strict",
+        "independent_mx_with_cloud_spf",
+        "provider_classified",
+        "autodiscover_confirms"
+      ]
+    },
+    "0709": {
+      "name": "Portel",
+      "provider": "independent",
+      "domain": "cm-portel.pt",
+      "confidence": 88,
+      "flags": [
+        "spf_softfail",
+        "mx_spf_match",
+        "provider_classified"
+      ]
+    },
+    "0309": {
+      "name": "Póvoa de Lanhoso",
+      "provider": "us-other",
+      "domain": "mun-planhoso.pt",
+      "confidence": 93,
+      "flags": [
+        "multiple_mx",
+        "spf_softfail",
+        "mx_spf_match",
+        "provider_classified"
+      ]
+    },
+    "1709": {
+      "name": "Ribeira de Pena",
+      "provider": "microsoft",
+      "domain": "cm-rpena.pt",
+      "confidence": 93,
+      "flags": [
+        "multiple_mx",
+        "spf_softfail",
+        "mx_spf_match",
+        "provider_classified",
+        "provider_via_gateway_spf"
+      ]
+    },
+    "0109": {
+      "name": "Santa Maria da Feira",
+      "provider": "microsoft",
+      "domain": "cm-feira.pt",
+      "confidence": 80,
+      "flags": [
+        "spf_strict",
+        "independent_mx_with_cloud_spf",
+        "provider_classified"
+      ]
+    },
+    "3109": {
+      "name": "Santana",
+      "provider": "independent",
+      "domain": "cm-santana.com",
+      "confidence": 88,
+      "flags": [
+        "spf_softfail",
+        "mx_spf_match",
+        "provider_classified"
+      ]
+    },
+    "1509": {
+      "name": "Santiago do Cacém",
+      "provider": "independent",
+      "domain": "cm-santiagocacem.pt",
+      "confidence": 88,
+      "flags": [
+        "spf_softfail",
+        "mx_spf_match",
+        "provider_classified"
+      ]
+    },
+    "0509": {
+      "name": "Sertã",
+      "provider": "pt-isp",
+      "domain": "cm-serta.pt",
+      "confidence": 90,
+      "flags": [
+        "multiple_mx",
+        "mx_spf_match",
+        "provider_classified"
+      ]
+    },
+    "0409": {
+      "name": "Torre de Moncorvo",
+      "provider": "google",
+      "domain": "torredemoncorvo.pt",
+      "confidence": 78,
+      "flags": [
+        "spf_softfail",
+        "mx_spf_match",
+        "multi_provider_spf:google+us-other",
+        "provider_classified"
+      ]
+    },
+    "1609": {
+      "name": "Viana do Castelo",
+      "provider": "microsoft",
+      "domain": "cm-viana-castelo.pt",
+      "confidence": 95,
+      "flags": [
+        "spf_strict",
+        "mx_spf_match",
+        "provider_classified",
+        "autodiscover_confirms"
+      ]
+    },
+    "1410": {
+      "name": "Entroncamento",
+      "provider": "microsoft",
+      "domain": "cm-entroncamento.pt",
+      "confidence": 93,
+      "flags": [
+        "spf_softfail",
+        "mx_spf_match",
+        "provider_classified",
+        "autodiscover_confirms"
+      ]
+    },
+    "1010": {
+      "name": "Marinha Grande",
+      "provider": "microsoft",
+      "domain": "cm-mgrande.pt",
+      "confidence": 95,
+      "flags": [
+        "spf_strict",
+        "mx_spf_match",
+        "provider_classified",
+        "autodiscover_confirms"
+      ]
+    },
+    "1210": {
+      "name": "Marvão",
+      "provider": "independent",
+      "domain": "cm-marvao.pt",
+      "confidence": 90,
+      "flags": [
+        "spf_strict",
+        "mx_spf_match",
+        "provider_classified"
+      ]
+    },
+    "0610": {
+      "name": "Montemor-o-Velho",
+      "provider": "independent",
+      "domain": "cm-montemorvelho.pt",
+      "confidence": 95,
+      "flags": [
+        "multiple_mx",
+        "spf_strict",
+        "mx_spf_match",
+        "provider_classified"
+      ]
+    },
+    "0210": {
+      "name": "Moura",
+      "provider": "pt-isp",
+      "domain": "cm-moura.pt",
+      "confidence": 95,
+      "flags": [
+        "multiple_mx",
+        "spf_strict",
+        "mx_spf_match",
+        "provider_classified"
+      ]
+    },
+    "1110": {
+      "name": "Oeiras",
+      "provider": "microsoft",
+      "domain": "cm-oeiras.pt",
+      "confidence": 85,
+      "flags": [
+        "multiple_mx",
+        "spf_strict",
+        "independent_mx_with_cloud_spf",
+        "provider_classified"
+      ]
+    },
+    "0810": {
+      "name": "Olhão",
+      "provider": "independent",
+      "domain": "cm-olhao.pt",
+      "confidence": 90,
+      "flags": [
+        "spf_strict",
+        "mx_spf_match",
+        "provider_classified"
+      ]
+    },
+    "1810": {
+      "name": "Oliveira de Frades",
+      "provider": "microsoft",
+      "domain": "cm-ofrades.pt",
+      "confidence": 95,
+      "flags": [
+        "spf_strict",
+        "mx_spf_match",
+        "provider_classified",
+        "autodiscover_confirms"
+      ]
+    },
+    "1310": {
+      "name": "Paredes",
+      "provider": "independent",
+      "domain": "cm-paredes.pt",
+      "confidence": 90,
+      "flags": [
+        "spf_strict",
+        "mx_spf_match",
+        "provider_classified"
+      ]
+    },
+    "0910": {
+      "name": "Pinhel",
+      "provider": "microsoft",
+      "domain": "cm-pinhel.pt",
+      "confidence": 95,
+      "flags": [
+        "spf_strict",
+        "mx_spf_match",
+        "provider_classified",
+        "autodiscover_confirms"
+      ]
+    },
+    "0710": {
+      "name": "Redondo",
+      "provider": "independent",
+      "domain": "cm-redondo.pt",
+      "confidence": 95,
+      "flags": [
+        "multiple_mx",
+        "spf_strict",
+        "mx_spf_match",
+        "provider_classified"
+      ]
+    },
+    "1710": {
+      "name": "Sabrosa",
+      "provider": "aws",
+      "domain": "cm-sabrosa.pt",
+      "confidence": 88,
+      "flags": [
+        "spf_softfail",
+        "mx_spf_match",
+        "provider_classified"
+      ]
+    },
+    "1510": {
+      "name": "Seixal",
+      "provider": "microsoft",
+      "domain": "cm-seixal.pt",
+      "confidence": 85,
+      "flags": [
+        "multiple_mx",
+        "spf_strict",
+        "independent_mx_with_cloud_spf",
+        "provider_classified"
+      ]
+    },
+    "3110": {
+      "name": "São Vicente",
+      "provider": "microsoft",
+      "domain": "cm-saovicente.pt",
+      "confidence": 95,
+      "flags": [
+        "spf_strict",
+        "mx_spf_match",
+        "provider_classified",
+        "autodiscover_confirms"
+      ]
+    },
+    "0310": {
+      "name": "Terras de Bouro",
+      "provider": "pt-isp",
+      "domain": "cm-terrasdebouro.pt",
+      "confidence": 95,
+      "flags": [
+        "multiple_mx",
+        "spf_strict",
+        "mx_spf_match",
+        "provider_classified"
+      ]
+    },
+    "0510": {
+      "name": "Vila de Rei",
+      "provider": "microsoft",
+      "domain": "cm-viladerei.pt",
+      "confidence": 90,
+      "flags": [
+        "spf_strict",
+        "mx_spf_match",
+        "provider_classified"
+      ]
+    },
+    "0410": {
+      "name": "Vila Flor",
+      "provider": "pt-isp",
+      "domain": "cm-vilaflor.pt",
+      "confidence": 90,
+      "flags": [
+        "multiple_mx",
+        "mx_spf_match",
+        "provider_classified"
+      ]
+    },
+    "1610": {
+      "name": "Vila Nova de Cerveira",
+      "provider": "microsoft",
+      "domain": "cm-vncerveira.pt",
+      "confidence": 95,
+      "flags": [
+        "spf_strict",
+        "mx_spf_match",
+        "provider_classified",
+        "autodiscover_confirms"
+      ]
+    },
+    "0110": {
+      "name": "Ílhavo",
+      "provider": "microsoft",
+      "domain": "cm-ilhavo.pt",
+      "confidence": 93,
+      "flags": [
+        "spf_softfail",
+        "mx_spf_match",
+        "provider_classified",
+        "autodiscover_confirms"
+      ]
+    },
+    "1411": {
+      "name": "Ferreira do Zêzere",
+      "provider": "independent",
+      "domain": "cm-ferreiradozezere.pt",
+      "confidence": 90,
+      "flags": [
+        "spf_strict",
+        "mx_spf_match",
+        "provider_classified"
+      ]
+    },
+    "0111": {
+      "name": "Mealhada",
+      "provider": "pt-isp",
+      "domain": "cm-mealhada.pt",
+      "confidence": 90,
+      "flags": [
+        "multiple_mx",
+        "mx_spf_match",
+        "provider_classified"
+      ]
+    },
+    "1211": {
+      "name": "Monforte",
+      "provider": "independent",
+      "domain": "cm-monforte.pt",
+      "confidence": 90,
+      "flags": [
+        "spf_strict",
+        "mx_spf_match",
+        "provider_classified"
+      ]
+    },
+    "1011": {
+      "name": "Nazaré",
+      "provider": "microsoft",
+      "domain": "cm-nazare.pt",
+      "confidence": 93,
+      "flags": [
+        "spf_softfail",
+        "mx_spf_match",
+        "provider_classified",
+        "autodiscover_confirms"
+      ]
+    },
+    "0211": {
+      "name": "Odemira",
+      "provider": "us-other",
+      "domain": "cm-odemira.pt",
+      "confidence": 95,
+      "flags": [
+        "multiple_mx",
+        "spf_strict",
+        "mx_spf_match",
+        "provider_classified"
+      ]
+    },
+    "0611": {
+      "name": "Oliveira do Hospital",
+      "provider": "google",
+      "domain": "cm-oliveiradohospital.pt",
+      "confidence": 83,
+      "flags": [
+        "multiple_mx",
+        "spf_softfail",
+        "independent_mx_with_cloud_spf",
+        "provider_classified"
+      ]
+    },
+    "1311": {
+      "name": "Penafiel",
+      "provider": "independent",
+      "domain": "cm-penafiel.pt",
+      "confidence": 90,
+      "flags": [
+        "spf_strict",
+        "mx_spf_match",
+        "provider_classified"
+      ]
+    },
+    "1811": {
+      "name": "Penalva do Castelo",
+      "provider": "google",
+      "domain": "cm-penalvadocastelo.pt",
+      "confidence": 85,
+      "flags": [
+        "multiple_mx",
+        "spf_strict",
+        "independent_mx_with_cloud_spf",
+        "provider_classified"
+      ]
+    },
+    "0811": {
+      "name": "Portimão",
+      "provider": "microsoft",
+      "domain": "cm-portimao.pt",
+      "confidence": 95,
+      "flags": [
+        "spf_strict",
+        "mx_spf_match",
+        "provider_classified",
+        "autodiscover_confirms"
+      ]
+    },
+    "0711": {
+      "name": "Reguengos de Monsaraz",
+      "provider": "independent",
+      "domain": "cm-reguengos-monsaraz.pt",
+      "confidence": 95,
+      "flags": [
+        "multiple_mx",
+        "spf_strict",
+        "mx_spf_match",
+        "provider_classified"
+      ]
+    },
+    "0911": {
+      "name": "Sabugal",
+      "provider": "microsoft",
+      "domain": "cm-sabugal.pt",
+      "confidence": 95,
+      "flags": [
+        "spf_strict",
+        "mx_spf_match",
+        "provider_classified",
+        "autodiscover_confirms"
+      ]
+    },
+    "1711": {
+      "name": "Santa Marta de Penaguião",
+      "provider": "google",
+      "domain": "cm-smpenaguiao.pt",
+      "confidence": 93,
+      "flags": [
+        "multiple_mx",
+        "spf_softfail",
+        "mx_spf_match",
+        "provider_classified"
+      ]
+    },
+    "1511": {
+      "name": "Sesimbra",
+      "provider": "microsoft",
+      "domain": "sesimbra.pt",
+      "confidence": 95,
+      "flags": [
+        "spf_strict",
+        "mx_spf_match",
+        "provider_classified",
+        "autodiscover_confirms"
+      ]
+    },
+    "1111": {
+      "name": "Sintra",
+      "provider": "microsoft",
+      "domain": "cm-sintra.pt",
+      "confidence": 95,
+      "flags": [
+        "spf_strict",
+        "mx_spf_match",
+        "provider_classified",
+        "autodiscover_confirms"
+      ]
+    },
+    "0311": {
+      "name": "Vieira do Minho",
+      "provider": "pt-isp",
+      "domain": "cm-vminho.pt",
+      "confidence": 95,
+      "flags": [
+        "multiple_mx",
+        "spf_strict",
+        "mx_spf_match",
+        "provider_classified"
+      ]
+    },
+    "0511": {
+      "name": "Vila Velha de Ródão",
+      "provider": "pt-isp",
+      "domain": "cm-vvrodao.pt",
+      "confidence": 95,
+      "flags": [
+        "multiple_mx",
+        "spf_strict",
+        "mx_spf_match",
+        "provider_classified"
+      ]
+    },
+    "0411": {
+      "name": "Vimioso",
+      "provider": "google",
+      "domain": "cm-vimioso.pt",
+      "confidence": 93,
+      "flags": [
+        "multiple_mx",
+        "spf_softfail",
+        "mx_spf_match",
+        "provider_classified",
+        "provider_via_gateway_spf"
+      ]
+    },
+    "1412": {
+      "name": "Golegã",
+      "provider": "pt-isp",
+      "domain": "cm-golega.pt",
+      "confidence": 95,
+      "flags": [
+        "multiple_mx",
+        "spf_strict",
+        "mx_spf_match",
+        "provider_classified"
+      ]
+    },
+    "0112": {
+      "name": "Murtosa",
+      "provider": "pt-isp",
+      "domain": "cm-murtosa.pt",
+      "confidence": 95,
+      "flags": [
+        "multiple_mx",
+        "spf_strict",
+        "mx_spf_match",
+        "provider_classified"
+      ]
+    },
+    "1212": {
+      "name": "Nisa",
+      "provider": "independent",
+      "domain": "cm-nisa.pt",
+      "confidence": 88,
+      "flags": [
+        "spf_softfail",
+        "mx_spf_match",
+        "provider_classified"
+      ]
+    },
+    "0212": {
+      "name": "Ourique",
+      "provider": "us-other",
+      "domain": "cm-ourique.pt",
+      "confidence": 73,
+      "flags": [
+        "multiple_mx",
+        "spf_softfail",
+        "provider_classified"
+      ]
+    },
+    "0612": {
+      "name": "Pampilhosa da Serra",
+      "provider": "pt-isp",
+      "domain": "cm-pampilhosadaserra.pt",
+      "confidence": 90,
+      "flags": [
+        "multiple_mx",
+        "mx_spf_match",
+        "provider_classified"
+      ]
+    },
+    "1812": {
+      "name": "Penedono",
+      "provider": "us-other",
+      "domain": "cm-penedono.pt",
+      "confidence": 88,
+      "flags": [
+        "spf_softfail",
+        "mx_spf_match",
+        "provider_classified",
+        "provider_via_gateway_spf"
+      ]
+    },
+    "1312": {
+      "name": "Porto",
+      "provider": "microsoft",
+      "domain": "cm-porto.pt",
+      "confidence": 90,
+      "flags": [
+        "spf_strict",
+        "mx_spf_match",
+        "provider_classified"
+      ]
+    },
+    "0912": {
+      "name": "Seia",
+      "provider": "microsoft",
+      "domain": "cm-seia.pt",
+      "confidence": 75,
+      "flags": [
+        "multiple_mx",
+        "spf_strict",
+        "independent_mx_with_cloud_spf",
+        "multi_provider_spf:google+microsoft",
+        "provider_classified"
+      ]
+    },
+    "1512": {
+      "name": "Setúbal",
+      "provider": "microsoft",
+      "domain": "mun-setubal.pt",
+      "confidence": 95,
+      "flags": [
+        "spf_strict",
+        "mx_spf_match",
+        "provider_classified",
+        "autodiscover_confirms"
+      ]
+    },
+    "1112": {
+      "name": "Sobral de Monte Agraço",
+      "provider": "pt-isp",
+      "domain": "cm-sobral.pt",
+      "confidence": 90,
+      "flags": [
+        "multiple_mx",
+        "mx_spf_match",
+        "provider_classified"
+      ]
+    },
+    "0812": {
+      "name": "São Brás de Alportel",
+      "provider": "us-other",
+      "domain": "cm-sbras.pt",
+      "confidence": 93,
+      "flags": [
+        "multiple_mx",
+        "spf_softfail",
+        "mx_spf_match",
+        "provider_classified"
+      ]
+    },
+    "1712": {
+      "name": "Valpaços",
+      "provider": "google",
+      "domain": "valpacos.pt",
+      "confidence": 88,
+      "flags": [
+        "spf_softfail",
+        "mx_spf_match",
+        "provider_classified"
+      ]
+    },
+    "0712": {
+      "name": "Vendas Novas",
+      "provider": "independent",
+      "domain": "cm-vendasnovas.pt",
+      "confidence": 95,
+      "flags": [
+        "multiple_mx",
+        "spf_strict",
+        "mx_spf_match",
+        "provider_classified"
+      ]
+    },
+    "0312": {
+      "name": "Vila Nova de Famalicão",
+      "provider": "microsoft",
+      "domain": "famalicao.pt",
+      "confidence": 95,
+      "flags": [
+        "spf_strict",
+        "mx_spf_match",
+        "provider_classified",
+        "autodiscover_confirms"
+      ]
+    },
+    "0412": {
+      "name": "Vinhais",
+      "provider": "google",
+      "domain": "cm-vinhais.pt",
+      "confidence": 93,
+      "flags": [
+        "multiple_mx",
+        "spf_softfail",
+        "mx_spf_match",
+        "provider_classified"
+      ]
+    },
+    "1012": {
+      "name": "Óbidos",
+      "provider": "microsoft",
+      "domain": "cm-obidos.pt",
+      "confidence": 83,
+      "flags": [
+        "spf_softfail",
+        "independent_mx_with_cloud_spf",
+        "provider_classified",
+        "autodiscover_confirms"
+      ]
+    },
+    "1413": {
+      "name": "Mação",
+      "provider": "independent",
+      "domain": "cm-macao.pt",
+      "confidence": 95,
+      "flags": [
+        "multiple_mx",
+        "spf_strict",
+        "mx_spf_match",
+        "provider_classified"
+      ]
+    },
+    "0113": {
+      "name": "Oliveira de Azeméis",
+      "provider": "microsoft",
+      "domain": "cm-oaz.pt",
+      "confidence": 93,
+      "flags": [
+        "spf_softfail",
+        "mx_spf_match",
+        "provider_classified",
+        "autodiscover_confirms"
+      ]
+    },
+    "1013": {
+      "name": "Pedrógão Grande",
+      "provider": "microsoft",
+      "domain": "cm-pedrogaogrande.pt",
+      "confidence": 95,
+      "flags": [
+        "spf_strict",
+        "mx_spf_match",
+        "provider_classified",
+        "autodiscover_confirms"
+      ]
+    },
+    "0613": {
+      "name": "Penacova",
+      "provider": "pt-isp",
+      "domain": "cm-penacova.pt",
+      "confidence": 90,
+      "flags": [
+        "multiple_mx",
+        "mx_spf_match",
+        "provider_classified"
+      ]
+    },
+    "1213": {
+      "name": "Ponte de Sor",
+      "provider": "independent",
+      "domain": "cm-pontedesor.pt",
+      "confidence": 90,
+      "flags": [
+        "spf_strict",
+        "mx_spf_match",
+        "provider_classified"
+      ]
+    },
+    "1313": {
+      "name": "Póvoa de Varzim",
+      "provider": "microsoft",
+      "domain": "cm-pvarzim.pt",
+      "confidence": 95,
+      "flags": [
+        "spf_strict",
+        "mx_spf_match",
+        "provider_classified",
+        "autodiscover_confirms"
+      ]
+    },
+    "1813": {
+      "name": "Resende",
+      "provider": "independent",
+      "domain": "cm-resende.pt",
+      "confidence": 90,
+      "flags": [
+        "spf_strict",
+        "mx_spf_match",
+        "provider_classified"
+      ]
+    },
+    "0213": {
+      "name": "Serpa",
+      "provider": "pt-isp",
+      "domain": "cm-serpa.pt",
+      "confidence": 90,
+      "flags": [
+        "multiple_mx",
+        "mx_spf_match",
+        "provider_classified"
+      ]
+    },
+    "0813": {
+      "name": "Silves",
+      "provider": "aws",
+      "domain": "cm-silves.pt",
+      "confidence": 80,
+      "flags": [
+        "spf_strict",
+        "independent_mx_with_cloud_spf",
+        "provider_classified"
+      ]
+    },
+    "1513": {
+      "name": "Sines",
+      "provider": "microsoft",
+      "domain": "mun-sines.pt",
+      "confidence": 95,
+      "flags": [
+        "spf_strict",
+        "mx_spf_match",
+        "provider_classified",
+        "autodiscover_confirms"
+      ]
+    },
+    "1113": {
+      "name": "Torres Vedras",
+      "provider": "microsoft",
+      "domain": "cm-tvedras.pt",
+      "confidence": 90,
+      "flags": [
+        "spf_strict",
+        "mx_spf_match",
+        "provider_classified"
+      ]
+    },
+    "0913": {
+      "name": "Trancoso",
+      "provider": "independent",
+      "domain": "cm-trancoso.pt",
+      "confidence": 90,
+      "flags": [
+        "spf_strict",
+        "mx_spf_match",
+        "provider_classified"
+      ]
+    },
+    "0713": {
+      "name": "Viana do Alentejo",
+      "provider": "independent",
+      "domain": "cm-vianadoalentejo.pt",
+      "confidence": 95,
+      "flags": [
+        "multiple_mx",
+        "spf_strict",
+        "mx_spf_match",
+        "provider_classified"
+      ]
+    },
+    "1713": {
+      "name": "Vila Pouca de Aguiar",
+      "provider": "microsoft",
+      "domain": "cm-vpaguiar.pt",
+      "confidence": 95,
+      "flags": [
+        "spf_strict",
+        "mx_spf_match",
+        "provider_classified",
+        "autodiscover_confirms"
+      ]
+    },
+    "0313": {
+      "name": "Vila Verde",
+      "provider": "microsoft",
+      "domain": "cm-vilaverde.pt",
+      "confidence": 95,
+      "flags": [
+        "spf_strict",
+        "mx_spf_match",
+        "provider_classified",
+        "autodiscover_confirms"
+      ]
+    },
+    "0114": {
+      "name": "Oliveira do Bairro",
+      "provider": "microsoft",
+      "domain": "cm-olb.pt",
+      "confidence": 95,
+      "flags": [
+        "spf_strict",
+        "mx_spf_match",
+        "provider_classified",
+        "autodiscover_confirms"
+      ]
+    },
+    "0614": {
+      "name": "Penela",
+      "provider": "pt-isp",
+      "domain": "cm-penela.pt",
+      "confidence": 90,
+      "flags": [
+        "multiple_mx",
+        "mx_spf_match",
+        "provider_classified"
+      ]
+    },
+    "1014": {
+      "name": "Peniche",
+      "provider": "microsoft",
+      "domain": "cm-peniche.pt",
+      "confidence": 95,
+      "flags": [
+        "spf_strict",
+        "mx_spf_match",
+        "provider_classified",
+        "autodiscover_confirms"
+      ]
+    },
+    "1214": {
+      "name": "Portalegre",
+      "provider": "independent",
+      "domain": "cm-portalegre.pt",
+      "confidence": 85,
+      "flags": [
+        "mx_spf_match",
+        "provider_classified"
+      ]
+    },
+    "1414": {
+      "name": "Rio Maior",
+      "provider": "microsoft",
+      "domain": "cm-riomaior.pt",
+      "confidence": 78,
+      "flags": [
+        "spf_softfail",
+        "independent_mx_with_cloud_spf",
+        "provider_classified"
+      ]
+    },
+    "1814": {
+      "name": "Santa Comba Dão",
+      "provider": "microsoft",
+      "domain": "cm-santacombadao.pt",
+      "confidence": 95,
+      "flags": [
+        "spf_strict",
+        "mx_spf_match",
+        "provider_classified",
+        "autodiscover_confirms"
+      ]
+    },
+    "1314": {
+      "name": "Santo Tirso",
+      "provider": "microsoft",
+      "domain": "cm-stirso.pt",
+      "confidence": 95,
+      "flags": [
+        "spf_strict",
+        "mx_spf_match",
+        "provider_classified",
+        "autodiscover_confirms"
+      ]
+    },
+    "0814": {
+      "name": "Tavira",
+      "provider": "microsoft",
+      "domain": "cm-tavira.pt",
+      "confidence": 95,
+      "flags": [
+        "spf_strict",
+        "mx_spf_match",
+        "provider_classified",
+        "autodiscover_confirms"
+      ]
+    },
+    "0214": {
+      "name": "Vidigueira",
+      "provider": "us-other",
+      "domain": "cm-vidigueira.pt",
+      "confidence": 73,
+      "flags": [
+        "multiple_mx",
+        "spf_softfail",
+        "provider_classified"
+      ]
+    },
+    "1114": {
+      "name": "Vila Franca de Xira",
+      "provider": "microsoft",
+      "domain": "cm-vfxira.pt",
+      "confidence": 90,
+      "flags": [
+        "spf_strict",
+        "mx_spf_match",
+        "provider_classified"
+      ]
+    },
+    "0914": {
+      "name": "Vila Nova de Foz Côa",
+      "provider": "independent",
+      "domain": "cm-fozcoa.pt",
+      "confidence": 88,
+      "flags": [
+        "spf_softfail",
+        "mx_spf_match",
+        "provider_classified"
+      ]
+    },
+    "1714": {
+      "name": "Vila Real",
+      "provider": "microsoft",
+      "domain": "cm-vilareal.pt",
+      "confidence": 98,
+      "flags": [
+        "multiple_mx",
+        "spf_softfail",
+        "mx_spf_match",
+        "provider_classified",
+        "autodiscover_confirms"
+      ]
+    },
+    "0714": {
+      "name": "Vila Viçosa",
+      "provider": "independent",
+      "domain": "cm-vilavicosa.pt",
+      "confidence": 95,
+      "flags": [
+        "multiple_mx",
+        "spf_strict",
+        "mx_spf_match",
+        "provider_classified"
+      ]
+    },
+    "0314": {
+      "name": "Vizela",
+      "provider": "us-other",
+      "domain": "cm-vizela.pt",
+      "confidence": 85,
+      "flags": [
+        "multiple_mx",
+        "spf_strict",
+        "mx_spf_match",
+        "multi_provider_spf:microsoft+us-other",
+        "provider_classified"
+      ]
+    },
+    "1115": {
+      "name": "Amadora",
+      "provider": "microsoft",
+      "domain": "cm-amadora.pt",
+      "confidence": 80,
+      "flags": [
+        "spf_strict",
+        "independent_mx_with_cloud_spf",
+        "provider_classified"
+      ]
+    },
+    "0115": {
+      "name": "Ovar",
+      "provider": "microsoft",
+      "domain": "cm-ovar.pt",
+      "confidence": 80,
+      "flags": [
+        "spf_strict",
+        "independent_mx_with_cloud_spf",
+        "provider_classified"
+      ]
+    },
+    "1015": {
+      "name": "Pombal",
+      "provider": "us-other",
+      "domain": "cm-pombal.pt",
+      "confidence": 85,
+      "flags": [
+        "multiple_mx",
+        "spf_strict",
+        "mx_spf_match",
+        "multi_provider_spf:microsoft+us-other",
+        "provider_classified"
+      ]
+    },
+    "1415": {
+      "name": "Salvaterra de Magos",
+      "provider": "pt-isp",
+      "domain": "cm-salvaterrademagos.pt",
+      "confidence": 95,
+      "flags": [
+        "multiple_mx",
+        "spf_strict",
+        "mx_spf_match",
+        "provider_classified"
+      ]
+    },
+    "0615": {
+      "name": "Soure",
+      "provider": "pt-isp",
+      "domain": "cm-soure.pt",
+      "confidence": 88,
+      "flags": [
+        "spf_softfail",
+        "mx_spf_match",
+        "provider_classified"
+      ]
+    },
+    "1215": {
+      "name": "Sousel",
+      "provider": "independent",
+      "domain": "cm-sousel.pt",
+      "confidence": 90,
+      "flags": [
+        "spf_strict",
+        "mx_spf_match",
+        "provider_classified"
+      ]
+    },
+    "1815": {
+      "name": "São João da Pesqueira",
+      "provider": "us-other",
+      "domain": "sjpesqueira.pt",
+      "confidence": 95,
+      "flags": [
+        "multiple_mx",
+        "spf_strict",
+        "mx_spf_match",
+        "provider_classified"
+      ]
+    },
+    "1315": {
+      "name": "Valongo",
+      "provider": "microsoft",
+      "domain": "cm-valongo.pt",
+      "confidence": 90,
+      "flags": [
+        "spf_strict",
+        "mx_spf_match",
+        "provider_classified"
+      ]
+    },
+    "0815": {
+      "name": "Vila do Bispo",
+      "provider": "microsoft",
+      "domain": "cm-viladobispo.pt",
+      "confidence": 93,
+      "flags": [
+        "spf_softfail",
+        "mx_spf_match",
+        "provider_classified",
+        "autodiscover_confirms"
+      ]
+    },
+    "1116": {
+      "name": "Odivelas",
+      "provider": "microsoft",
+      "domain": "cm-odivelas.pt",
+      "confidence": 85,
+      "flags": [
+        "multiple_mx",
+        "spf_strict",
+        "mx_spf_match",
+        "multi_provider_spf:microsoft+us-other",
+        "provider_classified"
+      ]
+    },
+    "1016": {
+      "name": "Porto de Mós",
+      "provider": "independent",
+      "domain": "municipio-portodemos.pt",
+      "confidence": 95,
+      "flags": [
+        "multiple_mx",
+        "spf_strict",
+        "mx_spf_match",
+        "provider_classified"
+      ]
+    },
+    "1416": {
+      "name": "Santarém",
+      "provider": "microsoft",
+      "domain": "cm-santarem.pt",
+      "confidence": 95,
+      "flags": [
+        "spf_strict",
+        "mx_spf_match",
+        "provider_classified",
+        "autodiscover_confirms"
+      ]
+    },
+    "0116": {
+      "name": "São João da Madeira",
+      "provider": "pt-isp",
+      "domain": "cm-sjm.pt",
+      "confidence": 85,
+      "flags": [
+        "multiple_mx",
+        "spf_strict",
+        "independent_mx_with_cloud_spf",
+        "provider_classified"
+      ]
+    },
+    "1816": {
+      "name": "São Pedro do Sul",
+      "provider": "pt-isp",
+      "domain": "cm-spsul.pt",
+      "confidence": 95,
+      "flags": [
+        "multiple_mx",
+        "spf_strict",
+        "mx_spf_match",
+        "provider_classified"
+      ]
+    },
+    "0616": {
+      "name": "Tábua",
+      "provider": "pt-isp",
+      "domain": "cm-tabua.pt",
+      "confidence": 90,
+      "flags": [
+        "multiple_mx",
+        "mx_spf_match",
+        "provider_classified"
+      ]
+    },
+    "1316": {
+      "name": "Vila do Conde",
+      "provider": "microsoft",
+      "domain": "cm-viladoconde.pt",
+      "confidence": 88,
+      "flags": [
+        "spf_softfail",
+        "mx_spf_match",
+        "provider_classified"
+      ]
+    },
+    "0816": {
+      "name": "Vila Real de Santo António",
+      "provider": "us-other",
+      "domain": "cm-vrsa.pt",
+      "confidence": 73,
+      "flags": [
+        "multiple_mx",
+        "spf_softfail",
+        "provider_classified"
+      ]
+    },
+    "1417": {
+      "name": "Sardoal",
+      "provider": "microsoft",
+      "domain": "cm-sardoal.pt",
+      "confidence": 95,
+      "flags": [
+        "spf_strict",
+        "mx_spf_match",
+        "provider_classified",
+        "smtp_confirms"
+      ]
+    },
+    "0117": {
+      "name": "Sever do Vouga",
+      "provider": "microsoft",
+      "domain": "cm-sever.pt",
+      "confidence": 80,
+      "flags": [
+        "spf_strict",
+        "independent_mx_with_cloud_spf",
+        "provider_classified"
+      ]
+    },
+    "1817": {
+      "name": "Sátão",
+      "provider": "aws",
+      "domain": "cm-satao.pt",
+      "confidence": 88,
+      "flags": [
+        "spf_softfail",
+        "mx_spf_match",
+        "provider_classified"
+      ]
+    },
+    "1317": {
+      "name": "Vila Nova de Gaia",
+      "provider": "microsoft",
+      "domain": "cm-gaia.pt",
+      "confidence": 95,
+      "flags": [
+        "spf_strict",
+        "mx_spf_match",
+        "provider_classified",
+        "autodiscover_confirms"
+      ]
+    },
+    "0617": {
+      "name": "Vila Nova de Poiares",
+      "provider": "pt-isp",
+      "domain": "cm-vilanovadepoiares.pt",
+      "confidence": 90,
+      "flags": [
+        "multiple_mx",
+        "mx_spf_match",
+        "provider_classified"
+      ]
+    },
+    "1818": {
+      "name": "Sernancelhe",
+      "provider": "microsoft",
+      "domain": "cm-sernancelhe.pt",
+      "confidence": 95,
+      "flags": [
+        "spf_strict",
+        "mx_spf_match",
+        "provider_classified",
+        "autodiscover_confirms"
+      ]
+    },
+    "1418": {
+      "name": "Tomar",
+      "provider": "microsoft",
+      "domain": "cm-tomar.pt",
+      "confidence": 83,
+      "flags": [
+        "multiple_mx",
+        "spf_softfail",
+        "independent_mx_with_cloud_spf",
+        "provider_classified"
+      ]
+    },
+    "1318": {
+      "name": "Trofa",
+      "provider": "independent",
+      "domain": "mun-trofa.pt",
+      "confidence": 88,
+      "flags": [
+        "spf_softfail",
+        "mx_spf_match",
+        "provider_classified"
+      ]
+    },
+    "0118": {
+      "name": "Vagos",
+      "provider": "microsoft",
+      "domain": "cm-vagos.pt",
+      "confidence": 85,
+      "flags": [
+        "spf_strict",
+        "independent_mx_with_cloud_spf",
+        "provider_classified",
+        "autodiscover_confirms"
+      ]
+    },
+    "1819": {
+      "name": "Tabuaço",
+      "provider": "independent",
+      "domain": "cm-tabuaco.pt",
+      "confidence": 88,
+      "flags": [
+        "spf_softfail",
+        "mx_spf_match",
+        "provider_classified"
+      ]
+    },
+    "1419": {
+      "name": "Torres Novas",
+      "provider": "microsoft",
+      "domain": "cm-torresnovas.pt",
+      "confidence": 80,
+      "flags": [
+        "spf_strict",
+        "independent_mx_with_cloud_spf",
+        "provider_classified"
+      ]
+    },
+    "0119": {
+      "name": "Vale de Cambra",
+      "provider": "pt-isp",
+      "domain": "cm-valedecambra.pt",
+      "confidence": 90,
+      "flags": [
+        "spf_strict",
+        "mx_spf_match",
+        "provider_classified"
+      ]
+    },
+    "1820": {
+      "name": "Tarouca",
+      "provider": "us-other",
+      "domain": "cm-tarouca.pt",
+      "confidence": 93,
+      "flags": [
+        "multiple_mx",
+        "spf_softfail",
+        "mx_spf_match",
+        "provider_classified"
+      ]
+    },
+    "1420": {
+      "name": "Vila Nova da Barquinha",
+      "provider": "independent",
+      "domain": "cm-vnbarquinha.pt",
+      "confidence": 88,
+      "flags": [
+        "spf_softfail",
+        "mx_spf_match",
+        "provider_classified"
+      ]
+    },
+    "1421": {
+      "name": "Ourém",
+      "provider": "independent",
+      "domain": "cm.ourem.pt",
+      "confidence": 90,
+      "flags": [
+        "spf_strict",
+        "mx_spf_match",
+        "provider_classified"
+      ]
+    },
+    "1821": {
+      "name": "Tondela",
+      "provider": "microsoft",
+      "domain": "cm-tondela.pt",
+      "confidence": 85,
+      "flags": [
+        "spf_strict",
+        "mx_spf_match",
+        "multi_provider_spf:google+microsoft",
+        "provider_classified",
+        "autodiscover_confirms"
+      ]
+    },
+    "1822": {
+      "name": "Vila Nova de Paiva",
+      "provider": "microsoft",
+      "domain": "cm-vnpaiva.pt",
+      "confidence": 85,
+      "flags": [
+        "multiple_mx",
+        "spf_strict",
+        "independent_mx_with_cloud_spf",
+        "provider_classified",
+        "provider_via_gateway_spf"
+      ]
+    },
+    "1823": {
+      "name": "Viseu",
+      "provider": "us-other",
+      "domain": "cmviseu.pt",
+      "confidence": 93,
+      "flags": [
+        "multiple_mx",
+        "spf_softfail",
+        "mx_spf_match",
+        "provider_classified",
+        "provider_via_gateway_spf"
+      ]
+    },
+    "1824": {
+      "name": "Vouzela",
+      "provider": "microsoft",
+      "domain": "cm-vouzela.pt",
+      "confidence": 73,
+      "flags": [
+        "multiple_mx",
+        "spf_softfail",
+        "independent_mx_with_cloud_spf",
+        "multi_provider_spf:google+microsoft",
+        "provider_classified",
+        "provider_via_gateway_spf"
+      ]
+    }
+  }
+}

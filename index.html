@@ -1,0 +1,943 @@
+<!doctype html>
+<html lang="pt">
+  <head>
+    <meta charset="utf-8" />
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1, viewport-fit=cover"
+    />
+    <link rel="preconnect" href="https://a.basemaps.cartocdn.com" crossorigin />
+    <link rel="preconnect" href="https://b.basemaps.cartocdn.com" crossorigin />
+    <link rel="preconnect" href="https://c.basemaps.cartocdn.com" crossorigin />
+    <link rel="preconnect" href="https://d.basemaps.cartocdn.com" crossorigin />
+    <link rel="dns-prefetch" href="https://a.basemaps.cartocdn.com" />
+    <link rel="dns-prefetch" href="https://b.basemaps.cartocdn.com" />
+    <link rel="dns-prefetch" href="https://c.basemaps.cartocdn.com" />
+    <link rel="dns-prefetch" href="https://d.basemaps.cartocdn.com" />
+    <title>MXmap — Serviços de Email dos Municipios Portugueses</title>
+    <meta
+      name="description"
+      content="Mapa interativo que mostra os serviços de email dos municipios portugueses, com base na analise DNS de registos MX e SPF."
+    />
+    <meta
+      name="keywords"
+      content="Portugal, municipios, email, soberania, CLOUD Act, registos MX, SPF, DNS, Microsoft 365, Google Workspace, soberania digital, protecao de dados"
+    />
+    <meta name="author" content="Soverin" />
+    <meta name="robots" content="index, follow" />
+    <link rel="canonical" href="https://mxmap.nl/" />
+    <meta property="og:type" content="website" />
+    <meta
+      property="og:title"
+      content="MXmap — Serviços de Email dos Municipios Portugueses"
+    />
+    <meta
+      property="og:description"
+      content="Mapa interativo que mostra onde os municipios portugueses alojam o seu email oficial. Analise DNS por serviço."
+    />
+    <meta property="og:url" content="https://mxmap.nl/" />
+    <meta property="og:locale" content="pt_PT" />
+    <meta property="og:site_name" content="MXmap" />
+    <meta property="og:image" content="https://mxmap.nl/og-image.jpg" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta
+      name="twitter:title"
+      content="MXmap — Serviços de Email dos Municipios Portugueses"
+    />
+    <meta
+      name="twitter:description"
+      content="Mapa interativo que mostra onde os municipios portugueses alojam o seu email oficial. Analise DNS por serviço."
+    />
+    <meta name="twitter:image" content="https://mxmap.nl/og-image.jpg" />
+    <link
+      rel="icon"
+      type="image/svg+xml"
+      href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect x='2' y='7' width='28' height='18' rx='2' fill='%234d1f1f'/%3E%3Cpath d='M2 9l14 9 14-9' fill='none' stroke='%2300bfe6' stroke-width='2'/%3E%3C/svg%3E"
+    />
+    <link rel="stylesheet" href="/vendor/leaflet.css" />
+    <script defer src="/vendor/leaflet.js"></script>
+    <style>
+      :root {
+        --bg-paper: #ddd7ce;
+        --bg-panel: #e4dfd6;
+        --ink-strong: #1f2a22;
+        --ink-soft: #3f443d;
+        --link: #1b4f92;
+        --line: rgba(31, 42, 34, 0.14);
+        --microsoft: #d94a63;
+        --google: #e4abc9;
+        --aws: #edc247;
+        --us-other: #cd8a3f;
+        --pt-isp: #4e9f72;
+        --pt-other: #b8b8b8;
+        --eu: #6da64f;
+        --unknown: #b8b8b8;
+      }
+
+      * {
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+      }
+
+      html,
+      body {
+        height: 100%;
+      }
+
+      body {
+        font-family:
+          "Iowan Old Style", "Palatino Linotype", Palatino, "Book Antiqua",
+          Georgia, serif;
+        background: var(--bg-paper);
+        color: var(--ink-soft);
+        overflow: hidden;
+      }
+
+      #layout {
+        height: 100vh;
+        height: 100dvh;
+        display: flex;
+      }
+
+      #sidebar {
+        width: 320px;
+        flex: 0 0 320px;
+        background: linear-gradient(180deg, var(--bg-panel) 0%, #d9d3ca 100%);
+        border-right: 1px solid var(--line);
+        padding: 16px 14px;
+        overflow-y: auto;
+      }
+
+      .eyebrow {
+        font-family: "Trebuchet MS", "Gill Sans", "Segoe UI", sans-serif;
+        font-size: 10px;
+        letter-spacing: 1.6px;
+        color: rgba(31, 42, 34, 0.6);
+        margin-bottom: 8px;
+      }
+
+      h1 {
+        color: var(--ink-strong);
+        font-size: 40px;
+        line-height: 0.94;
+        margin-bottom: 10px;
+      }
+
+      .lead,
+      .helper,
+      .stats,
+      .notes,
+      .source-links {
+        font-size: 13px;
+        line-height: 1.34;
+      }
+
+      .lead {
+        margin-bottom: 10px;
+      }
+
+      .legend {
+        margin: 4px 0 12px;
+      }
+
+      .legend-item {
+        display: flex;
+        align-items: center;
+        gap: 8px;
+        margin: 5px 0;
+        color: var(--ink-strong);
+        font-size: 13px;
+      }
+
+      .dot {
+        width: 10px;
+        height: 10px;
+        border-radius: 999px;
+        flex: 0 0 10px;
+      }
+
+      .dot.microsoft {
+        background: var(--microsoft);
+      }
+
+      .dot.google {
+        background: var(--google);
+      }
+
+      .dot.aws {
+        background: var(--aws);
+      }
+
+      .dot.us-other {
+        background: var(--us-other);
+      }
+
+      .dot.pt-isp {
+        background: var(--pt-isp);
+      }
+
+      .dot.pt-other {
+        background: var(--pt-other);
+      }
+
+      .dot.eu {
+        background: var(--eu);
+      }
+
+      .dot.unknown {
+        background: var(--unknown);
+      }
+
+      .legend-count {
+        margin-left: auto;
+        color: rgba(31, 42, 34, 0.72);
+        font-size: 12px;
+      }
+
+      .helper,
+      .stats,
+      .notes,
+      .source-links {
+        margin-top: 10px;
+      }
+
+      .stats strong {
+        color: var(--ink-strong);
+      }
+
+      .notes ul {
+        margin: 6px 0 0 16px;
+      }
+
+      .source-links a,
+      .helper a,
+      .notes a {
+        color: var(--link);
+        text-decoration: underline;
+      }
+
+      .source-links {
+        padding-top: 10px;
+        border-top: 1px solid var(--line);
+      }
+
+      .status-pill {
+        margin-top: 12px;
+        background: rgba(255, 255, 255, 0.35);
+        border: 1px solid rgba(31, 42, 34, 0.2);
+        border-radius: 999px;
+        padding: 6px 10px;
+        font-size: 11px;
+        display: inline-block;
+      }
+
+      #map-wrap {
+        position: relative;
+        flex: 1;
+        min-width: 0;
+      }
+
+      #map {
+        height: 100%;
+        width: 100%;
+      }
+
+      #map-loading {
+        position: absolute;
+        inset: 0;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        z-index: 1000;
+        background: rgba(250, 248, 243, 0.8);
+        font-size: 15px;
+        color: #555;
+      }
+
+      .leaflet-control-attribution {
+        font-size: 10px;
+      }
+
+      .info-popup {
+        font-size: 13px;
+        line-height: 1.6;
+      }
+
+      .info-popup strong {
+        font-size: 14px;
+      }
+
+      .info-popup .provider-badge {
+        display: inline-block;
+        padding: 1px 8px;
+        margin-left: 5px;
+        border-radius: 3px;
+        color: #fff;
+        font-size: 12px;
+        font-weight: 600;
+      }
+
+      .popup-section {
+        margin-top: 10px;
+      }
+
+      .popup-section-title {
+        font-size: 11px;
+        color: #999;
+        text-transform: uppercase;
+        letter-spacing: 0.5px;
+        margin-bottom: 2px;
+        font-weight: 600;
+      }
+
+      .popup-section-hint {
+        font-weight: 400;
+        opacity: 0.7;
+      }
+
+      .dns-table {
+        border-collapse: collapse;
+      }
+
+      .dns-table td {
+        padding: 1px 8px 1px 0;
+        vertical-align: baseline;
+        font-size: 12px;
+        white-space: nowrap;
+      }
+
+      .dns-table .dn {
+        font-weight: 600;
+      }
+
+      .dns-table .host {
+        color: #999;
+        font-size: 11px;
+        font-family: ui-monospace, monospace;
+        max-width: 200px;
+        overflow: hidden;
+        text-overflow: ellipsis;
+      }
+
+      .cat-badge {
+        display: inline-block;
+        padding: 0 5px;
+        border-radius: 3px;
+        font-size: 10px;
+        font-weight: 600;
+        line-height: 1.6;
+      }
+
+      .cat-badge.us {
+        background: rgba(210, 76, 99, 0.14);
+        color: #8f2438;
+      }
+
+      .cat-badge.pt {
+        background: rgba(79, 155, 103, 0.18);
+        color: #275f3a;
+      }
+
+      .cat-badge.eu {
+        background: rgba(108, 158, 90, 0.18);
+        color: #386642;
+      }
+
+      .cat-badge.foreign {
+        background: rgba(226, 196, 77, 0.24);
+        color: #7f6509;
+      }
+
+      .cat-badge.unknown {
+        background: #f1f1f1;
+        color: #6b7280;
+      }
+
+      @media (max-width: 900px) {
+        #sidebar {
+          width: 280px;
+          flex-basis: 280px;
+        }
+
+        h1 {
+          font-size: 34px;
+        }
+      }
+
+      @media (max-width: 760px) {
+        body {
+          overflow: auto;
+        }
+
+        #layout {
+          flex-direction: column;
+          height: auto;
+          min-height: 100vh;
+          min-height: 100dvh;
+        }
+
+        #sidebar {
+          width: 100%;
+          flex: 0 0 auto;
+          max-height: 48vh;
+          max-height: 48dvh;
+          border-right: 0;
+          border-bottom: 1px solid var(--line);
+        }
+
+        #map-wrap {
+          flex: 1 1 auto;
+          height: 52vh;
+          height: 52dvh;
+          min-height: 320px;
+        }
+      }
+    </style>
+  </head>
+  <body>
+    <div id="layout">
+      <aside id="sidebar" aria-label="Detalhes do mapa e legenda">
+        <p class="eyebrow">MAPA MUNICIPAL DE PORTUGAL</p>
+        <br />
+        <h1>Infraestrutura de email municipal em Portugal</h1>
+        <br />
+
+        <p class="lead">Municipios portugueses por serviço de email.</p>
+        <div class="legend" aria-label="Legenda de serviços de email">
+          <div class="legend-item">
+            <span class="dot microsoft" aria-hidden="true"></span>
+            <span>Microsoft 365</span>
+            <span class="legend-count" id="count-microsoft">0</span>
+          </div>
+          <div class="legend-item">
+            <span class="dot google" aria-hidden="true"></span>
+            <span>Google Workspace</span>
+            <span class="legend-count" id="count-google">0</span>
+          </div>
+          <div class="legend-item">
+            <span class="dot aws" aria-hidden="true"></span>
+            <span>Amazon Web Services</span>
+            <span class="legend-count" id="count-aws">0</span>
+          </div>
+          <div class="legend-item">
+            <span class="dot us-other" aria-hidden="true"></span>
+            <span>Outros US</span>
+            <span class="legend-count" id="count-us-other">0</span>
+          </div>
+          <div class="legend-item">
+            <span class="dot pt-isp" aria-hidden="true"></span>
+            <span>PT</span>
+            <span class="legend-count" id="count-pt-isp">0</span>
+          </div>
+          <div class="legend-item">
+            <span class="dot eu" aria-hidden="true"></span>
+            <span>EU</span>
+            <span class="legend-count" id="count-eu">0</span>
+          </div>
+          <div class="legend-item">
+            <span class="dot unknown" aria-hidden="true"></span>
+            <span>Desconhecido/Independente</span>
+            <span class="legend-count" id="count-unknown">0</span>
+          </div>
+        </div>
+        <br />
+
+        <p class="stats" id="provider-summary">A carregar resumo...</p>
+        <p class="helper">
+          Clique num municipio para ver o serviço de email e website.
+        </p>
+        <br />
+
+        <div class="notes"></div>
+        <p class="helper">
+          Ver também
+          <a href="https://mxmap.nl" target="_blank" rel="noopener">mxmap.nl</a>
+          ,
+          <a href="https://mxmap.ch" target="_blank" rel="noopener">mxmap.ch</a>
+          e
+          <a href="https://mxmap.be" target="_blank" rel="noopener">mxmap.be</a
+          >.
+        </p>
+
+        <div class="source-links">
+          <p>
+            Código fonte:
+            <a
+              href="https://codeberg.org/joaonunovalente/mxmap"
+              target="_blank"
+              rel="noopener"
+              >codeberg.org/joaonunovalente/mxmap</a
+            >
+          </p>
+          <p id="generated-at"></p>
+        </div>
+
+        <!-- <p class="status-pill" id="polygons-loaded">A carregar municipios...</p> -->
+      </aside>
+
+      <main
+        id="map-wrap"
+        role="application"
+        aria-label="Mapa interativo dos serviços de email dos municipios portugueses"
+      >
+        <div id="map"></div>
+        <div id="map-loading">A carregar dados do mapa&hellip;</div>
+      </main>
+    </div>
+
+    <script>
+      document.addEventListener("DOMContentLoaded", function () {
+        L.Icon.Default.imagePath = "/vendor/";
+        const COLORS = {
+          microsoft: "#d94a63",
+          google: "#e4abc9",
+          aws: "#edc247",
+          "us-other": "#cd8a3f",
+          "pt-isp": "#4e9f72",
+          "pt-other": "#BFBFBF",
+          eu: "#6da64f",
+          unknown: "#BFBFBF",
+        };
+
+        const LABELS = {
+          microsoft: "Microsoft",
+          google: "Google Workspace",
+          aws: "Amazon Web Services",
+          "us-other": "Outros US",
+          "pt-isp": "PT",
+          "pt-other": "Desconhecido/Independente",
+          eu: "EU",
+          unknown: "Desconhecido/Independente",
+        };
+
+        function setSidebarCounts(counts, totalMunicipalities, polygonsLoaded) {
+          const keys = [
+            "microsoft",
+            "google",
+            "aws",
+            "us-other",
+            "pt-isp",
+            "eu",
+            "unknown",
+          ];
+
+          keys.forEach((key) => {
+            const el = document.getElementById(`count-${key}`);
+            if (el) el.textContent = String(counts[key] || 0);
+          });
+
+          const usTotal =
+            (counts.microsoft || 0) +
+            (counts.google || 0) +
+            (counts.aws || 0) +
+            (counts["us-other"] || 0);
+          const ptTotal = counts["pt-isp"] || 0;
+          const euTotal = counts.eu || 0;
+          const unknownTotal = counts.unknown || 0;
+
+          const summary = document.getElementById("provider-summary");
+          if (summary) {
+            summary.innerHTML = `<strong>${totalMunicipalities}</strong> municipios no total`;
+          }
+
+          const pill = document.getElementById("polygons-loaded");
+          if (pill) {
+            pill.textContent = `Carregados ${polygonsLoaded} municipios.`;
+          }
+        }
+
+        function normalizeProvider(provider) {
+          switch ((provider || "").toLowerCase()) {
+            case "microsoft":
+            case "google":
+            case "aws":
+            case "us-other":
+            case "pt-isp":
+              return provider.toLowerCase();
+            case "independent":
+            case "pt-other":
+              return "unknown";
+            case "eu":
+            case "eu-isp":
+              return "eu";
+            default:
+              return "unknown";
+          }
+        }
+
+        function escapeHtml(str) {
+          const el = document.createElement("span");
+          el.textContent = str;
+          return el.innerHTML;
+        }
+
+        const SPF_ASN_MAP = {
+          8075: { name: "Microsoft", category: "us" },
+          8070: { name: "Microsoft", category: "us" },
+          3598: { name: "Microsoft", category: "us" },
+          15169: { name: "Google", category: "us" },
+          16509: { name: "Amazon AWS", category: "us" },
+          14618: { name: "Amazon AWS", category: "us" },
+        };
+
+        function classifyHost(host) {
+          const h = host.toLowerCase();
+          // Hyperscalers
+          if (
+            [
+              "mail.protection.outlook.com",
+              "outlook.com",
+              "outook.com",
+              "microsoft",
+              "office365",
+              "onmicrosoft",
+              "spf.protection.outlook.com",
+              "sharepointonline",
+            ].some((k) => h.includes(k))
+          )
+            return { name: "Microsoft", category: "us" };
+          if (
+            [
+              "google",
+              "googlemail",
+              "gmail.com",
+              "aspmx.l.google.com",
+              "_spf.google.com",
+            ].some((k) => h.includes(k))
+          )
+            return { name: "Google", category: "us" };
+          if (["amazonaws", "amazonses", "awsdns"].some((k) => h.includes(k)))
+            return { name: "AWS", category: "us" };
+          if (
+            [
+              "mpssec.net",
+              "anubisnetworks.com",
+              "fortimailcloud.com",
+              "fortimail.com",
+            ].some((k) => h.includes(k))
+          ) {
+            let providerDomain = "mpssec.net";
+            if (h.includes("anubisnetworks.com"))
+              providerDomain = "anubisnetworks.com";
+            else if (h.includes("fortimailcloud.com"))
+              providerDomain = "fortimailcloud.com";
+            else if (h.includes("fortimail.com"))
+              providerDomain = "fortimail.com";
+            return { name: providerDomain, category: "us" };
+          }
+          // Foreign senders
+          if (
+            ["mandrillapp.com", "mandrill", "mcsv.net"].some((k) =>
+              h.includes(k),
+            )
+          )
+            return { name: "Mailchimp", category: "foreign" };
+          if (h.includes("sendgrid"))
+            return { name: "SendGrid", category: "foreign" };
+          if (h.includes("mailjet"))
+            return { name: "Mailjet", category: "foreign" };
+          if (h.includes("mailgun"))
+            return { name: "Mailgun", category: "foreign" };
+          if (["sendinblue", "brevo"].some((k) => h.includes(k)))
+            return { name: "Brevo", category: "foreign" };
+          if (h.includes("mailchannels"))
+            return { name: "MailChannels", category: "foreign" };
+          if (h.includes("smtp2go"))
+            return { name: "SMTP2GO", category: "foreign" };
+          if (h.includes("nl2go"))
+            return { name: "Newsletter2Go", category: "foreign" };
+          if (h.includes("hubspotemail"))
+            return { name: "HubSpot", category: "foreign" };
+          if (h.includes("knowbe4"))
+            return { name: "KnowBe4", category: "foreign" };
+          if (["sophos", "sophosxl"].some((k) => h.includes(k)))
+            return { name: "Sophos", category: "foreign" };
+          if (h.includes("trendmicro"))
+            return { name: "Trend Micro", category: "foreign" };
+          if (["hornetsecurity", "hornetdmarc"].some((k) => h.includes(k)))
+            return { name: "Hornetsecurity", category: "foreign" };
+          if (h.includes("barracudanetworks"))
+            return { name: "Barracuda", category: "foreign" };
+          if (h.includes("mlsend"))
+            return { name: "MailerLite", category: "foreign" };
+          if (h.includes("createsend"))
+            return { name: "Campaign Monitor", category: "foreign" };
+          if (h.includes("exclaimer"))
+            return { name: "Exclaimer", category: "foreign" };
+          if (h.includes("turbo-smtp"))
+            return { name: "turboSMTP", category: "foreign" };
+          if (h.includes("letsignit"))
+            return { name: "Letsignit", category: "foreign" };
+          if (h.includes("codetwo"))
+            return { name: "CodeTwo", category: "foreign" };
+          if (h.includes("freshservice"))
+            return { name: "Freshservice", category: "foreign" };
+          if (h.includes("zivver"))
+            return { name: "Zivver", category: "foreign" };
+          if (h.includes("ptempresas.pt") || h.includes("ptasp.com"))
+            return { name: "PTempresas", category: "pt" };
+          if (["ovh.net", "ovh.com", "ohv.com"].some((k) => h.includes(k)))
+            return { name: "OVH", category: "eu" };
+          // Known local companies (non-.pt TLD)
+          if (h.includes("centric.eu"))
+            return { name: "Centric", category: "pt" };
+          if (h.includes("topdesk")) return { name: "TOPdesk", category: "pt" };
+          if (h.includes("yourdomainprovider"))
+            return {
+              name: "YourDomainProvider (Metaregistrar)",
+              category: "pt",
+            };
+          if (h.includes("simgroephosting"))
+            return { name: "Sim Groep", category: "pt" };
+          if (h.includes("ezorg")) return { name: "E-Zorg", category: "pt" };
+          if (h.includes("zorgmail"))
+            return { name: "Zorgmail", category: "pt" };
+          // TLD-based fallback
+          const parts = host.replace(/^_/, "").split(".");
+          const name = parts.length >= 2 ? parts.slice(-2).join(".") : host;
+          if (h.endsWith(".nl")) return { name, category: "pt" };
+          if (h.endsWith(".pt")) return { name, category: "pt" };
+          return { name, category: "unknown" };
+        }
+
+        function parseSpfDelegations(spf) {
+          if (!spf) return [];
+          const results = [];
+          const includeRe = /include:([^\s]+)/g;
+          let m;
+          while ((m = includeRe.exec(spf)) !== null) results.push(m[1]);
+          const redirectRe = /redirect=([^\s]+)/g;
+          while ((m = redirectRe.exec(spf)) !== null) results.push(m[1]);
+          return results;
+        }
+
+        function renderTable(hosts) {
+          const rows = hosts
+            .map((host) => {
+              const cls = classifyHost(host);
+              const eName = escapeHtml(cls.name);
+              const eCat = escapeHtml(cls.category);
+              const eHost = escapeHtml(host);
+              return `<tr><td class="dn">${eName}</td><td><span class="cat-badge ${eCat}">${eCat}</span></td><td class="host" title="${eHost}">${eHost}</td></tr>`;
+            })
+            .join("");
+          return `<table class="dns-table">${rows}</table>`;
+        }
+
+        const map = L.map("map", {
+          center: [39.6, -8.1],
+          zoom: 7,
+          minZoom: 5,
+          maxZoom: 14,
+          renderer: L.canvas(),
+        });
+
+        L.tileLayer(
+          "https://{s}.basemaps.cartocdn.com/light_nolabels/{z}/{x}/{y}{r}.png",
+          {
+            attribution:
+              '&copy; <a href="https://www.openstreetmap.org/copyright">OSM</a> &copy; <a href="https://carto.com/">CARTO</a>',
+            subdomains: "abcd",
+            maxZoom: 19,
+          },
+        ).addTo(map);
+
+        L.tileLayer(
+          "https://{s}.basemaps.cartocdn.com/light_only_labels/{z}/{x}/{y}{r}.png",
+          {
+            subdomains: "abcd",
+            maxZoom: 19,
+            pane: "shadowPane",
+          },
+        ).addTo(map);
+
+        var resizeTimer;
+        function invalidateMapSize() {
+          clearTimeout(resizeTimer);
+          resizeTimer = setTimeout(function () {
+            map.invalidateSize({ animate: false });
+          }, 100);
+        }
+
+        window.addEventListener("resize", function () {
+          invalidateMapSize();
+        });
+
+        window.addEventListener("orientationchange", function () {
+          invalidateMapSize();
+        });
+
+        window.addEventListener("pageshow", function () {
+          invalidateMapSize();
+        });
+
+        async function loadData() {
+          const [geoRes, dataRes] = await Promise.all([
+            fetch("municipalities-portugal.geojson"),
+            fetch("data.json"),
+          ]);
+
+          const geo = await geoRes.json();
+          const dnsData = await dataRes.json();
+          const muni = dnsData.municipalities || {};
+          const normalizedCounts = {};
+          for (const entry of Object.values(muni)) {
+            const key = normalizeProvider(entry && entry.provider);
+            normalizedCounts[key] = (normalizedCounts[key] || 0) + 1;
+          }
+
+          // Join by official municipality code (con_code).
+          const muniByCode = new Map();
+          for (const [entryKey, entry] of Object.entries(muni)) {
+            muniByCode.set(String(entryKey), entry);
+            if (entry.con_code) muniByCode.set(String(entry.con_code), entry);
+            if (entry.code) muniByCode.set(String(entry.code), entry);
+            if (entry.cbs) muniByCode.set(String(entry.cbs), entry);
+          }
+
+          function municipalityForFeature(feature) {
+            const props =
+              feature && feature.properties ? feature.properties : {};
+            const conCode = props.con_code ? String(props.con_code) : "";
+            return muniByCode.get(conCode) || null;
+          }
+
+          // Show dataset info
+          if (dnsData.generated) {
+            const date = new Date(dnsData.generated);
+            document.getElementById("generated-at").textContent =
+              "Atualizado em " +
+              date.toLocaleString("pt-PT", {
+                dateStyle: "medium",
+                timeStyle: "short",
+              });
+          }
+
+          const totalMunicipalities = Object.values(muni).length;
+          const polygonsLoaded = Array.isArray(geo.features)
+            ? geo.features.length
+            : 0;
+          setSidebarCounts(
+            normalizedCounts,
+            totalMunicipalities,
+            polygonsLoaded,
+          );
+
+          L.geoJSON(geo, {
+            style: function (feature) {
+              const m = municipalityForFeature(feature);
+              const provider = normalizeProvider(m ? m.provider : "unknown");
+              return {
+                fillColor: COLORS[provider] || COLORS.unknown,
+                weight: 0.45,
+                color: "#5c4c53",
+                fillOpacity: 0.86,
+              };
+            },
+            onEachFeature: function (feature, layer) {
+              const props =
+                feature && feature.properties ? feature.properties : {};
+              const conCode = props.con_code ? String(props.con_code) : "";
+              const conName =
+                props.con_name || props.name || conCode || "Municipio";
+              const m = municipalityForFeature(feature);
+              if (!m) {
+                layer.bindPopup(
+                  `<div class="info-popup"><strong>${escapeHtml(conName)}</strong><br>Sem dados</div>`,
+                );
+                return;
+              }
+              const normalizedProvider = normalizeProvider(m.provider);
+              const color = COLORS[normalizedProvider] || COLORS.unknown;
+              const textColor =
+                normalizedProvider === "unknown" ? "#4d1f1f" : "#fff";
+              const label = LABELS[normalizedProvider] || "Desconhecido";
+
+              let mxSection = "";
+              if (m.mx && m.mx.length > 0) {
+                mxSection = `<div class="popup-section"><div class="popup-section-title">Email recebido por <span class="popup-section-hint">(MX)</span></div>${renderTable(m.mx)}</div>`;
+              }
+
+              const spfDelegations = parseSpfDelegations(m.spf);
+              let spfSection = "";
+              if (spfDelegations.length > 0) {
+                spfSection = `<div class="popup-section"><div class="popup-section-title">Autorizado a enviar email <span class="popup-section-hint">(SPF)</span></div>${renderTable(spfDelegations)}</div>`;
+              }
+
+              let spfAsnSection = "";
+              if (m.spf_asns && m.spf_asns.length > 0) {
+                const seen = new Map();
+                for (const asn of m.spf_asns) {
+                  const info = SPF_ASN_MAP[asn];
+                  if (info && !seen.has(info.name)) seen.set(info.name, info);
+                }
+                if (seen.size > 0) {
+                  const rows = [...seen.values()]
+                    .map(
+                      (info) =>
+                        `<tr><td class="dn">${escapeHtml(info.name)}</td><td><span class="cat-badge ${escapeHtml(info.category)}">${escapeHtml(info.category)}</span></td><td class="host">remetente autorizado (IP SPF)</td></tr>`,
+                    )
+                    .join("");
+                  spfAsnSection = `<div class="popup-section"><div class="popup-section-title">Blocos IP resolvem para <span class="popup-section-hint">(SPF resolvido)</span></div><table class="dns-table">${rows}</table></div>`;
+                }
+              }
+
+              let autodiscoverSection = "";
+              if (m.autodiscover && Object.keys(m.autodiscover).length > 0) {
+                const ad = m.autodiscover;
+                const adHost =
+                  ad.autodiscover_cname ||
+                  ad.autodiscover_a ||
+                  ad.srv_host ||
+                  "";
+                if (adHost) {
+                  const adCls = classifyHost(adHost);
+                  autodiscoverSection =
+                    `<div class="popup-section"><div class="popup-section-title">Configuracao de cliente de email <span class="popup-section-hint">(Autodiscover)</span></div>` +
+                    `<table class="dns-table"><tr><td class="dn">${escapeHtml(adCls.name)}</td><td><span class="cat-badge ${escapeHtml(adCls.category)}">${escapeHtml(adCls.category)}</span></td><td class="host" title="${escapeHtml(adHost)}">${escapeHtml(adHost)}</td></tr></table></div>`;
+                }
+              }
+
+              const eName = escapeHtml(m.name || conName);
+              const eDomain = escapeHtml(m.domain || "unknown");
+              const eLabel = escapeHtml(label);
+              layer.bindPopup(
+                `<div class="info-popup">` +
+                  `<strong>${eName}</strong><br>` +
+                  `${eDomain} <span class="provider-badge" style="background:${color};color:${textColor}">${eLabel}</span>` +
+                  mxSection +
+                  spfSection +
+                  spfAsnSection +
+                  autodiscoverSection +
+                  `</div>`,
+                { maxWidth: 450 },
+              );
+              layer.on("mouseover", function () {
+                this.setStyle({ weight: 1.8, color: "#2e2428" });
+              });
+              layer.on("mouseout", function () {
+                this.setStyle({ weight: 0.45, color: "#5c4c53" });
+              });
+            },
+          }).addTo(map);
+
+          const loading = document.getElementById("map-loading");
+          if (loading) loading.remove();
+          invalidateMapSize();
+          setTimeout(invalidateMapSize, 300);
+        }
+
+        loadData().catch((err) => {
+          console.error("Failed to load data:", err);
+          const loading = document.getElementById("map-loading");
+          if (loading) {
+            loading.textContent =
+              "Falha ao carregar os dados do mapa. Tente novamente mais tarde.";
+            loading.style.color = "#dc2626";
+          }
+        });
+      });
+    </script>
+  </body>
+</html>

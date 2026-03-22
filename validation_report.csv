@@ -1,0 +1,309 @@
+cbs,name,provider,domain,confidence,flags
+1307,Marco de Canaveses,us-other,cm-marco-canaveses.pt,53,multiple_mx; spf_softfail; mx_spf_mismatch; provider_classified
+1801,Armamar,us-other,cm-armamar.pt,55,multiple_mx; spf_strict; mx_spf_mismatch; provider_classified
+1103,Azambuja,us-other,cm-azambuja.pt,55,multiple_mx; spf_strict; mx_spf_mismatch; provider_classified
+4502,Velas,us-other,cmvelas.pt,55,multiple_mx; spf_strict; mx_spf_mismatch; provider_classified
+0212,Ourique,us-other,cm-ourique.pt,73,multiple_mx; spf_softfail; provider_classified
+0214,Vidigueira,us-other,cm-vidigueira.pt,73,multiple_mx; spf_softfail; provider_classified
+0816,Vila Real de Santo António,us-other,cm-vrsa.pt,73,multiple_mx; spf_softfail; provider_classified
+1824,Vouzela,microsoft,cm-vouzela.pt,73,multiple_mx; spf_softfail; independent_mx_with_cloud_spf; multi_provider_spf:google+microsoft; provider_classified; provider_via_gateway_spf
+1601,Arcos de Valdevez,us-other,cmav.pt,75,multiple_mx; spf_strict; provider_classified
+1803,Castro Daire,microsoft,cm-castrodaire.pt,75,multiple_mx; spf_strict; independent_mx_with_cloud_spf; multi_provider_spf:google+microsoft; provider_classified
+1606,Ponte da Barca,us-other,cmpb.pt,75,multiple_mx; spf_strict; provider_classified
+4205,Ribeira Grande,us-other,cm-ribeiragrande.pt,75,multiple_mx; spf_strict; provider_classified
+0912,Seia,microsoft,cm-seia.pt,75,multiple_mx; spf_strict; independent_mx_with_cloud_spf; multi_provider_spf:google+microsoft; provider_classified
+4101,Vila do Porto,microsoft,cm-viladoporto.pt,75,spf_strict; independent_mx_with_cloud_spf; multi_provider_spf:google+microsoft; provider_classified; autodiscover_confirms
+0803,Aljezur,microsoft,cm-aljezur.pt,78,spf_softfail; independent_mx_with_cloud_spf; provider_classified
+1503,Almada,microsoft,cm-almada.pt,78,spf_softfail; independent_mx_with_cloud_spf; provider_classified
+1008,Figueiró dos Vinhos,google,cm-figueirodosvinhos.pt,78,spf_softfail; independent_mx_with_cloud_spf; provider_classified
+1414,Rio Maior,microsoft,cm-riomaior.pt,78,spf_softfail; independent_mx_with_cloud_spf; provider_classified
+0409,Torre de Moncorvo,google,torredemoncorvo.pt,78,spf_softfail; mx_spf_match; multi_provider_spf:google+us-other; provider_classified
+1201,Alter do Chão,independent,cm-alter-chao.pt,80,spf_strict; independent_mx_with_cloud_spf; provider_classified
+1115,Amadora,microsoft,cm-amadora.pt,80,spf_strict; independent_mx_with_cloud_spf; provider_classified
+0302,Barcelos,aws,cm-barcelos.pt,80,spf_strict; independent_mx_with_cloud_spf; provider_classified
+0115,Ovar,microsoft,cm-ovar.pt,80,spf_strict; independent_mx_with_cloud_spf; provider_classified
+0109,Santa Maria da Feira,microsoft,cm-feira.pt,80,spf_strict; independent_mx_with_cloud_spf; provider_classified
+0117,Sever do Vouga,microsoft,cm-sever.pt,80,spf_strict; independent_mx_with_cloud_spf; provider_classified
+0813,Silves,aws,cm-silves.pt,80,spf_strict; independent_mx_with_cloud_spf; provider_classified
+1419,Torres Novas,microsoft,cm-torresnovas.pt,80,spf_strict; independent_mx_with_cloud_spf; provider_classified
+0104,Arouca,microsoft,cm-arouca.pt,83,multiple_mx; spf_softfail; independent_mx_with_cloud_spf; provider_classified
+0611,Oliveira do Hospital,google,cm-oliveiradohospital.pt,83,multiple_mx; spf_softfail; independent_mx_with_cloud_spf; provider_classified
+1418,Tomar,microsoft,cm-tomar.pt,83,multiple_mx; spf_softfail; independent_mx_with_cloud_spf; provider_classified
+1012,Óbidos,microsoft,cm-obidos.pt,83,spf_softfail; independent_mx_with_cloud_spf; provider_classified; autodiscover_confirms
+1404,Alpiarça,pt-isp,cm-alpiarca.pt,85,multiple_mx; spf_strict; independent_mx_with_cloud_spf; provider_classified
+0601,Arganil,us-other,cm-arganil.pt,85,multiple_mx; spf_strict; mx_spf_match; multi_provider_spf:microsoft+us-other; provider_classified
+0105,Aveiro,microsoft,cm-aveiro.pt,85,multiple_mx; spf_strict; independent_mx_with_cloud_spf; provider_classified
+1504,Barreiro,us-other,cm-barreiro.pt,85,multiple_mx; spf_strict; independent_mx_with_cloud_spf; provider_classified
+1702,Boticas,microsoft,cm-boticas.pt,85,spf_strict; independent_mx_with_cloud_spf; provider_classified; autodiscover_confirms
+0403,Carrazeda de Ansiães,independent,cmca.pt,85,mx_spf_match; provider_classified
+1105,Cascais,microsoft,cm-cascais.pt,85,spf_strict; mx_spf_match; multi_provider_spf:aws+mailjet+microsoft; provider_classified; autodiscover_confirms
+0106,Castelo de Paiva,microsoft,cm-castelo-paiva.pt,85,spf_strict; independent_mx_with_cloud_spf; provider_classified; autodiscover_confirms
+0805,Faro,us-other,cm-faro.pt,85,multiple_mx; spf_strict; mx_spf_match; multi_provider_spf:google+microsoft+us-other; provider_classified
+3103,Funchal,microsoft,cm-funchal.pt,85,multiple_mx; spf_strict; independent_mx_with_cloud_spf; provider_classified
+1304,Gondomar,pt-isp,cm-gondomar.pt,85,multiple_mx; spf_strict; independent_mx_with_cloud_spf; provider_classified
+1109,Mafra,microsoft,cm-mafra.pt,85,multiple_mx; spf_strict; independent_mx_with_cloud_spf; provider_classified
+1306,Maia,microsoft,cm-maia.pt,85,spf_strict; independent_mx_with_cloud_spf; provider_classified; autodiscover_confirms
+0209,Mértola,microsoft,cm-mertola.pt,85,multiple_mx; spf_strict; mx_spf_match; multi_provider_spf:microsoft+us-other; provider_classified
+1116,Odivelas,microsoft,cm-odivelas.pt,85,multiple_mx; spf_strict; mx_spf_match; multi_provider_spf:microsoft+us-other; provider_classified
+1110,Oeiras,microsoft,cm-oeiras.pt,85,multiple_mx; spf_strict; independent_mx_with_cloud_spf; provider_classified
+1309,Paços de Ferreira,microsoft,cm-pacosdeferreira.pt,85,spf_strict; independent_mx_with_cloud_spf; provider_classified; autodiscover_confirms
+1811,Penalva do Castelo,google,cm-penalvadocastelo.pt,85,multiple_mx; spf_strict; independent_mx_with_cloud_spf; provider_classified
+1015,Pombal,us-other,cm-pombal.pt,85,multiple_mx; spf_strict; mx_spf_match; multi_provider_spf:microsoft+us-other; provider_classified
+1214,Portalegre,independent,cm-portalegre.pt,85,mx_spf_match; provider_classified
+1510,Seixal,microsoft,cm-seixal.pt,85,multiple_mx; spf_strict; independent_mx_with_cloud_spf; provider_classified
+0116,São João da Madeira,pt-isp,cm-sjm.pt,85,multiple_mx; spf_strict; independent_mx_with_cloud_spf; provider_classified
+1821,Tondela,microsoft,cm-tondela.pt,85,spf_strict; mx_spf_match; multi_provider_spf:google+microsoft; provider_classified; autodiscover_confirms
+0118,Vagos,microsoft,cm-vagos.pt,85,spf_strict; independent_mx_with_cloud_spf; provider_classified; autodiscover_confirms
+1822,Vila Nova de Paiva,microsoft,cm-vnpaiva.pt,85,multiple_mx; spf_strict; independent_mx_with_cloud_spf; provider_classified; provider_via_gateway_spf
+0314,Vizela,us-other,cm-vizela.pt,85,multiple_mx; spf_strict; mx_spf_match; multi_provider_spf:microsoft+us-other; provider_classified
+0301,Amares,aws,cm-amares.pt,88,spf_softfail; mx_spf_match; provider_classified
+0103,Anadia,us-other,cm-anadia.pt,88,spf_softfail; mx_spf_match; provider_classified; provider_via_gateway_spf
+1006,Caldas da Rainha,independent,mcr.pt,88,spf_softfail; mx_spf_match; provider_classified
+3101,Calheta (Madeira),independent,cmcalheta.pt,88,spf_softfail; mx_spf_match; provider_classified
+0704,Estremoz,independent,cm-estremoz.pt,88,spf_softfail; mx_spf_match; provider_classified
+0806,Lagoa (Algarve),microsoft,cm-lagoa.pt,88,spf_softfail; mx_spf_match; provider_classified
+3104,Machico,pt-isp,cm-machico.pt,88,spf_softfail; mx_spf_match; provider_classified
+1704,Mesão Frio,independent,cm-mesaofrio.pt,88,spf_softfail; mx_spf_match; provider_classified
+1705,Mondim de Basto,aws,mondimdebasto.pt,88,spf_softfail; mx_spf_match; provider_classified
+1212,Nisa,independent,cm-nisa.pt,88,spf_softfail; mx_spf_match; provider_classified
+1812,Penedono,us-other,cm-penedono.pt,88,spf_softfail; mx_spf_match; provider_classified; provider_via_gateway_spf
+0709,Portel,independent,cm-portel.pt,88,spf_softfail; mx_spf_match; provider_classified
+1710,Sabrosa,aws,cm-sabrosa.pt,88,spf_softfail; mx_spf_match; provider_classified
+3109,Santana,independent,cm-santana.com,88,spf_softfail; mx_spf_match; provider_classified
+1509,Santiago do Cacém,independent,cm-santiagocacem.pt,88,spf_softfail; mx_spf_match; provider_classified
+0615,Soure,pt-isp,cm-soure.pt,88,spf_softfail; mx_spf_match; provider_classified
+1817,Sátão,aws,cm-satao.pt,88,spf_softfail; mx_spf_match; provider_classified
+1819,Tabuaço,independent,cm-tabuaco.pt,88,spf_softfail; mx_spf_match; provider_classified
+1318,Trofa,independent,mun-trofa.pt,88,spf_softfail; mx_spf_match; provider_classified
+1712,Valpaços,google,valpacos.pt,88,spf_softfail; mx_spf_match; provider_classified
+1420,Vila Nova da Barquinha,independent,cm-vnbarquinha.pt,88,spf_softfail; mx_spf_match; provider_classified
+0914,Vila Nova de Foz Côa,independent,cm-fozcoa.pt,88,spf_softfail; mx_spf_match; provider_classified
+1316,Vila do Conde,microsoft,cm-viladoconde.pt,88,spf_softfail; mx_spf_match; provider_classified
+0101,Águeda,independent,cm-agueda.pt,88,spf_softfail; mx_spf_match; provider_classified
+1202,Arronches,independent,cm-arronches.pt,90,spf_strict; mx_spf_match; provider_classified
+1203,Avis,independent,cm-avis.pt,90,spf_strict; mx_spf_match; provider_classified
+1302,Baião,microsoft,cm-baiao.pt,90,multiple_mx; spf_strict; independent_mx_with_cloud_spf; provider_classified; autodiscover_confirms
+0204,Barrancos,pt-isp,cm-barrancos.pt,90,multiple_mx; mx_spf_match; provider_classified
+0205,Beja,microsoft,cm-beja.pt,90,multiple_mx; spf_strict; mx_spf_match; multi_provider_spf:microsoft+us-other; provider_classified; autodiscover_confirms
+1005,Bombarral,independent,cm-bombarral.pt,90,spf_strict; mx_spf_match; provider_classified
+1104,Cadaval,independent,cm-cadaval.pt,90,spf_strict; mx_spf_match; provider_classified
+4501,Calheta (Açores),pt-isp,cm-calheta.pt,90,multiple_mx; mx_spf_match; provider_classified
+1204,Campo Maior,independent,cm-campo-maior.pt,90,spf_strict; mx_spf_match; provider_classified
+1007,Castanheira de Pera,pt-isp,cm-castanheiradepera.pt,90,multiple_mx; mx_spf_match; provider_classified
+1205,Castelo de Vide,independent,cm-castelo-vide.pt,90,spf_strict; mx_spf_match; provider_classified
+0206,Castro Verde,us-other,cm-castroverde.pt,90,multiple_mx; mx_spf_match; provider_classified
+1804,Cinfães,google,cm-cinfaes.pt,90,spf_strict; mx_spf_match; provider_classified
+0604,Condeixa-a-Nova,independent,cm-condeixa.pt,90,spf_strict; mx_spf_match; provider_classified
+1409,Coruche,pt-isp,cm-coruche.pt,90,multiple_mx; mx_spf_match; provider_classified
+1206,Crato,independent,cm-crato.pt,90,spf_strict; mx_spf_match; provider_classified
+3102,Câmara de Lobos,independent,cm-camaradelobos.pt,90,spf_strict; mx_spf_match; provider_classified
+1207,Elvas,independent,cm-elvas.pt,90,spf_strict; mx_spf_match; provider_classified
+1303,Felgueiras,microsoft,cm-felgueiras.pt,90,multiple_mx; spf_strict; mx_spf_match; multi_provider_spf:microsoft+us-other; provider_classified; autodiscover_confirms
+1411,Ferreira do Zêzere,independent,cm-ferreiradozezere.pt,90,spf_strict; mx_spf_match; provider_classified
+1208,Fronteira,independent,cm-fronteira.pt,90,spf_strict; mx_spf_match; provider_classified
+1209,Gavião,independent,cm-gaviao.pt,90,spf_strict; mx_spf_match; provider_classified
+1505,Grândola,us-other,cm-grandola.pt,90,multiple_mx; mx_spf_match; provider_classified
+0606,Góis,pt-isp,cm-gois.pt,90,multiple_mx; mx_spf_match; provider_classified
+4801,Lajes das Flores,microsoft,cmlajesdasflores.pt,90,multiple_mx; mx_spf_match; provider_classified; provider_via_gateway_spf
+1107,Loures,microsoft,cm-loures.pt,90,spf_strict; mx_spf_match; provider_classified
+1210,Marvão,independent,cm-marvao.pt,90,spf_strict; mx_spf_match; provider_classified
+0111,Mealhada,pt-isp,cm-mealhada.pt,90,multiple_mx; mx_spf_match; provider_classified
+0407,Mirandela,independent,cm-mirandela.pt,90,spf_strict; mx_spf_match; provider_classified
+1211,Monforte,independent,cm-monforte.pt,90,spf_strict; mx_spf_match; provider_classified
+1707,Murça,pt-isp,cm-murca.pt,90,multiple_mx; mx_spf_match; provider_classified
+0810,Olhão,independent,cm-olhao.pt,90,spf_strict; mx_spf_match; provider_classified
+1421,Ourém,independent,cm.ourem.pt,90,spf_strict; mx_spf_match; provider_classified
+1508,Palmela,microsoft,cm-palmela.pt,90,spf_strict; mx_spf_match; provider_classified
+0612,Pampilhosa da Serra,pt-isp,cm-pampilhosadaserra.pt,90,multiple_mx; mx_spf_match; provider_classified
+1310,Paredes,independent,cm-paredes.pt,90,spf_strict; mx_spf_match; provider_classified
+0613,Penacova,pt-isp,cm-penacova.pt,90,multiple_mx; mx_spf_match; provider_classified
+1311,Penafiel,independent,cm-penafiel.pt,90,spf_strict; mx_spf_match; provider_classified
+0614,Penela,pt-isp,cm-penela.pt,90,multiple_mx; mx_spf_match; provider_classified
+4203,Ponta Delgada,independent,cm-pontadelgada.pt,90,spf_strict; mx_spf_match; provider_classified
+1213,Ponte de Sor,independent,cm-pontedesor.pt,90,spf_strict; mx_spf_match; provider_classified
+1312,Porto,microsoft,cm-porto.pt,90,spf_strict; mx_spf_match; provider_classified
+4302,Praia da Vitória,pt-isp,cmpv.pt,90,multiple_mx; mx_spf_match; provider_classified
+1813,Resende,independent,cm-resende.pt,90,spf_strict; mx_spf_match; provider_classified
+3107,Ribeira Brava,independent,cm-ribeirabrava.pt,90,spf_strict; mx_spf_match; provider_classified
+4401,Santa Cruz da Graciosa,independent,cm-graciosa.pt,90,spf_strict; mx_spf_match; provider_classified
+4802,Santa Cruz das Flores,pt-isp,cmscflores.pt,90,multiple_mx; mx_spf_match; provider_classified
+0213,Serpa,pt-isp,cm-serpa.pt,90,multiple_mx; mx_spf_match; provider_classified
+0509,Sertã,pt-isp,cm-serta.pt,90,multiple_mx; mx_spf_match; provider_classified
+1112,Sobral de Monte Agraço,pt-isp,cm-sobral.pt,90,multiple_mx; mx_spf_match; provider_classified
+1215,Sousel,independent,cm-sousel.pt,90,spf_strict; mx_spf_match; provider_classified
+1113,Torres Vedras,microsoft,cm-tvedras.pt,90,spf_strict; mx_spf_match; provider_classified
+0913,Trancoso,independent,cm-trancoso.pt,90,spf_strict; mx_spf_match; provider_classified
+0616,Tábua,pt-isp,cm-tabua.pt,90,multiple_mx; mx_spf_match; provider_classified
+0119,Vale de Cambra,pt-isp,cm-valedecambra.pt,90,spf_strict; mx_spf_match; provider_classified
+1608,Valença,microsoft,cm-valenca.pt,90,multiple_mx; spf_strict; independent_mx_with_cloud_spf; provider_classified; autodiscover_confirms
+1315,Valongo,microsoft,cm-valongo.pt,90,spf_strict; mx_spf_match; provider_classified
+0410,Vila Flor,pt-isp,cm-vilaflor.pt,90,multiple_mx; mx_spf_match; provider_classified
+1114,Vila Franca de Xira,microsoft,cm-vfxira.pt,90,spf_strict; mx_spf_match; provider_classified
+0617,Vila Nova de Poiares,pt-isp,cm-vilanovadepoiares.pt,90,multiple_mx; mx_spf_match; provider_classified
+0510,Vila de Rei,microsoft,cm-viladerei.pt,90,spf_strict; mx_spf_match; provider_classified
+1001,Alcobaça,microsoft,cm-alcobaca.pt,93,spf_softfail; mx_spf_match; provider_classified; autodiscover_confirms
+1101,Alenquer,microsoft,cm-alenquer.pt,93,spf_softfail; mx_spf_match; provider_classified; autodiscover_confirms
+0202,Almodôvar,google,cm-almodovar.pt,93,multiple_mx; spf_softfail; mx_spf_match; provider_classified
+1102,Arruda dos Vinhos,independent,cm-arruda.pt,93,multiple_mx; spf_softfail; mx_spf_match; provider_classified
+1004,Batalha,microsoft,cm-batalha.pt,93,spf_softfail; mx_spf_match; provider_classified; smtp_confirms
+0501,Belmonte,microsoft,cm-belmonte.pt,93,spf_softfail; mx_spf_match; provider_classified; autodiscover_confirms
+0804,Castro Marim,us-other,cm-castromarim.pt,93,multiple_mx; spf_softfail; mx_spf_match; provider_classified
+0207,Cuba,independent,cm-cuba.pt,93,multiple_mx; spf_softfail; mx_spf_match; provider_classified
+1410,Entroncamento,microsoft,cm-entroncamento.pt,93,spf_softfail; mx_spf_match; provider_classified; autodiscover_confirms
+0605,Figueira da Foz,microsoft,cm-figfoz.pt,93,spf_softfail; mx_spf_match; provider_classified; autodiscover_confirms
+1805,Lamego,google,cm-lamego.pt,93,multiple_mx; spf_softfail; mx_spf_match; provider_classified
+1106,Lisboa,microsoft,cm-lisboa.pt,93,spf_softfail; mx_spf_match; provider_classified; autodiscover_confirms
+0808,Loulé,microsoft,cm-loule.pt,93,multiple_mx; spf_softfail; mx_spf_match; provider_classified
+1108,Lourinhã,independent,cm-lourinha.pt,93,multiple_mx; spf_softfail; mx_spf_match; provider_classified
+0405,Macedo de Cavaleiros,google,cm-macedodecavaleiros.pt,93,multiple_mx; spf_softfail; mx_spf_match; provider_classified
+0406,Miranda do Douro,google,cm-mdouro.pt,93,multiple_mx; spf_softfail; mx_spf_match; provider_classified
+0408,Mogadouro,google,mogadouro.pt,93,multiple_mx; spf_softfail; mx_spf_match; provider_classified
+0809,Monchique,microsoft,cm-monchique.pt,93,spf_softfail; mx_spf_match; provider_classified; autodiscover_confirms
+1808,Mortágua,independent,cm-mortagua.pt,93,multiple_mx; spf_softfail; mx_spf_match; provider_classified
+0909,Mêda,eu-isp,cm-meda.pt,93,multiple_mx; spf_softfail; mx_spf_match; provider_classified
+1011,Nazaré,microsoft,cm-nazare.pt,93,spf_softfail; mx_spf_match; provider_classified; autodiscover_confirms
+0506,Oleiros,pt-isp,cm-oleiros.pt,93,multiple_mx; spf_softfail; mx_spf_match; provider_classified
+0113,Oliveira de Azeméis,microsoft,cm-oaz.pt,93,spf_softfail; mx_spf_match; provider_classified; autodiscover_confirms
+0309,Póvoa de Lanhoso,us-other,mun-planhoso.pt,93,multiple_mx; spf_softfail; mx_spf_match; provider_classified
+1709,Ribeira de Pena,microsoft,cm-rpena.pt,93,multiple_mx; spf_softfail; mx_spf_match; provider_classified; provider_via_gateway_spf
+1711,Santa Marta de Penaguião,google,cm-smpenaguiao.pt,93,multiple_mx; spf_softfail; mx_spf_match; provider_classified
+0812,São Brás de Alportel,us-other,cm-sbras.pt,93,multiple_mx; spf_softfail; mx_spf_match; provider_classified
+4603,São Roque do Pico,microsoft,cm-saoroquedopico.pt,93,spf_softfail; mx_spf_match; provider_classified; autodiscover_confirms
+1820,Tarouca,us-other,cm-tarouca.pt,93,multiple_mx; spf_softfail; mx_spf_match; provider_classified
+0815,Vila do Bispo,microsoft,cm-viladobispo.pt,93,spf_softfail; mx_spf_match; provider_classified; autodiscover_confirms
+0411,Vimioso,google,cm-vimioso.pt,93,multiple_mx; spf_softfail; mx_spf_match; provider_classified; provider_via_gateway_spf
+0412,Vinhais,google,cm-vinhais.pt,93,multiple_mx; spf_softfail; mx_spf_match; provider_classified
+1823,Viseu,us-other,cmviseu.pt,93,multiple_mx; spf_softfail; mx_spf_match; provider_classified; provider_via_gateway_spf
+0705,Évora,independent,cm-evora.pt,93,multiple_mx; spf_softfail; mx_spf_match; provider_classified
+0110,Ílhavo,microsoft,cm-ilhavo.pt,93,spf_softfail; mx_spf_match; provider_classified; autodiscover_confirms
+1401,Abrantes,microsoft,cm-abrantes.pt,95,spf_strict; mx_spf_match; provider_classified; autodiscover_confirms
+0901,Aguiar da Beira,microsoft,cm-aguiardabeira.pt,95,spf_strict; mx_spf_match; provider_classified; autodiscover_confirms
+0701,Alandroal,independent,cm-alandroal.pt,95,multiple_mx; spf_strict; mx_spf_match; provider_classified
+0102,Albergaria-a-Velha,pt-isp,cm-albergaria.pt,95,multiple_mx; spf_strict; mx_spf_match; provider_classified
+0801,Albufeira,microsoft,cm-albufeira.pt,95,spf_strict; mx_spf_match; provider_classified; autodiscover_confirms
+1402,Alcanena,microsoft,cm-alcanena.pt,95,spf_strict; mx_spf_match; provider_classified; autodiscover_confirms
+1502,Alcochete,microsoft,cm-alcochete.pt,95,spf_strict; mx_spf_match; provider_classified; autodiscover_confirms
+0802,Alcoutim,us-other,cm-alcoutim.pt,95,multiple_mx; spf_strict; mx_spf_match; provider_classified
+1501,Alcácer do Sal,microsoft,m-alcacerdosal.pt,95,spf_strict; mx_spf_match; provider_classified; autodiscover_confirms
+0401,Alfândega da Fé,pt-isp,cm-alfandegadafe.pt,95,multiple_mx; spf_strict; mx_spf_match; provider_classified
+1701,Alijó,microsoft,cm-alijo.pt,95,spf_strict; mx_spf_match; provider_classified; autodiscover_confirms
+0201,Aljustrel,us-other,mun-aljustrel.pt,95,multiple_mx; spf_strict; mx_spf_match; provider_classified
+0902,Almeida,microsoft,cm-almeida.pt,95,spf_strict; mx_spf_match; provider_classified; autodiscover_confirms
+1403,Almeirim,independent,cm-almeirim.pt,95,multiple_mx; spf_strict; mx_spf_match; provider_classified
+1002,Alvaiázere,independent,cm-alvaiazere.pt,95,multiple_mx; spf_strict; mx_spf_match; provider_classified
+0203,Alvito,us-other,cm-alvito.pt,95,multiple_mx; spf_strict; mx_spf_match; provider_classified
+1301,Amarante,microsoft,cm-amarante.pt,95,spf_strict; mx_spf_match; provider_classified; autodiscover_confirms
+4301,Angra do Heroísmo,microsoft,cmah.pt,95,spf_strict; mx_spf_match; provider_classified; autodiscover_confirms
+1003,Ansião,microsoft,cm-ansiao.pt,95,spf_strict; mx_spf_match; provider_classified; autodiscover_confirms
+0702,Arraiolos,independent,cm-arraiolos.pt,95,multiple_mx; spf_strict; mx_spf_match; provider_classified
+1405,Benavente,microsoft,cm-benavente.pt,95,spf_strict; mx_spf_match; provider_classified; autodiscover_confirms
+0703,Borba,independent,cm-borba.pt,95,multiple_mx; spf_strict; mx_spf_match; provider_classified
+0303,Braga,microsoft,cm-braga.pt,95,spf_strict; mx_spf_match; provider_classified; autodiscover_confirms
+0402,Bragança,microsoft,cm-braganca.pt,95,spf_strict; mx_spf_match; provider_classified; autodiscover_confirms
+0304,Cabeceiras de Basto,us-other,cabeceirasdebasto.pt,95,multiple_mx; spf_strict; mx_spf_match; provider_classified; provider_via_gateway_spf
+1602,Caminha,microsoft,cm-caminha.pt,95,spf_strict; mx_spf_match; provider_classified; autodiscover_confirms
+1802,Carregal do Sal,microsoft,cm-carregal.pt,95,spf_strict; mx_spf_match; provider_classified; autodiscover_confirms
+1406,Cartaxo,microsoft,cm-cartaxo.pt,95,spf_strict; mx_spf_match; provider_classified; autodiscover_confirms
+0502,Castelo Branco,microsoft,cm-castelobranco.pt,95,spf_strict; mx_spf_match; provider_classified; autodiscover_confirms
+0903,Celorico da Beira,eu-isp,cm-celoricodabeira.pt,95,multiple_mx; spf_strict; mx_spf_match; provider_classified
+0305,Celorico de Basto,eu-isp,mun-celoricodebasto.pt,95,multiple_mx; spf_strict; mx_spf_match; provider_classified
+1407,Chamusca,microsoft,cm-chamusca.pt,95,spf_strict; mx_spf_match; provider_classified; autodiscover_confirms
+1703,Chaves,google,chaves.pt,95,multiple_mx; spf_strict; mx_spf_match; provider_classified
+0603,Coimbra,microsoft,cm-coimbra.pt,95,spf_strict; mx_spf_match; provider_classified; autodiscover_confirms
+1408,Constância,us-other,cm-constancia.pt,95,multiple_mx; spf_strict; mx_spf_match; provider_classified
+4901,Corvo,microsoft,cm-corvo.pt,95,spf_strict; mx_spf_match; provider_classified; autodiscover_confirms
+0503,Covilhã,independent,cm-covilha.pt,95,multiple_mx; spf_strict; mx_spf_match; provider_classified
+0107,Espinho,microsoft,cm-espinho.pt,95,spf_strict; mx_spf_match; provider_classified; autodiscover_confirms
+0306,Esposende,microsoft,cm-esposende.pt,95,spf_strict; mx_spf_match; provider_classified; autodiscover_confirms
+0108,Estarreja,microsoft,cm-estarreja.pt,95,spf_strict; mx_spf_match; provider_classified; autodiscover_confirms
+0307,Fafe,microsoft,cm-fafe.pt,95,spf_strict; mx_spf_match; provider_classified; autodiscover_confirms
+0208,Ferreira do Alentejo,independent,cm-ferreira-alentejo.pt,95,multiple_mx; spf_strict; mx_spf_match; provider_classified
+0904,Figueira de Castelo Rodrigo,microsoft,cm-fcr.pt,95,spf_strict; mx_spf_match; provider_classified; autodiscover_confirms
+0905,Fornos de Algodres,microsoft,cm-fornosdealgodres.pt,95,spf_strict; mx_spf_match; provider_classified; autodiscover_confirms
+0404,Freixo de Espada à Cinta,independent,cm-fec.pt,95,multiple_mx; spf_strict; mx_spf_match; provider_classified
+0504,Fundão,microsoft,cm-fundao.pt,95,spf_strict; mx_spf_match; provider_classified; autodiscover_confirms
+1412,Golegã,pt-isp,cm-golega.pt,95,multiple_mx; spf_strict; mx_spf_match; provider_classified
+0906,Gouveia,us-other,cm-gouveia.pt,95,multiple_mx; spf_strict; mx_spf_match; provider_classified; provider_via_gateway_spf
+0907,Guarda,microsoft,mun-guarda.pt,95,spf_strict; mx_spf_match; provider_classified; autodiscover_confirms
+0308,Guimarães,microsoft,cm-guimaraes.pt,95,spf_strict; mx_spf_match; provider_classified; autodiscover_confirms
+4701,Horta,microsoft,cmhorta.pt,95,spf_strict; mx_spf_match; provider_classified; autodiscover_confirms
+0505,Idanha-a-Nova,microsoft,cm-idanhanova.pt,95,spf_strict; mx_spf_match; provider_classified; autodiscover_confirms
+4201,Lagoa (Açores),microsoft,lagoa-acores.pt,95,spf_strict; mx_spf_match; provider_classified; autodiscover_confirms
+0807,Lagos,microsoft,cm-lagos.pt,95,spf_strict; mx_spf_match; provider_classified; autodiscover_confirms
+4601,Lajes do Pico,microsoft,cm-lajesdopico.pt,95,spf_strict; mx_spf_match; provider_classified; autodiscover_confirms
+1009,Leiria,microsoft,cm-leiria.pt,95,spf_strict; mx_spf_match; provider_classified; autodiscover_confirms
+1305,Lousada,microsoft,cm-lousada.pt,95,spf_strict; mx_spf_match; provider_classified; autodiscover_confirms
+0607,Lousã,microsoft,cm-lousa.pt,95,spf_strict; mx_spf_match; provider_classified; autodiscover_confirms
+4602,Madalena,microsoft,cm-madalena.pt,95,spf_strict; mx_spf_match; provider_classified; autodiscover_confirms
+1806,Mangualde,microsoft,cmmangualde.pt,95,spf_strict; mx_spf_match; provider_classified; autodiscover_confirms
+0908,Manteigas,microsoft,cm-manteigas.pt,95,spf_strict; mx_spf_match; provider_classified; autodiscover_confirms
+1010,Marinha Grande,microsoft,cm-mgrande.pt,95,spf_strict; mx_spf_match; provider_classified; autodiscover_confirms
+1308,Matosinhos,microsoft,cm-matosinhos.pt,95,spf_strict; mx_spf_match; provider_classified; autodiscover_confirms
+1413,Mação,independent,cm-macao.pt,95,multiple_mx; spf_strict; mx_spf_match; provider_classified
+1603,Melgaço,microsoft,cm-melgaco.pt,95,spf_strict; mx_spf_match; provider_classified; autodiscover_confirms
+0608,Mira,pt-isp,cm-mira.pt,95,multiple_mx; spf_strict; mx_spf_match; provider_classified
+0609,Miranda do Corvo,pt-isp,cm-mirandadocorvo.pt,95,multiple_mx; spf_strict; mx_spf_match; provider_classified
+1807,Moimenta da Beira,microsoft,cm-moimenta.pt,95,spf_strict; mx_spf_match; provider_classified; autodiscover_confirms
+1506,Moita,microsoft,cm-moita.pt,95,spf_strict; mx_spf_match; provider_classified; autodiscover_confirms
+1706,Montalegre,microsoft,cm-montalegre.pt,95,spf_strict; mx_spf_match; provider_classified; autodiscover_confirms
+0706,Montemor-o-Novo,independent,cm-montemornovo.pt,95,multiple_mx; spf_strict; mx_spf_match; provider_classified
+0610,Montemor-o-Velho,independent,cm-montemorvelho.pt,95,multiple_mx; spf_strict; mx_spf_match; provider_classified
+1507,Montijo,microsoft,mun-montijo.pt,95,spf_strict; mx_spf_match; provider_classified; autodiscover_confirms
+1604,Monção,microsoft,cm-moncao.pt,95,spf_strict; mx_spf_match; provider_classified; autodiscover_confirms
+0707,Mora,independent,cm-mora.pt,95,multiple_mx; spf_strict; mx_spf_match; provider_classified
+0210,Moura,pt-isp,cm-moura.pt,95,multiple_mx; spf_strict; mx_spf_match; provider_classified
+0708,Mourão,independent,cm-mourao.pt,95,multiple_mx; spf_strict; mx_spf_match; provider_classified
+0112,Murtosa,pt-isp,cm-murtosa.pt,95,multiple_mx; spf_strict; mx_spf_match; provider_classified
+1809,Nelas,microsoft,cm-nelas.pt,95,multiple_mx; spf_strict; mx_spf_match; provider_classified; provider_via_gateway_spf
+4202,Nordeste,independent,cmnordeste.pt,95,multiple_mx; spf_strict; mx_spf_match; provider_classified
+0211,Odemira,us-other,cm-odemira.pt,95,multiple_mx; spf_strict; mx_spf_match; provider_classified
+1810,Oliveira de Frades,microsoft,cm-ofrades.pt,95,spf_strict; mx_spf_match; provider_classified; autodiscover_confirms
+0114,Oliveira do Bairro,microsoft,cm-olb.pt,95,spf_strict; mx_spf_match; provider_classified; autodiscover_confirms
+1605,Paredes de Coura,microsoft,paredesdecoura.pt,95,spf_strict; mx_spf_match; provider_classified; autodiscover_confirms
+1013,Pedrógão Grande,microsoft,cm-pedrogaogrande.pt,95,spf_strict; mx_spf_match; provider_classified; autodiscover_confirms
+0507,Penamacor,microsoft,cm-penamacor.pt,95,spf_strict; mx_spf_match; provider_classified; autodiscover_confirms
+1014,Peniche,microsoft,cm-peniche.pt,95,spf_strict; mx_spf_match; provider_classified; autodiscover_confirms
+1708,Peso da Régua,microsoft,cmpr.pt,95,spf_strict; mx_spf_match; provider_classified; autodiscover_confirms
+0910,Pinhel,microsoft,cm-pinhel.pt,95,spf_strict; mx_spf_match; provider_classified; autodiscover_confirms
+3105,Ponta do Sol,independent,cm-pontadosol.pt,95,multiple_mx; spf_strict; mx_spf_match; provider_classified
+1607,Ponte de Lima,us-other,cm-pontedelima.pt,95,multiple_mx; spf_strict; mx_spf_match; provider_classified
+0811,Portimão,microsoft,cm-portimao.pt,95,spf_strict; mx_spf_match; provider_classified; autodiscover_confirms
+3106,Porto Moniz,microsoft,portomoniz.pt,95,spf_strict; mx_spf_match; provider_classified; autodiscover_confirms
+3201,Porto Santo,microsoft,cm-portosanto.pt,95,spf_strict; mx_spf_match; provider_classified; autodiscover_confirms
+1016,Porto de Mós,independent,municipio-portodemos.pt,95,multiple_mx; spf_strict; mx_spf_match; provider_classified
+4204,Povoação,microsoft,cm-povoacao.pt,95,spf_strict; mx_spf_match; provider_classified; autodiscover_confirms
+0508,Proença-a-Nova,pt-isp,cm-proencanova.pt,95,multiple_mx; spf_strict; mx_spf_match; provider_classified
+1313,Póvoa de Varzim,microsoft,cm-pvarzim.pt,95,spf_strict; mx_spf_match; provider_classified; autodiscover_confirms
+0710,Redondo,independent,cm-redondo.pt,95,multiple_mx; spf_strict; mx_spf_match; provider_classified
+0711,Reguengos de Monsaraz,independent,cm-reguengos-monsaraz.pt,95,multiple_mx; spf_strict; mx_spf_match; provider_classified
+0911,Sabugal,microsoft,cm-sabugal.pt,95,spf_strict; mx_spf_match; provider_classified; autodiscover_confirms
+1415,Salvaterra de Magos,pt-isp,cm-salvaterrademagos.pt,95,multiple_mx; spf_strict; mx_spf_match; provider_classified
+1814,Santa Comba Dão,microsoft,cm-santacombadao.pt,95,spf_strict; mx_spf_match; provider_classified; autodiscover_confirms
+3108,Santa Cruz,microsoft,cm-santacruz.pt,95,spf_strict; mx_spf_match; provider_classified; autodiscover_confirms
+1416,Santarém,microsoft,cm-santarem.pt,95,spf_strict; mx_spf_match; provider_classified; autodiscover_confirms
+1314,Santo Tirso,microsoft,cm-stirso.pt,95,spf_strict; mx_spf_match; provider_classified; autodiscover_confirms
+1417,Sardoal,microsoft,cm-sardoal.pt,95,spf_strict; mx_spf_match; provider_classified; smtp_confirms
+1818,Sernancelhe,microsoft,cm-sernancelhe.pt,95,spf_strict; mx_spf_match; provider_classified; autodiscover_confirms
+1511,Sesimbra,microsoft,sesimbra.pt,95,spf_strict; mx_spf_match; provider_classified; autodiscover_confirms
+1512,Setúbal,microsoft,mun-setubal.pt,95,spf_strict; mx_spf_match; provider_classified; autodiscover_confirms
+1513,Sines,microsoft,mun-sines.pt,95,spf_strict; mx_spf_match; provider_classified; autodiscover_confirms
+1111,Sintra,microsoft,cm-sintra.pt,95,spf_strict; mx_spf_match; provider_classified; autodiscover_confirms
+1815,São João da Pesqueira,us-other,sjpesqueira.pt,95,multiple_mx; spf_strict; mx_spf_match; provider_classified
+1816,São Pedro do Sul,pt-isp,cm-spsul.pt,95,multiple_mx; spf_strict; mx_spf_match; provider_classified
+3110,São Vicente,microsoft,cm-saovicente.pt,95,spf_strict; mx_spf_match; provider_classified; autodiscover_confirms
+0814,Tavira,microsoft,cm-tavira.pt,95,spf_strict; mx_spf_match; provider_classified; autodiscover_confirms
+0310,Terras de Bouro,pt-isp,cm-terrasdebouro.pt,95,multiple_mx; spf_strict; mx_spf_match; provider_classified
+0712,Vendas Novas,independent,cm-vendasnovas.pt,95,multiple_mx; spf_strict; mx_spf_match; provider_classified
+0713,Viana do Alentejo,independent,cm-vianadoalentejo.pt,95,multiple_mx; spf_strict; mx_spf_match; provider_classified
+1609,Viana do Castelo,microsoft,cm-viana-castelo.pt,95,spf_strict; mx_spf_match; provider_classified; autodiscover_confirms
+0311,Vieira do Minho,pt-isp,cm-vminho.pt,95,multiple_mx; spf_strict; mx_spf_match; provider_classified
+4206,Vila Franca do Campo,microsoft,cmvfc.pt,95,spf_strict; mx_spf_match; provider_classified; autodiscover_confirms
+1610,Vila Nova de Cerveira,microsoft,cm-vncerveira.pt,95,spf_strict; mx_spf_match; provider_classified; autodiscover_confirms
+0312,Vila Nova de Famalicão,microsoft,famalicao.pt,95,spf_strict; mx_spf_match; provider_classified; autodiscover_confirms
+1317,Vila Nova de Gaia,microsoft,cm-gaia.pt,95,spf_strict; mx_spf_match; provider_classified; autodiscover_confirms
+1713,Vila Pouca de Aguiar,microsoft,cm-vpaguiar.pt,95,spf_strict; mx_spf_match; provider_classified; autodiscover_confirms
+0511,Vila Velha de Ródão,pt-isp,cm-vvrodao.pt,95,multiple_mx; spf_strict; mx_spf_match; provider_classified
+0313,Vila Verde,microsoft,cm-vilaverde.pt,95,spf_strict; mx_spf_match; provider_classified; autodiscover_confirms
+0714,Vila Viçosa,independent,cm-vilavicosa.pt,95,multiple_mx; spf_strict; mx_spf_match; provider_classified
+1714,Vila Real,microsoft,cm-vilareal.pt,98,multiple_mx; spf_softfail; mx_spf_match; provider_classified; autodiscover_confirms
+0602,Cantanhede,microsoft,cm-cantanhede.pt,100,multiple_mx; spf_strict; mx_spf_match; provider_classified; autodiscover_confirms
