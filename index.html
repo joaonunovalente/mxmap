@@ -25,30 +25,30 @@
     />
     <meta name="author" content="Soverin" />
     <meta name="robots" content="index, follow" />
-    <link rel="canonical" href="https://mxmap.nl/" />
+    <link rel="canonical" href="https://mxmap.pt/" />
     <meta property="og:type" content="website" />
     <meta
       property="og:title"
-      content="MXmap — Serviços de Email dos Municípios Portugueses"
+      content="MXmap.pt — Serviços de Email dos Municípios Portugueses"
     />
     <meta
       property="og:description"
       content="Mapa interativo que mostra onde os municípios portugueses alojam o seu email oficial. Análise DNS por serviço."
     />
-    <meta property="og:url" content="https://mxmap.nl/" />
+    <meta property="og:url" content="https://mxmap.pt/" />
     <meta property="og:locale" content="pt_PT" />
     <meta property="og:site_name" content="MXmap" />
-    <meta property="og:image" content="https://mxmap.nl/og-image.jpg" />
+    <meta property="og:image" content="https://mxmap.nl/og-image.png" />
     <meta name="twitter:card" content="summary_large_image" />
     <meta
       name="twitter:title"
-      content="MXmap — Serviços de Email dos Municípios Portugueses"
+      content="MXmap.pt — Serviços de Email dos Municípios Portugueses"
     />
     <meta
       name="twitter:description"
       content="Mapa interativo que mostra onde os municípios portugueses alojam o seu email oficial. Análise DNS por serviço."
     />
-    <meta name="twitter:image" content="https://mxmap.nl/og-image.jpg" />
+    <meta name="twitter:image" content="https://mxmap.pt/og-image.png" />
     <link
       rel="icon"
       type="image/svg+xml"
@@ -459,7 +459,7 @@
       <aside id="sidebar" aria-label="Detalhes do mapa e legenda">
         <p class="eyebrow">MAPA MUNICIPAL</p>
         <br />
-        <h1>Infraestrutura de email municipal em Portugal</h1>
+        <h1>Infraestrutura municipal de email em Portugal</h1>
         <br />
 
         <p class="lead">
@@ -514,7 +514,7 @@
             <li>
               Existem muitos municípios no Alentejo onde não é possível saber
               quais os serviços de email usados apenas consultando os registos
-              de MX e SPF.
+              MX e SPF.
             </li>
             <li>
               Todos os munícipios que usa PTempresas estão classificados como
@@ -620,7 +620,7 @@
 
           const summary = document.getElementById("provider-summary");
           if (summary) {
-            summary.innerHTML = `<strong>${totalMunicipalities}</strong> municípios no total.`;
+            summary.innerHTML = `Num total de <strong>${totalMunicipalities}</strong> municípios.`;
           }
 
           const pill = document.getElementById("polygons-loaded");
