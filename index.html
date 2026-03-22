@@ -14,14 +14,14 @@
     <link rel="dns-prefetch" href="https://b.basemaps.cartocdn.com" />
     <link rel="dns-prefetch" href="https://c.basemaps.cartocdn.com" />
     <link rel="dns-prefetch" href="https://d.basemaps.cartocdn.com" />
-    <title>MXmap — Serviços de Email dos Municipios Portugueses</title>
+    <title>MXmap — Serviços de Email dos Municípios Portugueses</title>
     <meta
       name="description"
-      content="Mapa interativo que mostra os serviços de email dos municipios portugueses, com base na analise DNS de registos MX e SPF."
+      content="Mapa interativo que mostra os serviços de email dos municípios portugueses, com base na análise DNS de registos MX e SPF."
     />
     <meta
       name="keywords"
-      content="Portugal, municipios, email, soberania, CLOUD Act, registos MX, SPF, DNS, Microsoft 365, Google Workspace, soberania digital, protecao de dados"
+      content="Portugal, municípios, email, soberania, CLOUD Act, registos MX, SPF, DNS, Microsoft 365, Google Workspace, soberania digital, proteção de dados"
     />
     <meta name="author" content="Soverin" />
     <meta name="robots" content="index, follow" />
@@ -29,11 +29,11 @@
     <meta property="og:type" content="website" />
     <meta
       property="og:title"
-      content="MXmap — Serviços de Email dos Municipios Portugueses"
+      content="MXmap — Serviços de Email dos Municípios Portugueses"
     />
     <meta
       property="og:description"
-      content="Mapa interativo que mostra onde os municipios portugueses alojam o seu email oficial. Analise DNS por serviço."
+      content="Mapa interativo que mostra onde os municípios portugueses alojam o seu email oficial. Análise DNS por serviço."
     />
     <meta property="og:url" content="https://mxmap.nl/" />
     <meta property="og:locale" content="pt_PT" />
@@ -42,11 +42,11 @@
     <meta name="twitter:card" content="summary_large_image" />
     <meta
       name="twitter:title"
-      content="MXmap — Serviços de Email dos Municipios Portugueses"
+      content="MXmap — Serviços de Email dos Municípios Portugueses"
     />
     <meta
       name="twitter:description"
-      content="Mapa interativo que mostra onde os municipios portugueses alojam o seu email oficial. Analise DNS por serviço."
+      content="Mapa interativo que mostra onde os municípios portugueses alojam o seu email oficial. Análise DNS por serviço."
     />
     <meta name="twitter:image" content="https://mxmap.nl/og-image.jpg" />
     <link
@@ -89,6 +89,7 @@
         font-family:
           "Iowan Old Style", "Palatino Linotype", Palatino, "Book Antiqua",
           Georgia, serif;
+        font-size: px;
         background: var(--bg-paper);
         color: var(--ink-soft);
         overflow: hidden;
@@ -103,10 +104,16 @@
       #sidebar {
         width: 320px;
         flex: 0 0 320px;
+        display: flex;
+        flex-direction: column;
         background: linear-gradient(180deg, var(--bg-panel) 0%, #d9d3ca 100%);
         border-right: 1px solid var(--line);
         padding: 16px 14px;
         overflow-y: auto;
+      }
+
+      #sidebar-toggle {
+        display: none;
       }
 
       .eyebrow {
@@ -119,18 +126,22 @@
 
       h1 {
         color: var(--ink-strong);
-        font-size: 40px;
+        font-size: 35px;
         line-height: 0.94;
         margin-bottom: 10px;
       }
 
       .lead,
-      .helper,
       .stats,
-      .notes,
+      .notes {
+        font-size: 15px;
+        line-height: 1.54;
+      }
+
+      .helper,
       .source-links {
-        font-size: 13px;
-        line-height: 1.34;
+        font-size: 12px;
+        line-height: 1.4;
       }
 
       .lead {
@@ -144,10 +155,10 @@
       .legend-item {
         display: flex;
         align-items: center;
-        gap: 8px;
+        gap: 12px;
         margin: 5px 0;
         color: var(--ink-strong);
-        font-size: 13px;
+        font-size: 15px;
       }
 
       .dot {
@@ -202,6 +213,12 @@
         margin-top: 10px;
       }
 
+      .links-section {
+        margin-top: auto;
+        padding-top: 10px;
+        border-top: 1px solid var(--line);
+      }
+
       .stats strong {
         color: var(--ink-strong);
       }
@@ -218,8 +235,9 @@
       }
 
       .source-links {
-        padding-top: 10px;
-        border-top: 1px solid var(--line);
+        margin-top: 6px;
+        padding-top: 0;
+        border-top: 0;
       }
 
       .status-pill {
@@ -384,6 +402,39 @@
           max-height: 48dvh;
           border-right: 0;
           border-bottom: 1px solid var(--line);
+          transition:
+            max-height 0.25s ease,
+            padding 0.2s ease,
+            border-color 0.2s ease;
+          overflow-x: hidden;
+          overflow-y: auto;
+          -webkit-overflow-scrolling: touch;
+        }
+
+        #sidebar-toggle {
+          display: block;
+          width: 100%;
+          border: 0;
+          border-bottom: 1px solid var(--line);
+          background: linear-gradient(180deg, var(--bg-panel) 0%, #d9d3ca 100%);
+          color: var(--ink-strong);
+          font:
+            600 13px/1.2 "Trebuchet MS",
+            "Gill Sans",
+            "Segoe UI",
+            sans-serif;
+          letter-spacing: 0.4px;
+          padding: 12px 14px;
+          text-align: left;
+          cursor: pointer;
+        }
+
+        #sidebar.is-collapsed {
+          max-height: 0;
+          padding-top: 0;
+          padding-bottom: 0;
+          border-bottom-color: transparent;
+          overflow: hidden;
         }
 
         #map-wrap {
@@ -397,13 +448,21 @@
   </head>
   <body>
     <div id="layout">
+      <button
+        id="sidebar-toggle"
+        type="button"
+        aria-controls="sidebar"
+        aria-expanded="false"
+      >
+        Mostrar menu
+      </button>
       <aside id="sidebar" aria-label="Detalhes do mapa e legenda">
         <p class="eyebrow">MAPA MUNICIPAL DE PORTUGAL</p>
         <br />
         <h1>Infraestrutura de email municipal em Portugal</h1>
         <br />
 
-        <p class="lead">Municipios portugueses por serviço de email.</p>
+        <p class="lead">Municípios portugueses por serviço de email.</p>
         <div class="legend" aria-label="Legenda de serviços de email">
           <div class="legend-item">
             <span class="dot microsoft" aria-hidden="true"></span>
@@ -441,45 +500,64 @@
             <span class="legend-count" id="count-unknown">0</span>
           </div>
         </div>
-        <br />
-
         <p class="stats" id="provider-summary">A carregar resumo...</p>
-        <p class="helper">
-          Clique num municipio para ver o serviço de email e website.
-        </p>
         <br />
-
-        <div class="notes"></div>
-        <p class="helper">
-          Ver também
-          <a href="https://mxmap.nl" target="_blank" rel="noopener">mxmap.nl</a>
-          ,
-          <a href="https://mxmap.ch" target="_blank" rel="noopener">mxmap.ch</a>
-          e
-          <a href="https://mxmap.be" target="_blank" rel="noopener">mxmap.be</a
-          >.
-        </p>
-
-        <div class="source-links">
-          <p>
-            Código fonte:
-            <a
-              href="https://codeberg.org/joaonunovalente/mxmap"
-              target="_blank"
-              rel="noopener"
-              >codeberg.org/joaonunovalente/mxmap</a
+        <div class="notes" aria-label="Notas sobre classificação">
+          <p><strong>Notas:</strong></p>
+          <ul>
+            <li>
+              Alguns municípios que usam FortiMail, Sophos, AnubisNetworks e
+              Trend Micro estão classificados como Outros US.
+            </li>
+            <li>
+              Existem muitos municípios no Alentejo onde não é possível saber
+              quais os serviços de email usados apenas consultando os registos
+              de MX e SPF.
+            </li>
+            <li>
+              Todos os munícipios que usa PTempresas estão classificados como
+              PT.
+            </li>
+          </ul>
+        </div>
+        <div class="links-section" aria-label="Links e contacto">
+          <p class="helper">
+            Ver também
+            <a href="https://mxmap.nl" target="_blank" rel="noopener"
+              >mxmap.nl</a
             >
+            ,
+            <a href="https://mxmap.ch" target="_blank" rel="noopener"
+              >mxmap.ch</a
+            >
+            e
+            <a href="https://mxmap.be" target="_blank" rel="noopener"
+              >mxmap.be</a
+            >.
           </p>
-          <p id="generated-at"></p>
+
+          <div class="source-links">
+            <p>Contacto: contacto@mxmap.pt</p>
+            <p>
+              Código fonte:
+              <a
+                href="https://github.com/joaonunovalente/mxmap"
+                target="_blank"
+                rel="noopener"
+                >github.com/joaonunovalente/mxmap</a
+              >
+            </p>
+            <p id="generated-at"></p>
+          </div>
         </div>
 
-        <!-- <p class="status-pill" id="polygons-loaded">A carregar municipios...</p> -->
+        <!-- <p class="status-pill" id="polygons-loaded">A carregar municípios...</p> -->
       </aside>
 
       <main
         id="map-wrap"
         role="application"
-        aria-label="Mapa interativo dos serviços de email dos municipios portugueses"
+        aria-label="Mapa interativo dos serviços de email dos municípios portugueses"
       >
         <div id="map"></div>
         <div id="map-loading">A carregar dados do mapa&hellip;</div>
@@ -538,12 +616,12 @@
 
           const summary = document.getElementById("provider-summary");
           if (summary) {
-            summary.innerHTML = `<strong>${totalMunicipalities}</strong> municipios no total`;
+            summary.innerHTML = `<strong>${totalMunicipalities}</strong> municípios no total.`;
           }
 
           const pill = document.getElementById("polygons-loaded");
           if (pill) {
-            pill.textContent = `Carregados ${polygonsLoaded} municipios.`;
+            pill.textContent = `Carregados ${polygonsLoaded} municípios.`;
           }
         }
 
@@ -570,6 +648,13 @@
           const el = document.createElement("span");
           el.textContent = str;
           return el.innerHTML;
+        }
+
+        function isMainlandFeature(feature) {
+          const props = feature && feature.properties ? feature.properties : {};
+          const district = String(props.dis_name || "").normalize("NFD");
+          const districtAscii = district.replace(/[\u0300-\u036f]/g, "");
+          return districtAscii !== "Acores" && districtAscii !== "Madeira";
         }
 
         const SPF_ASN_MAP = {
@@ -772,6 +857,45 @@
           invalidateMapSize();
         });
 
+        const sidebar = document.getElementById("sidebar");
+        const sidebarToggle = document.getElementById("sidebar-toggle");
+        const mobileMq = window.matchMedia("(max-width: 760px)");
+
+        function applySidebarMode() {
+          if (!sidebar || !sidebarToggle) return;
+
+          if (mobileMq.matches) {
+            sidebar.classList.add("is-collapsed");
+            sidebarToggle.setAttribute("aria-expanded", "false");
+            sidebarToggle.textContent = "Mostrar menu";
+          } else {
+            sidebar.classList.remove("is-collapsed");
+            sidebarToggle.setAttribute("aria-expanded", "true");
+            sidebarToggle.textContent = "Ocultar menu";
+          }
+
+          invalidateMapSize();
+        }
+
+        if (sidebar && sidebarToggle) {
+          sidebarToggle.addEventListener("click", function () {
+            const collapsed = sidebar.classList.toggle("is-collapsed");
+            sidebarToggle.setAttribute("aria-expanded", String(!collapsed));
+            sidebarToggle.textContent = collapsed
+              ? "Mostrar menu"
+              : "Ocultar menu";
+            invalidateMapSize();
+          });
+
+          if (mobileMq.addEventListener) {
+            mobileMq.addEventListener("change", applySidebarMode);
+          } else if (mobileMq.addListener) {
+            mobileMq.addListener(applySidebarMode);
+          }
+
+          applySidebarMode();
+        }
+
         async function loadData() {
           const [geoRes, dataRes] = await Promise.all([
             fetch("municipalities-portugal.geojson"),
@@ -824,7 +948,7 @@
             polygonsLoaded,
           );
 
-          L.geoJSON(geo, {
+          const municipalityLayer = L.geoJSON(geo, {
             style: function (feature) {
               const m = municipalityForFeature(feature);
               const provider = normalizeProvider(m ? m.provider : "unknown");
@@ -840,7 +964,7 @@
                 feature && feature.properties ? feature.properties : {};
               const conCode = props.con_code ? String(props.con_code) : "";
               const conName =
-                props.con_name || props.name || conCode || "Municipio";
+                props.con_name || props.name || conCode || "Município";
               const m = municipalityForFeature(feature);
               if (!m) {
                 layer.bindPopup(
@@ -894,7 +1018,7 @@
                 if (adHost) {
                   const adCls = classifyHost(adHost);
                   autodiscoverSection =
-                    `<div class="popup-section"><div class="popup-section-title">Configuracao de cliente de email <span class="popup-section-hint">(Autodiscover)</span></div>` +
+                    `<div class="popup-section"><div class="popup-section-title">Configuração de cliente de email <span class="popup-section-hint">(Autodiscover)</span></div>` +
                     `<table class="dns-table"><tr><td class="dn">${escapeHtml(adCls.name)}</td><td><span class="cat-badge ${escapeHtml(adCls.category)}">${escapeHtml(adCls.category)}</span></td><td class="host" title="${escapeHtml(adHost)}">${escapeHtml(adHost)}</td></tr></table></div>`;
                 }
               }
@@ -921,6 +1045,24 @@
               });
             },
           }).addTo(map);
+
+          const mainlandFeatures = (geo.features || []).filter(
+            isMainlandFeature,
+          );
+          const mainlandBounds = L.geoJSON({
+            type: "FeatureCollection",
+            features: mainlandFeatures,
+          }).getBounds();
+          const initialBounds = mainlandBounds.isValid()
+            ? mainlandBounds
+            : municipalityLayer.getBounds();
+
+          if (initialBounds.isValid()) {
+            map.fitBounds(initialBounds, {
+              padding: [20, 20],
+              maxZoom: 7,
+            });
+          }
 
           const loading = document.getElementById("map-loading");
           if (loading) loading.remove();
