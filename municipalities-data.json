@@ -1,0 +1,2767 @@
+{
+  "registos": [
+    {
+      "camara_municipal": "Abrantes",
+      "presidente": "Manuel Jorge Valamatos Reis",
+      "endereco": "Praça Raimundo Soares",
+      "codigo_postal_localidade": "2200-366 ABRANTES",
+      "telefone": "241 330 100",
+      "email_ou_web": "geral@cm-abrantes.pt",
+      "website": "http://www.cm-abrantes.pt"
+    },
+    {
+      "camara_municipal": "Águeda",
+      "presidente": "Jorge Almeida",
+      "endereco": "Praça do Município 2",
+      "codigo_postal_localidade": "3754-500 ÁGUEDA",
+      "telefone": "234 610 070",
+      "email_ou_web": "geral@cm-agueda.pt",
+      "website": "http://www.cm-agueda.pt"
+    },
+    {
+      "camara_municipal": "Aguiar da Beira",
+      "presidente": "Virgílio da Cunha",
+      "endereco": "Av. da Liberdade",
+      "codigo_postal_localidade": "3570-018 AGUIAR DA BEIRA",
+      "telefone": "232 689 100",
+      "email_ou_web": "geral@cm-aguiardabeira.pt",
+      "website": "http://www.cm-aguiardabeira.pt"
+    },
+    {
+      "camara_municipal": "Alandroal",
+      "presidente": "João Maria Aranha Grilo",
+      "endereco": "Praça da República",
+      "codigo_postal_localidade": "7250-116 ALANDROAL",
+      "telefone": "268 440 040",
+      "email_ou_web": "geral@cm-alandroal.pt",
+      "website": "https://www.cm-alandroal.pt/"
+    },
+    {
+      "camara_municipal": "Albergaria-a-Velha",
+      "presidente": "José Carlos Estrela Coelho",
+      "endereco": "Praça Comendador Ferreira Tavares",
+      "codigo_postal_localidade": "3850-053 ALBERGARIA-A-VELHA",
+      "telefone": "234 529 300",
+      "email_ou_web": "geral@cm-albergaria.pt",
+      "website": "http://www.cm-albergaria.pt"
+    },
+    {
+      "camara_municipal": "Albufeira",
+      "presidente": "Rui Celestino dos Santos Cristina",
+      "endereco": "Cerro da Alagoa",
+      "codigo_postal_localidade": "8200-863 ALBUFEIRA",
+      "telefone": "289 599 500",
+      "email_ou_web": "geral@cm-albufeira.pt",
+      "website": "http://www.cm-albufeira.pt"
+    },
+    {
+      "camara_municipal": "Alcácer do Sal",
+      "presidente": "Clarisse Maria Gaudinho Veredas Campos",
+      "endereco": "Largo Pedro Nunes",
+      "codigo_postal_localidade": "7580-125 ALCÁCER DO SAL",
+      "telefone": "265 610 040",
+      "email_ou_web": "geral@m-alcacerdosal.pt",
+      "website": "http://www.cm-alcacerdosal.pt"
+    },
+    {
+      "camara_municipal": "Alcanena",
+      "presidente": "Rui Fernando Anastácio Henriques",
+      "endereco": "Praça 8 de Maio",
+      "codigo_postal_localidade": "2380-037 ALCANENA",
+      "telefone": "249 889 010",
+      "email_ou_web": "geral@cm-alcanena.pt",
+      "website": "http://cm-alcanena.pt/"
+    },
+    {
+      "camara_municipal": "Alcobaça",
+      "presidente": "Hermínio José da Cruz Augusto Rodrigues",
+      "endereco": "Praça João de Deus Ramos",
+      "codigo_postal_localidade": "2461-501 ALCOBAÇA",
+      "telefone": "262 580 800",
+      "email_ou_web": "cmalcobaca@cm-alcobaca.pt",
+      "website": "http://www.cm-alcobaca.pt"
+    },
+    {
+      "camara_municipal": "Alcochete",
+      "presidente": "Fernando Manuel Gonçalves Pina Pinto",
+      "endereco": "Largo de S. João",
+      "codigo_postal_localidade": "2894-001 ALCOCHETE",
+      "telefone": "212 348 600",
+      "email_ou_web": "geral@cm-alcochete.pt",
+      "website": "http://www.cm-alcochete.pt"
+    },
+    {
+      "camara_municipal": "Alcoutim",
+      "presidente": "Paulo Jorge Cavaco Paulino",
+      "endereco": "Praça do Município, 12",
+      "codigo_postal_localidade": "8970-066 ALCOUTIM",
+      "telefone": "281 540 500",
+      "email_ou_web": "geral@cm-alcoutim.pt",
+      "website": "http://www.cm-alcoutim.pt"
+    },
+    {
+      "camara_municipal": "Alenquer",
+      "presidente": "João Miguel Maçarico Nicolau",
+      "endereco": "Praça Luís de Camões",
+      "codigo_postal_localidade": "2580-318 ALENQUER",
+      "telefone": "263 730 900",
+      "email_ou_web": "geral@cm-alenquer.pt",
+      "website": "http://www.cm-alenquer.pt"
+    },
+    {
+      "camara_municipal": "Alfândega da Fé",
+      "presidente": "Eduardo Manuel Dobrões Tavares",
+      "endereco": "Largo D. Dinis",
+      "codigo_postal_localidade": "5350-045 ALFÂNDEGA DA FÉ",
+      "telefone": "279 468 120",
+      "email_ou_web": "gabinete.presidente@cm-alfandegadafe.pt",
+      "website": "https://www.cm-alfandegadafe.pt/"
+    },
+    {
+      "camara_municipal": "Alijó",
+      "presidente": "José Rodrigues Paredes",
+      "endereco": "R. General Alves Pedrosa, 13",
+      "codigo_postal_localidade": "5070-051 ALIJÓ",
+      "telefone": "259 957 100",
+      "email_ou_web": "geral@cm-alijo.pt",
+      "website": "http://www.cm-alijo.pt"
+    },
+    {
+      "camara_municipal": "Aljezur",
+      "presidente": "Manuel José de Jesus Marreiros",
+      "endereco": "Rua Capitão Salgueiro Maia",
+      "codigo_postal_localidade": "8670-005 ALJEZUR",
+      "telefone": "282 990 010",
+      "email_ou_web": "geral@cm-aljezur.pt",
+      "website": "http://www.cm-aljezur.pt"
+    },
+    {
+      "camara_municipal": "Aljustrel",
+      "presidente": "Fernando Manuel Batista de Brito Ruas",
+      "endereco": "Av. 1º Maio",
+      "codigo_postal_localidade": "7600-010 ALJUSTREL",
+      "telefone": "284 600 070",
+      "email_ou_web": "geral@mun-aljustrel.pt",
+      "website": "http://www.mun-aljustrel.pt"
+    },
+    {
+      "camara_municipal": "Almada",
+      "presidente": "Inês de Medeiros Victorino de Almeida",
+      "endereco": "Largo Luís de Camões",
+      "codigo_postal_localidade": "2800-158 ALMADA",
+      "telefone": "212 724 000",
+      "email_ou_web": "almadainforma@cma.m-almada.pt",
+      "website": "http://www.m-almada.pt"
+    },
+    {
+      "camara_municipal": "Almeida",
+      "presidente": "António José Monteiro Machado",
+      "endereco": "Praça da Liberdade",
+      "codigo_postal_localidade": "6350-130 ALMEIDA",
+      "telefone": "271 570 020",
+      "email_ou_web": "camara@cm-almeida.pt",
+      "website": "http://www.cm-almeida.pt"
+    },
+    {
+      "camara_municipal": "Almeirim",
+      "presidente": "Joaquim Manuel de Deus Catalão",
+      "endereco": "Rua 5 de Outubro",
+      "codigo_postal_localidade": "2080-052 ALMEIRIM",
+      "telefone": "243 594 100",
+      "email_ou_web": "geral@cm-almeirim.pt",
+      "website": "http://www.cm-almeirim.pt"
+    },
+    {
+      "camara_municipal": "Almodôvar",
+      "presidente": "José Tadeu Sebastião Figueira de Freitas",
+      "endereco": "Rua Serpa Pinto, n.º 10",
+      "codigo_postal_localidade": "7700-081 ALMODÔVAR",
+      "telefone": "286 660 600",
+      "email_ou_web": "geral@cm-almodovar.pt",
+      "website": "http://www.cm-almodovar.pt"
+    },
+    {
+      "camara_municipal": "Alpiarça",
+      "presidente": "Sónia Isabel Fernandes Sanfona Cruz Mendes",
+      "endereco": "R. José Relvas, 374",
+      "codigo_postal_localidade": "2090-106 ALPIARÇA",
+      "telefone": "243 559 100",
+      "email_ou_web": "gap@cm-alpiarca.pt",
+      "website": "http://www.cm-alpiarca.pt"
+    },
+    {
+      "camara_municipal": "Alter do Chão",
+      "presidente": "Francisco José Cordeiro Miranda",
+      "endereco": "Largo do Município",
+      "codigo_postal_localidade": "7440-026 ALTER DO CHÃO",
+      "telefone": "245 610 000",
+      "email_ou_web": "geral@cm-alter-chao.pt",
+      "website": "http://www.cm-alter-chao.pt"
+    },
+    {
+      "camara_municipal": "Alvaiázere",
+      "presidente": "João Paulo Carvalho Guerreiro",
+      "endereco": "Praça do Município",
+      "codigo_postal_localidade": "3250-100 ALVAIÁZERE",
+      "telefone": "236 650 600",
+      "email_ou_web": "geral@cm-alvaiazere.pt",
+      "website": "https://www.cm-alvaiazere.pt/"
+    },
+    {
+      "camara_municipal": "Alvito",
+      "presidente": "José Manuel Carvalho Penedo Martins Efigénio",
+      "endereco": "Largo do Relógio, 1",
+      "codigo_postal_localidade": "7920-022 ALVITO",
+      "telefone": "284 480 800",
+      "email_ou_web": "geral@cm-alvito.pt",
+      "website": "http://www.cm-alvito.pt"
+    },
+    {
+      "camara_municipal": "Amadora",
+      "presidente": "Vitor Ferreira",
+      "endereco": "Av. Movimento das Forças Armadas",
+      "codigo_postal_localidade": "2701-961 AMADORA",
+      "telefone": "214 369 000",
+      "email_ou_web": "geral@cm-amadora.pt",
+      "website": "http://www.cm-amadora.pt"
+    },
+    {
+      "camara_municipal": "Amarante",
+      "presidente": "António Jorge Vieira Ricardo",
+      "endereco": "Alameda Teixeira de Pascoaes",
+      "codigo_postal_localidade": "4600-011 AMARANTE",
+      "telefone": "255 420 200",
+      "email_ou_web": "geral@cm-amarante.pt",
+      "website": "http://www.cm-amarante.pt"
+    },
+    {
+      "camara_municipal": "Amares",
+      "presidente": "Emanuel Augusto da Silva Magalhães",
+      "endereco": "Largo do Município",
+      "codigo_postal_localidade": "4720-058 AMARES",
+      "telefone": "253 991 330",
+      "email_ou_web": "geral@municipioamares.pt",
+      "website": "https://amares.pt/"
+    },
+    {
+      "camara_municipal": "Anadia",
+      "presidente": "Jorge Eduardo Ferreira Sampaio",
+      "endereco": "Praça do Município -",
+      "codigo_postal_localidade": "3781-909 ANADIA",
+      "telefone": "231 510 730",
+      "email_ou_web": "geral@cm-anadia.pt",
+      "website": "http://www.cm-anadia.pt/"
+    },
+    {
+      "camara_municipal": "Angra do Heroísmo",
+      "presidente": "Fátima da Conceição Lobão da Silveira Amorim",
+      "endereco": "Praça Velha",
+      "codigo_postal_localidade": "9701-857 ANGRA DO HEROÍSMO",
+      "telefone": "295 401 700",
+      "email_ou_web": "angra@cmah.pt",
+      "website": "http://www.cmah.pt"
+    },
+    {
+      "camara_municipal": "Ansião",
+      "presidente": "Jorge Humberto Fernandes Cancelinha",
+      "endereco": "Praça do Município",
+      "codigo_postal_localidade": "3240-143 ANSIÃO",
+      "telefone": "236 670 200",
+      "email_ou_web": "geral@cm-ansiao.pt",
+      "website": "http://www.cm-ansiao.pt"
+    },
+    {
+      "camara_municipal": "Arcos de Valdevez",
+      "presidente": "Olegário Gomes Gonçalves",
+      "endereco": "Praça Municipal",
+      "codigo_postal_localidade": "4974-003 ARCOS DE VALDEVEZ",
+      "telefone": "258 520 500",
+      "email_ou_web": "geral@cmav.pt",
+      "website": "http://www.cmav.pt"
+    },
+    {
+      "camara_municipal": "Arganil",
+      "presidente": "Luis Paulo Costa",
+      "endereco": "Praça Simões Dias,",
+      "codigo_postal_localidade": "3304-954 ARGANIL",
+      "telefone": "235 200 150",
+      "email_ou_web": "geral@cm-arganil.pt",
+      "website": "https://www.cm-arganil.pt/"
+    },
+    {
+      "camara_municipal": "Armamar",
+      "presidente": "Márcio Paulo Carrulo Morais",
+      "endereco": "Praça da República",
+      "codigo_postal_localidade": "5110-127 ARMAMAR",
+      "telefone": "254 850 800",
+      "email_ou_web": "geral@cm-armamar.pt",
+      "website": "https://www.cm-armamar.pt/"
+    },
+    {
+      "camara_municipal": "Arouca",
+      "presidente": "Margarida Belém",
+      "endereco": "Praça do Município",
+      "codigo_postal_localidade": "4544-001 AROUCA",
+      "telefone": "256 940 220",
+      "email_ou_web": "geral@cm-arouca.pt",
+      "website": "http://www.cm-arouca.pt"
+    },
+    {
+      "camara_municipal": "Arraiolos",
+      "presidente": "Jorge Joaquim Piteira Macau",
+      "endereco": "Praça do Município, nº. 27",
+      "codigo_postal_localidade": "7040-027 ARRAIOLOS",
+      "telefone": "266 490 240",
+      "email_ou_web": "geral@cm-arraiolos.pt",
+      "website": "http://www.cm-arraiolos.pt"
+    },
+    {
+      "camara_municipal": "Arronches",
+      "presidente": "João Carlos Ventura Crespo",
+      "endereco": "Praça da República -",
+      "codigo_postal_localidade": "7340-999 ARRONCHES",
+      "telefone": "245 580 080",
+      "email_ou_web": "geral@cm-arronches.pt",
+      "website": "http://www.cm-arronches.pt"
+    },
+    {
+      "camara_municipal": "Arruda dos Vinhos",
+      "presidente": "Carlos Manuel Jorge Alves",
+      "endereco": "Largo Miguel Bombarda",
+      "codigo_postal_localidade": "2630-112 ARRUDA DOS VINHOS",
+      "telefone": "263 977 000",
+      "email_ou_web": "cm-arruda@cm-arruda.pt",
+      "website": "http://www.cm-arruda.pt"
+    },
+    {
+      "camara_municipal": "Aveiro",
+      "presidente": "Luís Manuel Souto de Miranda",
+      "endereco": "Praça da República",
+      "codigo_postal_localidade": "3810-156 AVEIRO",
+      "telefone": "234 406 300",
+      "email_ou_web": "geral@cm-aveiro.pt",
+      "website": "http://www.cm-aveiro.pt"
+    },
+    {
+      "camara_municipal": "Avis",
+      "presidente": "Manuel Maria Libério Coelho",
+      "endereco": "Apartado 25",
+      "codigo_postal_localidade": "7480-999 AVIS",
+      "telefone": "242 410 060",
+      "email_ou_web": "geral@cm-avis.pt",
+      "website": "http://www.cm-avis.pt"
+    },
+    {
+      "camara_municipal": "Azambuja",
+      "presidente": "Sílvino José Silva Lúcio",
+      "endereco": "Praça do Município, nº 19",
+      "codigo_postal_localidade": "2050-315 AZAMBUJA",
+      "telefone": "263 400 400",
+      "email_ou_web": "geral@cm-azambuja.pt",
+      "website": "http://www.cm-azambuja.pt"
+    },
+    {
+      "camara_municipal": "Baião",
+      "presidente": "Ana Raquel Coelho Azevedo",
+      "endereco": "Praça Heróis do Ultramar",
+      "codigo_postal_localidade": "4640-158 BAIÃO",
+      "telefone": "255 540 500",
+      "email_ou_web": "geral@cm-baiao.pt",
+      "website": "http://www.cm-baiao.pt"
+    },
+    {
+      "camara_municipal": "Barcelos",
+      "presidente": "Mário Constantino Araújo Leite da Silva Lopes",
+      "endereco": "Largo do Município",
+      "codigo_postal_localidade": "4750-323 BARCELOS",
+      "telefone": "253 809 600",
+      "email_ou_web": "geral@cm-barcelos.pt",
+      "website": "http://www.cm-barcelos.pt"
+    },
+    {
+      "camara_municipal": "Barrancos",
+      "presidente": "Emílio Carvalho Domingues",
+      "endereco": "Praça do Município, 2",
+      "codigo_postal_localidade": "7230-030 BARRANCOS",
+      "telefone": "285 950 630",
+      "email_ou_web": "geral@cm-barrancos.pt",
+      "website": "http://www.cm-barrancos.pt"
+    },
+    {
+      "camara_municipal": "Barreiro",
+      "presidente": "Frederico Alexandre da Costa Rosa",
+      "endereco": "Rua Miguel Bombarda",
+      "codigo_postal_localidade": "2830-355 BARREIRO",
+      "telefone": "212 068 000",
+      "email_ou_web": "geral@cm-barreiro.pt",
+      "website": "http://www.cm-barreiro.pt"
+    },
+    {
+      "camara_municipal": "Batalha",
+      "presidente": "André Emanuel Bento Sousa",
+      "endereco": "Rua Infante D. Fernando",
+      "codigo_postal_localidade": "2440-118 BATALHA",
+      "telefone": "244 769 110",
+      "email_ou_web": "geral@cm-batalha.pt",
+      "website": "http://www.cm-batalha.pt"
+    },
+    {
+      "camara_municipal": "Beja",
+      "presidente": "Nuno Fernando Montes Palma Ferro",
+      "endereco": "Praça da Republica",
+      "codigo_postal_localidade": "7800-427 BEJA",
+      "telefone": "284 311 800",
+      "email_ou_web": "geral@cm-beja.pt",
+      "website": "http://www.cm-beja.pt"
+    },
+    {
+      "camara_municipal": "Belmonte",
+      "presidente": "António Luís Beites Soares",
+      "endereco": "Rua Pedro Álvares Cabral",
+      "codigo_postal_localidade": "6250-088 BELMONTE",
+      "telefone": "275 910 010",
+      "email_ou_web": "geral@cm-belmonte.pt",
+      "website": "http://www.cm-belmonte.pt"
+    },
+    {
+      "camara_municipal": "Benavente",
+      "presidente": "Sónia Patrícia da Silva Ferreira Quintino",
+      "endereco": "Praça do Município",
+      "codigo_postal_localidade": "2130-038 BENAVENTE",
+      "telefone": "263 519 600",
+      "email_ou_web": "geral@cm-benavente.pt",
+      "website": "http://www.cm-benavente.pt"
+    },
+    {
+      "camara_municipal": "Bombarral",
+      "presidente": "Ricardo Manuel da Silva Fernandes",
+      "endereco": "Câmara Municipal",
+      "codigo_postal_localidade": "2540-046 BOMBARRAL",
+      "telefone": "262 609 020",
+      "email_ou_web": "geral@cm-bombarral.pt",
+      "website": "http://www.cm-bombarral.pt/"
+    },
+    {
+      "camara_municipal": "Borba",
+      "presidente": "Pedro Duarte Abelho Grego Esteves",
+      "endereco": "Praça da República",
+      "codigo_postal_localidade": "7150 249 BORBA",
+      "telefone": "268 891 630",
+      "email_ou_web": "geral@cm-borba.pt",
+      "website": "http://www.cm-borba.pt"
+    },
+    {
+      "camara_municipal": "Boticas",
+      "presidente": "António Guilherme Forte Leres Pires",
+      "endereco": "Praça do Município",
+      "codigo_postal_localidade": "5460-304 BOTICAS",
+      "telefone": "276 410 200",
+      "email_ou_web": "municipio@cm-boticas.pt",
+      "website": "http://www.cm-boticas.pt"
+    },
+    {
+      "camara_municipal": "Braga",
+      "presidente": "João Rodrigues",
+      "endereco": "Praça do Município",
+      "codigo_postal_localidade": "4704-514 BRAGA",
+      "telefone": "253 616 060",
+      "email_ou_web": "info@cm-braga.pt",
+      "website": "http://www.cm-braga.pt"
+    },
+    {
+      "camara_municipal": "Bragança",
+      "presidente": "Isabel Cristina Fernandes Rodrigues Ferreira",
+      "endereco": "Forte S. João de Deus",
+      "codigo_postal_localidade": "5300-263 BRAGANÇA",
+      "telefone": "273 304 200",
+      "email_ou_web": "cmb@cm-braganca.pt",
+      "website": "http://www.cm-braganca.pt"
+    },
+    {
+      "camara_municipal": "Cabeceiras de Basto",
+      "presidente": "Manuel António Mendes Teixeira",
+      "endereco": "Praça da República, N.º 467",
+      "codigo_postal_localidade": "4860-355 CABECEIRAS DE BASTO",
+      "telefone": "253 669 100",
+      "email_ou_web": "servicoatendimentounico@cabeceirasdebasto.pt",
+      "website": "http://www.cabeceirasdebasto.pt"
+    },
+    {
+      "camara_municipal": "Cadaval",
+      "presidente": "Ricardo Pinteus",
+      "endereco": "Av.Dr. Francisco Sá Carneiro",
+      "codigo_postal_localidade": "2550-103 CADAVAL",
+      "telefone": "262 690 100",
+      "email_ou_web": "geral@cm-cadaval.pt",
+      "website": "http://www.cm-cadaval.pt"
+    },
+    {
+      "camara_municipal": "Caldas da Rainha",
+      "presidente": "Vítor Manuel Calisto Marques",
+      "endereco": "Praça 25 de Abril",
+      "codigo_postal_localidade": "2500-110 CALDAS DA RAINHA",
+      "telefone": "262 240 000",
+      "email_ou_web": "geral@mcr.pt",
+      "website": "http://www.mcr.pt"
+    },
+    {
+      "camara_municipal": "Calheta (Açores)",
+      "presidente": "António João Viegas Sousa",
+      "endereco": "Rua 25 de Abril",
+      "codigo_postal_localidade": "9850-032 CALHETA",
+      "telefone": "295 416 324",
+      "email_ou_web": "geral@cm-calheta.pt",
+      "website": "http://www.cm-calheta.pt"
+    },
+    {
+      "camara_municipal": "Calheta (Madeira)",
+      "presidente": "Doroteia Mercês Andrade da Silva Leça",
+      "endereco": "Avenida D. Manuel I, nº 46 -",
+      "codigo_postal_localidade": "9370-135 CALHETA",
+      "telefone": "291 820 200",
+      "email_ou_web": "camara@cmcalheta.pt",
+      "website": "http://www.cmcalheta.pt"
+    },
+    {
+      "camara_municipal": "Câmara de Lobos",
+      "presidente": "Celso Renato Freitas Bettencourt",
+      "endereco": "Praça da Autonomia",
+      "codigo_postal_localidade": "9304-001 CÂMARA DE LOBOS",
+      "telefone": "291 911 080",
+      "email_ou_web": "geral@cm-camaradelobos.pt",
+      "website": "http://www.cm-camaradelobos.pt"
+    },
+    {
+      "camara_municipal": "Caminha",
+      "presidente": "Liliana Sofia Bouça da Silva",
+      "endereco": "Praça Conselheiro Silva Torres",
+      "codigo_postal_localidade": "4910-122 CAMINHA",
+      "telefone": "258 710 300",
+      "email_ou_web": "geral@cm-caminha.pt",
+      "website": "http://www.cm-caminha.pt"
+    },
+    {
+      "camara_municipal": "Campo Maior",
+      "presidente": "Luís Fernando Martins Rosinha",
+      "endereco": "Praça da República -",
+      "codigo_postal_localidade": "7370-999 CAMPO MAIOR",
+      "telefone": "268 680 300",
+      "email_ou_web": "geral@cm-campo-maior.pt",
+      "website": "Http://www.cm-campo-maior.pt"
+    },
+    {
+      "camara_municipal": "Cantanhede",
+      "presidente": "Maria Helena Rosa de Teodósio e Cruz Gomes de Oliveira",
+      "endereco": "Praça Marquês de Marialva - Apartado 154",
+      "codigo_postal_localidade": "3064-909 CANTANHEDE",
+      "telefone": "231 410 100",
+      "email_ou_web": "geral@cm-cantanhede.pt",
+      "website": "https://www.cm-cantanhede.pt"
+    },
+    {
+      "camara_municipal": "Carrazeda de Ansiães",
+      "presidente": "João Manuel dos Santos Lopes Gonçalves",
+      "endereco": "Rua Jerónimo Barbosa",
+      "codigo_postal_localidade": "5140-077 Carrazeda de Ansiães",
+      "telefone": "278 610 200",
+      "email_ou_web": "geral@cmca.pt",
+      "website": "http://www.cm-carrazedadeansiaes.pt"
+    },
+    {
+      "camara_municipal": "Carregal do Sal",
+      "presidente": "Paulo Jorge Catalino de Almeida Ferraz",
+      "endereco": "Praça do Município -",
+      "codigo_postal_localidade": "3430-909 CARREGAL DO SAL",
+      "telefone": "232 960 400",
+      "email_ou_web": "geral@cm-carregal.pt",
+      "website": "http://www.carregal-digital.pt"
+    },
+    {
+      "camara_municipal": "Cartaxo",
+      "presidente": "João Miguel Ferreira Heitor",
+      "endereco": "Praça 15 de Dezembro",
+      "codigo_postal_localidade": "2070-050 CARTAXO",
+      "telefone": "243 700 250",
+      "email_ou_web": "correio@cm-cartaxo.pt",
+      "website": "http://www.cm-cartaxo.pt"
+    },
+    {
+      "camara_municipal": "Cascais",
+      "presidente": "Nuno Francisco Piteira Lopes",
+      "endereco": "Largo 5 de Outubro",
+      "codigo_postal_localidade": "2754-501 CASCAIS",
+      "telefone": "800 203 186",
+      "email_ou_web": "atendimento.municipal@cm-cascais.pt",
+      "website": "http://www.cascais.pt"
+    },
+    {
+      "camara_municipal": "Castanheira de Pera",
+      "presidente": "António Manuel Henriques Antunes",
+      "endereco": "Praça Visconde de Castanheira de Pera",
+      "codigo_postal_localidade": "3280-017 CASTANHEIRA DE PERA",
+      "telefone": "236 430 280",
+      "email_ou_web": "camara@cm-castanheiradepera.pt",
+      "website": "http://www.cm-castanheiradepera.pt"
+    },
+    {
+      "camara_municipal": "Castelo Branco",
+      "presidente": "Leopoldo Martins Rodrigues",
+      "endereco": "Praça do Município",
+      "codigo_postal_localidade": "6000-458 CASTELO BRANCO",
+      "telefone": "272 330 330",
+      "email_ou_web": "camara@cm-castelobranco.pt",
+      "website": "http://www.cm-castelobranco.pt"
+    },
+    {
+      "camara_municipal": "Castelo de Paiva",
+      "presidente": "Ricardo Jorge Mendes Cardoso",
+      "endereco": "Largo do Conde - Sobrado",
+      "codigo_postal_localidade": "4550-102 CASTELO DE PAIVA",
+      "telefone": "255 689 500",
+      "email_ou_web": "geral@cm-castelo-paiva.pt",
+      "website": "http://www.cm-castelo-paiva.pt"
+    },
+    {
+      "camara_municipal": "Castelo de Vide",
+      "presidente": "Nuno Filipe Baptista Calixto",
+      "endereco": "R. Bartolomeu Álvares da Santa",
+      "codigo_postal_localidade": "7320-117 CASTELO DE VIDE",
+      "telefone": "245 908 220",
+      "email_ou_web": "cm.castvide@mail.telepac.pt",
+      "website": "http://www.cm-castelo-vide.pt"
+    },
+    {
+      "camara_municipal": "Castro Daire",
+      "presidente": "Paulo Martins de Almeida",
+      "endereco": "Rua Dr. Pio de Figueiredo, 42",
+      "codigo_postal_localidade": "3600-214 CASTRO DAIRE",
+      "telefone": "232 382 214",
+      "email_ou_web": "geral@cm-castrodaire.pt",
+      "website": "http://www.cm-castrodaire.pt"
+    },
+    {
+      "camara_municipal": "Castro Marim",
+      "presidente": "Filomena Pascoal Sintra",
+      "endereco": "Rua Dr. José Alves Moreira, 10",
+      "codigo_postal_localidade": "8950-138 CASTRO MARIM",
+      "telefone": "281 510 740",
+      "email_ou_web": "expediente@cm-castromarim.pt",
+      "website": "http://www.cm-castromarim.pt"
+    },
+    {
+      "camara_municipal": "Castro Verde",
+      "presidente": "António José Rosa de Brito",
+      "endereco": "Praça do Município",
+      "codigo_postal_localidade": "7780-217 CASTRO VERDE",
+      "telefone": "286 320 700",
+      "email_ou_web": "geral@cm-castroverde.pt",
+      "website": "http://www.cm-castroverde.pt"
+    },
+    {
+      "camara_municipal": "Celorico da Beira",
+      "presidente": "Carlos Manuel da Fonseca Ascensão",
+      "endereco": "Rua Sacadura Cabral, n.º 39",
+      "codigo_postal_localidade": "6360-350 CELORICO DA BEIRA",
+      "telefone": "271 747 400",
+      "email_ou_web": "geral@cm-celoricodabeira.pt",
+      "website": "http://www.cm-celoricodabeira.pt"
+    },
+    {
+      "camara_municipal": "Celorico de Basto",
+      "presidente": "José António Peixoto Lima",
+      "endereco": "Pr.Cardeal D. António Ribeiro",
+      "codigo_postal_localidade": "4890-220 CELORICO DE BASTO",
+      "telefone": "255 320 300",
+      "email_ou_web": "geral@mun-celoricodebasto.pt",
+      "website": "http://www.mun-celoricodebasto.pt/"
+    },
+    {
+      "camara_municipal": "Chamusca",
+      "presidente": "Nuno Jorge Lino Mira",
+      "endereco": "Edifício dos Paços do Concelho",
+      "codigo_postal_localidade": "2140-098 CHAMUSCA",
+      "telefone": "249 769 100",
+      "email_ou_web": "geral@cm-chamusca.pt",
+      "website": "http://www.cm-chamusca.pt"
+    },
+    {
+      "camara_municipal": "Chaves",
+      "presidente": "Nuno Vaz Ribeiro",
+      "endereco": "Praça de Camões",
+      "codigo_postal_localidade": "5400-150 CHAVES",
+      "telefone": "276 340 500",
+      "email_ou_web": "municipio@chaves.pt",
+      "website": "http://www.chaves.pt"
+    },
+    {
+      "camara_municipal": "Cinfães",
+      "presidente": "Carlos Alberto Lopes Cardoso",
+      "endereco": "Largo dos Paços do Concelho",
+      "codigo_postal_localidade": "4690-030 CINFÃES",
+      "telefone": "255 560 560",
+      "email_ou_web": "geral@cm-cinfaes.pt",
+      "website": "http://www.cm-cinfaes.pt"
+    },
+    {
+      "camara_municipal": "Coimbra",
+      "presidente": "Ana Maria Pereira Abrunhosa",
+      "endereco": "Praça 8 de Maio",
+      "codigo_postal_localidade": "3000-300 COIMBRA",
+      "telefone": "239 857 500",
+      "email_ou_web": "geral@cm-coimbra.pt",
+      "website": "http://www.cm-coimbra.pt"
+    },
+    {
+      "camara_municipal": "Condeixa-a-Nova",
+      "presidente": "Liliana Marques Pimentel",
+      "endereco": "Largo Artur Barreto",
+      "codigo_postal_localidade": "3150-124 CONDEIXA-A-NOVA",
+      "telefone": "239 949 120",
+      "email_ou_web": "geral@cm-condeixa.pt",
+      "website": "http://www.cm-condeixa.pt"
+    },
+    {
+      "camara_municipal": "Constância",
+      "presidente": "Sérgio Miguel Santos Pereira de Oliveira",
+      "endereco": "Estrada Nacional 3",
+      "codigo_postal_localidade": "2250-909 CONSTÂNCIA",
+      "telefone": "249 730 050",
+      "email_ou_web": "geral@cm-constancia.pt",
+      "website": "http://www.cm-constancia.pt"
+    },
+    {
+      "camara_municipal": "Coruche",
+      "presidente": "Nuno José Silva Guilherme Henriques Azevedo",
+      "endereco": "Praça da Liberdade",
+      "codigo_postal_localidade": "2100-121 CORUCHE",
+      "telefone": "243 610 200",
+      "email_ou_web": "geral@cm-coruche.pt",
+      "website": "http://www.cm-coruche.pt"
+    },
+    {
+      "camara_municipal": "Corvo",
+      "presidente": "Marco Paulo Alves da Silva",
+      "endereco": "Rua do Jogo da Bola",
+      "codigo_postal_localidade": "9980-024 CORVO",
+      "telefone": "292 590 200",
+      "email_ou_web": "geral@cm-corvo.pt",
+      "website": "http://www.cm-corvo.pt"
+    },
+    {
+      "camara_municipal": "Covilhã",
+      "presidente": "Hélio Jorge Simões Fazendeiro",
+      "endereco": "Praça do Município",
+      "codigo_postal_localidade": "6200-151 COVILHÃ",
+      "telefone": "275 330 600",
+      "email_ou_web": "info@cm-covilha.pt",
+      "website": "http://www.cm-covilha.pt"
+    },
+    {
+      "camara_municipal": "Crato",
+      "presidente": "Joaquim Bernardo dos Santos Diogo",
+      "endereco": "Praça do Município",
+      "codigo_postal_localidade": "7430-999 Crato",
+      "telefone": "245 990 110",
+      "email_ou_web": "geral@cm-crato.pt",
+      "website": "http://www.cm-crato.pt"
+    },
+    {
+      "camara_municipal": "Cuba",
+      "presidente": "João Duarte D Oliveira Brito Palma",
+      "endereco": "Rua Serpa Pinto, 84",
+      "codigo_postal_localidade": "7940-172 CUBA",
+      "telefone": "284 419 900",
+      "email_ou_web": "geral@cm-cuba.pt",
+      "website": "http://www.cm-cuba.pt"
+    },
+    {
+      "camara_municipal": "Elvas",
+      "presidente": "José António Rondão Almeida",
+      "endereco": "R. Isabel Maria Picão",
+      "codigo_postal_localidade": "7350-953 ELVAS",
+      "telefone": "268 639 740",
+      "email_ou_web": "geral@cm-elvas.pt",
+      "website": "http://www.cm-elvas.pt"
+    },
+    {
+      "camara_municipal": "Entroncamento",
+      "presidente": "Nelson José Estrela Lopes Cunha",
+      "endereco": "Largo José Duarte Coelho",
+      "codigo_postal_localidade": "2330-078 ENTRONCAMENTO",
+      "telefone": "249 720 400",
+      "email_ou_web": "geral@cm-entroncamento.pt",
+      "website": "http://www.cm-entroncamento.pt"
+    },
+    {
+      "camara_municipal": "Espinho",
+      "presidente": "Jorge Manuel Mengo Ratola",
+      "endereco": "Praça Dr. José de Oliveira Salvador -",
+      "codigo_postal_localidade": "4501-901 ESPINHO",
+      "telefone": "227 335 800",
+      "email_ou_web": "geral@cm-espinho.pt",
+      "website": "http://www.cm-espinho.pt"
+    },
+    {
+      "camara_municipal": "Esposende",
+      "presidente": "Carlos Manuel Pires Martins da Silva",
+      "endereco": "Praça do Município",
+      "codigo_postal_localidade": "4740-223 ESPOSENDE",
+      "telefone": "253 960 100",
+      "email_ou_web": "municipio.esposende@cm-esposende.pt",
+      "website": "http://www.municipio.esposende.pt"
+    },
+    {
+      "camara_municipal": "Estarreja",
+      "presidente": "Isabel Simões Pinto",
+      "endereco": "Praça Francisco Barbosa",
+      "codigo_postal_localidade": "3864-001 ESTARREJA",
+      "telefone": "234 840 600",
+      "email_ou_web": "geral@cm-estarreja.pt",
+      "website": "http://www.cm-estarreja.pt"
+    },
+    {
+      "camara_municipal": "Estremoz",
+      "presidente": "José Daniel Pena Sádio",
+      "endereco": "Rossio Marquês de Pombal",
+      "codigo_postal_localidade": "7100-513 ESTREMOZ",
+      "telefone": "268 339 200",
+      "email_ou_web": "geral@cm-estremoz.pt",
+      "website": "http://www.cm-estremoz.pt"
+    },
+    {
+      "camara_municipal": "Évora",
+      "presidente": "José Carlos das Dores Zorrinho",
+      "endereco": "Praça de Sertório",
+      "codigo_postal_localidade": "7004-506 ÉVORA",
+      "telefone": "266 777 000",
+      "email_ou_web": "cmevora@cm-evora.pt",
+      "website": "http://www.cm-evora.pt"
+    },
+    {
+      "camara_municipal": "Fafe",
+      "presidente": "Antero da Silva Oliveira Barbosa Fernandes",
+      "endereco": "Av. 5 de Outubro",
+      "codigo_postal_localidade": "4820-501 FAFE",
+      "telefone": "253 700 400",
+      "email_ou_web": "Área \"Fale Connosco\" disponível em www.cm-fafe.pt",
+      "website": "http://www.cm-fafe.pt"
+    },
+    {
+      "camara_municipal": "Faro",
+      "presidente": "António Miguel Ventura Pina",
+      "endereco": "Largo da Sé",
+      "codigo_postal_localidade": "8004-001 FARO",
+      "telefone": "289 870 870",
+      "email_ou_web": "geral@cm-faro.pt",
+      "website": "http://www.cm-faro.pt"
+    },
+    {
+      "camara_municipal": "Felgueiras",
+      "presidente": "Nuno Fonseca",
+      "endereco": "Praça da Republica",
+      "codigo_postal_localidade": "4610-116 FELGUEIRAS",
+      "telefone": "255 318 000",
+      "email_ou_web": "geral@cm-felgueiras.pt",
+      "website": "http://www.cm-felgueiras.pt"
+    },
+    {
+      "camara_municipal": "Ferreira do Alentejo",
+      "presidente": "Luís António Pita Ameixa",
+      "endereco": "Pçª Comendador Inf.Passanha, 5",
+      "codigo_postal_localidade": "7900-571 FERREIRA DO ALENTEJO",
+      "telefone": "284 738 700",
+      "email_ou_web": "geral@cm-ferreira-alentejo.pt",
+      "website": "http://www.ferreiradoalentejo.pt"
+    },
+    {
+      "camara_municipal": "Ferreira do Zêzere",
+      "presidente": "Bruno José da Graça Gomes",
+      "endereco": "Praça Dias Ferreira, 38",
+      "codigo_postal_localidade": "2240-341 FERREIRA DO ZÊZERE",
+      "telefone": "249 360 150",
+      "email_ou_web": "geral@cm-ferreiradozezere.pt",
+      "website": "http://www.cm-ferreiradozezere.pt"
+    },
+    {
+      "camara_municipal": "Figueira da Foz",
+      "presidente": "Pedro Miguel de Santana Lopes",
+      "endereco": "Av. Saraiva de Carvalho",
+      "codigo_postal_localidade": "3084-501 FIGUEIRA DA FOZ",
+      "telefone": "233 403 300",
+      "email_ou_web": "municipe@cm-figfoz.pt",
+      "website": "http://www.cm-figfoz.pt"
+    },
+    {
+      "camara_municipal": "Figueira de Castelo Rodrigo",
+      "presidente": "Carlos Manuel Martins Condesso",
+      "endereco": "Largo Dr. Vilhena nº 1",
+      "codigo_postal_localidade": "6440-100 FIGUEIRA DE CASTELO RODRIGO",
+      "telefone": "271 319 000",
+      "email_ou_web": "cm-fcr@cm-fcr.pt",
+      "website": "http://www.cm-fcr.pt"
+    },
+    {
+      "camara_municipal": "Figueiró dos Vinhos",
+      "presidente": "Carlos Alberto David dos Santos Lopes",
+      "endereco": "Praça do Município - Apartado 4",
+      "codigo_postal_localidade": "3260-408 FIGUEIRÓ DOS VINHOS",
+      "telefone": "236 559 550",
+      "email_ou_web": "atendimento@cm-figueirodosvinhos.pt",
+      "website": "http://www.cm-figueirodosvinhos.pt"
+    },
+    {
+      "camara_municipal": "Fornos de Algodres",
+      "presidente": "Alexandre Filipe Fernandes Lote",
+      "endereco": "Estrada Nacional 16 -",
+      "codigo_postal_localidade": "6370-999 FORNOS DE ALGODRES",
+      "telefone": "271 700 060",
+      "email_ou_web": "geral@cm-fornosdealgodres.pt",
+      "website": "http://www.cm-fornosdealgodres.pt"
+    },
+    {
+      "camara_municipal": "Freixo de Espada à Cinta",
+      "presidente": "Nuno Manuel Rocha Gomes Ferreira",
+      "endereco": "Praceta do Município",
+      "codigo_postal_localidade": "5180-103 FREIXO DE ESPADA A CINTA",
+      "telefone": "279 658 160",
+      "email_ou_web": "geral@cm-fec.pt",
+      "website": "http://www.cm-freixoespadacinta.pt"
+    },
+    {
+      "camara_municipal": "Fronteira",
+      "presidente": "António Velez Gomes",
+      "endereco": "Praça do Município",
+      "codigo_postal_localidade": "7460-110 FRONTEIRA",
+      "telefone": "245 600 070",
+      "email_ou_web": "municipio@cm-fronteira.pt",
+      "website": "http://www.cm-fronteira.pt"
+    },
+    {
+      "camara_municipal": "Funchal",
+      "presidente": "Jorge Maria Abreu de Carvalho",
+      "endereco": "Praça do Município",
+      "codigo_postal_localidade": "9004-512 FUNCHAL",
+      "telefone": "291 211 000",
+      "email_ou_web": "cmf@cm-funchal.pt",
+      "website": "http://www.cm-funchal.pt"
+    },
+    {
+      "camara_municipal": "Fundão",
+      "presidente": "Luis Miguel Roque Tarouca Duarte Gavinhos",
+      "endereco": "Praça do Município",
+      "codigo_postal_localidade": "6230-338 FUNDÃO",
+      "telefone": "275 779 060",
+      "email_ou_web": "geral@cm-fundao.pt",
+      "website": "http://www.cm-fundao.pt"
+    },
+    {
+      "camara_municipal": "Gavião",
+      "presidente": "António Manuel Gomes Severino",
+      "endereco": "Largo do Município",
+      "codigo_postal_localidade": "6040-102 GAVIÃO",
+      "telefone": "241 639 070",
+      "email_ou_web": "geral@cm-gaviao.pt",
+      "website": "http://www.cm-gaviao.pt"
+    },
+    {
+      "camara_municipal": "Góis",
+      "presidente": "António Rui de Sousa Godinho Sampaio",
+      "endereco": "Praça da República",
+      "codigo_postal_localidade": "3330-310 GOIS",
+      "telefone": "235 770 110",
+      "email_ou_web": "correio@cm-gois.pt",
+      "website": "http://www.cm-gois.pt"
+    },
+    {
+      "camara_municipal": "Golegã",
+      "presidente": "António Carlos da Costa Camilo",
+      "endereco": "Largo D. Manuel I",
+      "codigo_postal_localidade": "2150-128 GOLEGÃ",
+      "telefone": "249 979 050",
+      "email_ou_web": "geral@cm-golega.pt",
+      "website": "http://www.cm-golega.pt"
+    },
+    {
+      "camara_municipal": "Gondomar",
+      "presidente": "Luís Filipe Araújo",
+      "endereco": "Praça Manuel Guedes",
+      "codigo_postal_localidade": "4420-193 GONDOMAR",
+      "telefone": "224 660 500",
+      "email_ou_web": "geral@cm-gondomar.pt",
+      "website": "http://www.cm-gondomar.pt"
+    },
+    {
+      "camara_municipal": "Gouveia",
+      "presidente": "Jorge Abrantes Cardoso Ferreira",
+      "endereco": "Av.ª 25 de Abril",
+      "codigo_postal_localidade": "6290-554 GOUVEIA",
+      "telefone": "238 490 210",
+      "email_ou_web": "geral@cm-gouveia.pt",
+      "website": "http://www.cm-gouveia.pt"
+    },
+    {
+      "camara_municipal": "Grândola",
+      "presidente": "Luís Manuel Rodrigues Vital Alexandre",
+      "endereco": "R. Dr. José Pereira Barradas",
+      "codigo_postal_localidade": "7570-281 GRÂNDOLA",
+      "telefone": "269 450 000",
+      "email_ou_web": "geral@cm-grandola.pt",
+      "website": "http://www.cm-grandola.pt"
+    },
+    {
+      "camara_municipal": "Guarda",
+      "presidente": "Sérgio Fernando da Silva Costa",
+      "endereco": "Praça do Município",
+      "codigo_postal_localidade": "6301-854 GUARDA",
+      "telefone": "271 220 220",
+      "email_ou_web": "geral@mun-guarda.pt",
+      "website": "http://www.mun-guarda.pt"
+    },
+    {
+      "camara_municipal": "Guimarães",
+      "presidente": "Ricardo José Machado Pereira da Silva Araújo",
+      "endereco": "Largo Cónego José Maria Gomes",
+      "codigo_postal_localidade": "4810-242 GUIMARÃES",
+      "telefone": "253 421 200",
+      "email_ou_web": "geral@cm-guimaraes.pt",
+      "website": "http://www.cm-guimaraes.pt"
+    },
+    {
+      "camara_municipal": "Horta",
+      "presidente": "Carlos Manuel da Silveira Ferreira",
+      "endereco": "Largo Duque D`Ávila e Bolama",
+      "codigo_postal_localidade": "9900-141 HORTA",
+      "telefone": "292 202 000",
+      "email_ou_web": "geral@cmhorta.pt",
+      "website": "http://www.cmhorta.pt"
+    },
+    {
+      "camara_municipal": "Idanha-a-Nova",
+      "presidente": "Elza Maria Martins Gonçalves",
+      "endereco": "Largo do Município",
+      "codigo_postal_localidade": "6060-163 IDANHA-A-NOVA",
+      "telefone": "277 200 570",
+      "email_ou_web": "geral@idanha.pt",
+      "website": "http://www.cm-idanhanova.pt"
+    },
+    {
+      "camara_municipal": "Ílhavo",
+      "presidente": "Rui Manuel da Silva Pedro Moreira Dias",
+      "endereco": "Av. 25 de Abril",
+      "codigo_postal_localidade": "3830-044 ÍLHAVO",
+      "telefone": "234 329 600",
+      "email_ou_web": "geralcmi@cm-ilhavo.pt",
+      "website": "http://www.cm-ilhavo.pt"
+    },
+    {
+      "camara_municipal": "Lagoa (Açores)",
+      "presidente": "Frederico Sousa",
+      "endereco": "Largo D. João III",
+      "codigo_postal_localidade": "9560-045 LAGOA - AÇORES",
+      "telefone": "296 960 609",
+      "email_ou_web": "geral@lagoa-acores.pt",
+      "website": "http://www.lagoa-acores.pt"
+    },
+    {
+      "camara_municipal": "Lagoa (Algarve)",
+      "presidente": "Luís António Alves da Encarnação",
+      "endereco": "Largo do Município",
+      "codigo_postal_localidade": "8401-851 LAGOA",
+      "telefone": "282 380 400",
+      "email_ou_web": "expediente@cm-lagoa.pt",
+      "website": "http://www.cm-lagoa.pt/"
+    },
+    {
+      "camara_municipal": "Lagos",
+      "presidente": "Hugo Miguel Marreiros Henrique Pereira",
+      "endereco": "Paços do Concelho Séc. XXI -",
+      "codigo_postal_localidade": "8600-293 LAGOS",
+      "telefone": "282 780 900",
+      "email_ou_web": "expediente.geral@cm-lagos.pt",
+      "website": "http://www.cm-lagos.pt"
+    },
+    {
+      "camara_municipal": "Lajes das Flores",
+      "presidente": "Beto Vasconcelos",
+      "endereco": "Avenida do Emigrante",
+      "codigo_postal_localidade": "9960-431 LAJES DAS FLORES",
+      "telefone": "292 590 800",
+      "email_ou_web": "geral@cmlajesdasflores.pt",
+      "website": "http://www.cmlajesdasflores.pt/"
+    },
+    {
+      "camara_municipal": "Lajes do Pico",
+      "presidente": "Ana Catarina Terra Brum",
+      "endereco": "Rua de São Francisco",
+      "codigo_postal_localidade": "9930-135 LAJES DO PICO",
+      "telefone": "292 679 700",
+      "email_ou_web": "geral@cm-lajesdopico.pt",
+      "website": "http://www.cm-lajesdopico.pt/"
+    },
+    {
+      "camara_municipal": "Lamego",
+      "presidente": "Francisco Manuel Lopes",
+      "endereco": "R.Padre Alfredo Pinto Teixeira",
+      "codigo_postal_localidade": "5100-150 LAMEGO",
+      "telefone": "254 609 600",
+      "email_ou_web": "geral@cm-lamego.pt",
+      "website": "http://www.cm-lamego.pt"
+    },
+    {
+      "camara_municipal": "Leiria",
+      "presidente": "Gonçalo Nuno Bértolo Gordalina Lopes",
+      "endereco": "Largo da República",
+      "codigo_postal_localidade": "2414-006 LEIRIA",
+      "telefone": "244 839 500",
+      "email_ou_web": "cmleiria@cm-leiria.pt",
+      "website": "http://www.cm-leiria.pt"
+    },
+    {
+      "camara_municipal": "Lisboa",
+      "presidente": "Carlos Manuel Félix Moedas",
+      "endereco": "Paços do Concelho -",
+      "codigo_postal_localidade": "1100-365 LISBOA",
+      "telefone": "217 988 000",
+      "email_ou_web": "geral@cm-lisboa.pt",
+      "website": "http://www.cm-lisboa.pt"
+    },
+    {
+      "camara_municipal": "Loulé",
+      "presidente": "Telmo Manuel Machado Pinto",
+      "endereco": "Praça da República",
+      "codigo_postal_localidade": "8104-001 LOULÉ",
+      "telefone": "289 400 600",
+      "email_ou_web": "geral@cm-loule.pt",
+      "website": "http://www.cm-loule.pt"
+    },
+    {
+      "camara_municipal": "Loures",
+      "presidente": "Ricardo Jorge Colaço Leão",
+      "endereco": "Praça da Liberdade",
+      "codigo_postal_localidade": "2674-501 LOURES",
+      "telefone": "211 150 100",
+      "email_ou_web": "geral@cm-loures.pt",
+      "website": "http://www.cm-loures.pt"
+    },
+    {
+      "camara_municipal": "Lourinhã",
+      "presidente": "Orlando Matias da Fonseca Carvalho",
+      "endereco": "Praça José Máximo da Costa",
+      "codigo_postal_localidade": "2534-500 LOURINHÃ",
+      "telefone": "261 410 100",
+      "email_ou_web": "geral@cm-lourinha.pt",
+      "website": "http://www.cm-lourinha.pt"
+    },
+    {
+      "camara_municipal": "Lousã",
+      "presidente": "Victor Eugénio das Neves Carvalho",
+      "endereco": "Rua Dr. João Santos",
+      "codigo_postal_localidade": "3200-953 LOUSÃ",
+      "telefone": "239 990 370",
+      "email_ou_web": "geral@cm-lousa.pt",
+      "website": "http://www.cm-lousa.pt"
+    },
+    {
+      "camara_municipal": "Lousada",
+      "presidente": "Nelson ângelo Coelho Oliveira",
+      "endereco": "P. Dr. Francisco Sá Carneiro",
+      "codigo_postal_localidade": "4621-909 LOUSADA",
+      "telefone": "255 820 500",
+      "email_ou_web": "cm-lousada@cm-lousada.pt",
+      "website": "http://www.cm-lousada.pt"
+    },
+    {
+      "camara_municipal": "Mação",
+      "presidente": "José Fernando Mendes Martins",
+      "endereco": "R. Padre António P. Figueiredo",
+      "codigo_postal_localidade": "6120-750 MAÇÃO",
+      "telefone": "241 577 200",
+      "email_ou_web": "geral@cm-macao.pt",
+      "website": "http://www.cm-macao.pt"
+    },
+    {
+      "camara_municipal": "Macedo de Cavaleiros",
+      "presidente": "Sérgio David Ramos Borges",
+      "endereco": "Jardim 1º de Maio",
+      "codigo_postal_localidade": "5340-218 MACEDO DE CAVALEIROS",
+      "telefone": "278 420 420",
+      "email_ou_web": "geral@cm-macedodecavaleiros.pt",
+      "website": "http://www.cm-macedodecavaleiros.pt"
+    },
+    {
+      "camara_municipal": "Madalena",
+      "presidente": "Catarina Manito",
+      "endereco": "Largo Cardeal Costa Nunes",
+      "codigo_postal_localidade": "9950-324 MADALENA",
+      "telefone": "292 628 700",
+      "email_ou_web": "geral@cm-madalena.pt",
+      "website": "http://www.cm-madalena.pt"
+    },
+    {
+      "camara_municipal": "Mafra",
+      "presidente": "Hugo Manuel Moreira Luís",
+      "endereco": "Praça do Município",
+      "codigo_postal_localidade": "2644-001 MAFRA",
+      "telefone": "261 810 100",
+      "email_ou_web": "geral@cm-mafra.pt",
+      "website": "http://www.cm-mafra.pt"
+    },
+    {
+      "camara_municipal": "Maia",
+      "presidente": "António Domingos da Silva Tiago",
+      "endereco": "Pç. Dr. José Vieira de Carvalho",
+      "codigo_postal_localidade": "4470-002 MAIA",
+      "telefone": "229 408 600",
+      "email_ou_web": "geral@cm-maia.pt",
+      "website": "http://www.cm-maia.pt"
+    },
+    {
+      "camara_municipal": "Mangualde",
+      "presidente": "Marco Filipe Pessoa de Almeida",
+      "endereco": "Largo Dr. Couto",
+      "codigo_postal_localidade": "3534-004 MANGUALDE",
+      "telefone": "232 619 880",
+      "email_ou_web": "geral@cmmangualde.pt",
+      "website": "http://www.cmmangualde.pt"
+    },
+    {
+      "camara_municipal": "Manteigas",
+      "presidente": "Flávio Miguel Tacanho Massano",
+      "endereco": "Rua 1.º de Maio",
+      "codigo_postal_localidade": "6260-101 MANTEIGAS",
+      "telefone": "275 980 000",
+      "email_ou_web": "geral@cm-manteigas.pt",
+      "website": "http://www.cm-manteigas.pt"
+    },
+    {
+      "camara_municipal": "Marco de Canaveses",
+      "presidente": "Cristina Lasalete Cardoso Vieira",
+      "endereco": "Largo Sacadura Cabral",
+      "codigo_postal_localidade": "4630-219 MARCO DE CANAVESES",
+      "telefone": "255 538 800",
+      "email_ou_web": "info@cm-marco-canaveses.pt",
+      "website": "http://www.cm-marco-canaveses.pt"
+    },
+    {
+      "camara_municipal": "Marinha Grande",
+      "presidente": "Paulo Jorge Campos Vicente",
+      "endereco": "Praça Guilherme Stephens",
+      "codigo_postal_localidade": "2431-960 MARINHA GRANDE",
+      "telefone": "244 573 300",
+      "email_ou_web": "geral@cm-mgrande.pt",
+      "website": "http://www.cm-mgrande.pt"
+    },
+    {
+      "camara_municipal": "Marvão",
+      "presidente": "Luís António Abelho Sobreira Vitorino",
+      "endereco": "Largo de Santa Maria",
+      "codigo_postal_localidade": "7330-101 MARVÃO",
+      "telefone": "245 909 130",
+      "email_ou_web": "geral@cm-marvao.pt",
+      "website": "http://www.cm-marvao.pt"
+    },
+    {
+      "camara_municipal": "Matosinhos",
+      "presidente": "Luisa Maria Neves Salgueiro",
+      "endereco": "Av. D. Afonso Henriques",
+      "codigo_postal_localidade": "4454-510 MATOSINHOS",
+      "telefone": "229 390 900",
+      "email_ou_web": "mail@cm-matosinhos.pt",
+      "website": "http://www.cm-matosinhos.pt"
+    },
+    {
+      "camara_municipal": "Mealhada",
+      "presidente": "António Jorge Fernandes Franco",
+      "endereco": "Largo do Jardim",
+      "codigo_postal_localidade": "3054-001 MEALHADA",
+      "telefone": "231 200 980",
+      "email_ou_web": "gabpresidencia@cm-mealhada.pt",
+      "website": "http://www.cm-mealhada.pt"
+    },
+    {
+      "camara_municipal": "Mêda",
+      "presidente": "António César Valente Figueiredo",
+      "endereco": "Largo do Município",
+      "codigo_postal_localidade": "6430-197 MÊDA",
+      "telefone": "279 880 040",
+      "email_ou_web": "geral@cm-meda.pt",
+      "website": "http://www.cm-meda.pt"
+    },
+    {
+      "camara_municipal": "Melgaço",
+      "presidente": "José Albano Esteves Domingues",
+      "endereco": "Largo Hermenegildo Solheiro",
+      "codigo_postal_localidade": "4960-551 MELGAÇO",
+      "telefone": "251 410 100",
+      "email_ou_web": "geral@cm-melgaco.pt",
+      "website": "http://www.cm-melgaco.pt"
+    },
+    {
+      "camara_municipal": "Mértola",
+      "presidente": "Mário José Santos Tomé",
+      "endereco": "Praça Luís de Camões",
+      "codigo_postal_localidade": "7750-329 MÉRTOLA",
+      "telefone": "286 610 100",
+      "email_ou_web": "geral@cm-mertola.pt",
+      "website": "http://www.cm-mertola.pt"
+    },
+    {
+      "camara_municipal": "Mesão Frio",
+      "presidente": "Paulo Jorge Peres Teixeira da Silva",
+      "endereco": "Av. Conselheiro Alpoim,432",
+      "codigo_postal_localidade": "5040-310 MESÃO FRIO",
+      "telefone": "254 890 100",
+      "email_ou_web": "geral@cm-mesaofrio.pt",
+      "website": "http://www.cm-mesaofrio.pt"
+    },
+    {
+      "camara_municipal": "Mira",
+      "presidente": "Artur Jorge Ribeiro Fresco",
+      "endereco": "Praça da República",
+      "codigo_postal_localidade": "3070-304 MIRA",
+      "telefone": "231 480 550",
+      "email_ou_web": "geral@cm-mira.pt",
+      "website": "http://www.cm-mira.pt"
+    },
+    {
+      "camara_municipal": "Miranda do Corvo",
+      "presidente": "José Miguel Ramos Ferreira",
+      "endereco": "Praça José Falcão",
+      "codigo_postal_localidade": "3220-206 MIRANDA DO CORVO",
+      "telefone": "239 530 320",
+      "email_ou_web": "camara@cm-mirandadocorvo.pt",
+      "website": "http://www.cm-mirandadocorvo.pt"
+    },
+    {
+      "camara_municipal": "Miranda do Douro",
+      "presidente": "Helena Maria da Silva Ventura Barril",
+      "endereco": "Largo D. João III",
+      "codigo_postal_localidade": "5210-190 MIRANDA DO DOURO",
+      "telefone": "273 430 020",
+      "email_ou_web": "geral@cm-mdouro.pt",
+      "website": "http://www.cm-mdouro.pt/"
+    },
+    {
+      "camara_municipal": "Mirandela",
+      "presidente": "Vitor Manuel Correia",
+      "endereco": "Largo do Município",
+      "codigo_postal_localidade": "5370-288 MIRANDELA",
+      "telefone": "278 200 200",
+      "email_ou_web": "geral@cm-mirandela.pt",
+      "website": "http://www.cm-mirandela.pt"
+    },
+    {
+      "camara_municipal": "Mogadouro",
+      "presidente": "António Joaquim Pimentel",
+      "endereco": "Convento de S. Francisco",
+      "codigo_postal_localidade": "5200-244 MOGADOURO",
+      "telefone": "279 340 100",
+      "email_ou_web": "geral@mogadouro.pt",
+      "website": "http://mogadouro.pt/"
+    },
+    {
+      "camara_municipal": "Moimenta da Beira",
+      "presidente": "Paulo Alexandre de Matos Figueiredo",
+      "endereco": "Largo do Tabolado",
+      "codigo_postal_localidade": "3620-324 MOIMENTA DA BEIRA",
+      "telefone": "254 520 070",
+      "email_ou_web": "geral@cm-moimenta.pt",
+      "website": "http://www.cm-moimenta.pt"
+    },
+    {
+      "camara_municipal": "Moita",
+      "presidente": "Carlos Edgar Rodrigues Albino",
+      "endereco": "Praça da República",
+      "codigo_postal_localidade": "2864-007 MOITA",
+      "telefone": "212 806 700",
+      "email_ou_web": "cmmoita@cm-moita.pt",
+      "website": "http://www.cm-moita.pt"
+    },
+    {
+      "camara_municipal": "Monção",
+      "presidente": "António José Fernandes Barbosa",
+      "endereco": "Largo de Camões",
+      "codigo_postal_localidade": "4950-444 MONÇÃO",
+      "telefone": "251 649 000",
+      "email_ou_web": "geral@cm-moncao.pt",
+      "website": "http://www.cm-moncao.pt"
+    },
+    {
+      "camara_municipal": "Monchique",
+      "presidente": "Paulo Jorge Duarte Alves",
+      "endereco": "Travessa da Portela, 2 -",
+      "codigo_postal_localidade": "8550-470 MONCHIQUE",
+      "telefone": "282 910 200",
+      "email_ou_web": "geral@cm-monchique.pt",
+      "website": "http://www.cm-monchique.pt"
+    },
+    {
+      "camara_municipal": "Mondim de Basto",
+      "presidente": "Bruno Miguel de Moura Ferreira",
+      "endereco": "Largo do Conde de Vila Real",
+      "codigo_postal_localidade": "4880-236 MONDIM DE BASTO",
+      "telefone": "255 389 300",
+      "email_ou_web": "geral@cm-mondimdebasto.pt",
+      "website": "http://municipio.mondimdebasto.pt"
+    },
+    {
+      "camara_municipal": "Monforte",
+      "presidente": "Miguel Alexandre Ferreira Rasquinho",
+      "endereco": "Praça da República",
+      "codigo_postal_localidade": "7450-115 MONFORTE",
+      "telefone": "245 578 060",
+      "email_ou_web": "cmmonforte@mail.telepac.pt",
+      "website": "http://www.cm-monforte.pt"
+    },
+    {
+      "camara_municipal": "Montalegre",
+      "presidente": "Maria de Fátima Pereira Fernandes Alves",
+      "endereco": "Praça do Município, 1",
+      "codigo_postal_localidade": "5470-214 MONTALEGRE",
+      "telefone": "276 510 200",
+      "email_ou_web": "municipio@cm-montalegre.pt",
+      "website": "http://www.cm-montalegre.pt"
+    },
+    {
+      "camara_municipal": "Montemor-o-Novo",
+      "presidente": "Carlos Manuel Rodrigues Pinto de Sá",
+      "endereco": "Largo dos Paços do Concelho",
+      "codigo_postal_localidade": "7050-127 MONTEMOR-O-NOVO",
+      "telefone": "266 898 100",
+      "email_ou_web": "geral@cm-montemornovo.pt",
+      "website": "http://www.cm-montemornovo.pt"
+    },
+    {
+      "camara_municipal": "Montemor-o-Velho",
+      "presidente": "José Jacírio Teixeira Veríssimo",
+      "endereco": "Praça da República",
+      "codigo_postal_localidade": "3140-258 MONTEMOR-O-VELHO",
+      "telefone": "239 687 300",
+      "email_ou_web": "geral@cm-montemorvelho.pt",
+      "website": "http://www.cm-montemorvelho.pt"
+    },
+    {
+      "camara_municipal": "Montijo",
+      "presidente": "Fernando José Gouveia Caria",
+      "endereco": "R. Manuel Neves Nunes de Almeida",
+      "codigo_postal_localidade": "2870-352 MONTIJO",
+      "telefone": "212 327 600",
+      "email_ou_web": "geral@mun-montijo.pt",
+      "website": "http://www.mun-montijo.pt"
+    },
+    {
+      "camara_municipal": "Mora",
+      "presidente": "Luis Simão Duarte de Matos",
+      "endereco": "Rua do Município",
+      "codigo_postal_localidade": "7490-243 MORA",
+      "telefone": "266 439 070",
+      "email_ou_web": "geral@cm-mora.pt",
+      "website": "http://www.cm-mora.pt"
+    },
+    {
+      "camara_municipal": "Mortágua",
+      "presidente": "Ricardo Sérgio Pardal Marques",
+      "endereco": "Rua João Lopes de Morais",
+      "codigo_postal_localidade": "3450-153 MORTÁGUA",
+      "telefone": "231 927 460",
+      "email_ou_web": "mortagua@cm-mortagua.pt",
+      "website": "http://www.cm-mortagua.pt"
+    },
+    {
+      "camara_municipal": "Moura",
+      "presidente": "Alvaro José Pato Azedo",
+      "endereco": "Praça Sacadura Cabral",
+      "codigo_postal_localidade": "7860-207 MOURA",
+      "telefone": "285 250 400",
+      "email_ou_web": "cmmoura@cm-moura.pt",
+      "website": "http://www.cm-moura.pt"
+    },
+    {
+      "camara_municipal": "Mourão",
+      "presidente": "João Filipe Cardoso Fernandes Fortes",
+      "endereco": "Praça da República, 20",
+      "codigo_postal_localidade": "7240-233 MOURÃO",
+      "telefone": "266 560 010",
+      "email_ou_web": "gap@cm-mourao.pt",
+      "website": "http://www.cm-mourao.pt"
+    },
+    {
+      "camara_municipal": "Murça",
+      "presidente": "Mário Artur Correia Lopes",
+      "endereco": "Praça 5 de Outubro",
+      "codigo_postal_localidade": "5090-112 MURÇA",
+      "telefone": "259 510 120",
+      "email_ou_web": "gap@cm-murca.pt",
+      "website": "http://www.cm-murca.pt"
+    },
+    {
+      "camara_municipal": "Murtosa",
+      "presidente": "Januário Vieira da Cunha",
+      "endereco": "Edifício dos Paços do Concelho",
+      "codigo_postal_localidade": "3870-101 MURTOSA",
+      "telefone": "234 830 100",
+      "email_ou_web": "geral@cm-murtosa.pt",
+      "website": "http://www.cm-murtosa.pt"
+    },
+    {
+      "camara_municipal": "Nazaré",
+      "presidente": "Serafim António Louraço da Silva",
+      "endereco": "Av. Vieira Guimarães, 54",
+      "codigo_postal_localidade": "2450-951 NAZARÉ",
+      "telefone": "262 550 010",
+      "email_ou_web": "geral@cm-nazare.pt",
+      "website": "http://www.cm-nazare.pt"
+    },
+    {
+      "camara_municipal": "Nelas",
+      "presidente": "Joaquim Augusto Alves Amaral",
+      "endereco": "Praça do Município",
+      "codigo_postal_localidade": "3520-001 NELAS",
+      "telefone": "232 941 300",
+      "email_ou_web": "geral@cm-nelas.pt",
+      "website": "http://www.cm-nelas.pt"
+    },
+    {
+      "camara_municipal": "Nisa",
+      "presidente": "José Dinis Samarra Serra",
+      "endereco": "Praça do Munícipio",
+      "codigo_postal_localidade": "6050-999 NISA",
+      "telefone": "245 410 000",
+      "email_ou_web": "geral@cm-nisa.pt",
+      "website": "http://www.cm-nisa.pt"
+    },
+    {
+      "camara_municipal": "Nordeste",
+      "presidente": "António Miguel Borges Soares",
+      "endereco": "Praça da República",
+      "codigo_postal_localidade": "9630-141 NORDESTE",
+      "telefone": "296 480 060",
+      "email_ou_web": "geral@cmnordeste.pt",
+      "website": "http://www.cmnordeste.pt"
+    },
+    {
+      "camara_municipal": "Óbidos",
+      "presidente": "Filipe Miguel Alves Correia Daniel",
+      "endereco": "Largo de S. Pedro",
+      "codigo_postal_localidade": "2510-086 ÓBIDOS",
+      "telefone": "262 955 500",
+      "email_ou_web": "geral@cm-obidos.pt",
+      "website": "http://www.cm-obidos.pt"
+    },
+    {
+      "camara_municipal": "Odemira",
+      "presidente": "Hélder António Guerreiro",
+      "endereco": "Praça da República",
+      "codigo_postal_localidade": "7630-139 ODEMIRA",
+      "telefone": "283 320 900",
+      "email_ou_web": "geral@cm-odemira.pt",
+      "website": "http://www.cm-odemira.pt"
+    },
+    {
+      "camara_municipal": "Odivelas",
+      "presidente": "Hugo Martins",
+      "endereco": "Rua Guilherme Gomes Fernandes",
+      "codigo_postal_localidade": "2675-367 ODIVELAS",
+      "telefone": "219 320 000",
+      "email_ou_web": "geral@cm-odivelas.pt",
+      "website": "http://www.cm-odivelas.pt"
+    },
+    {
+      "camara_municipal": "Oeiras",
+      "presidente": "Isaltino Afonso Morais",
+      "endereco": "Largo Marquês de Pombal",
+      "codigo_postal_localidade": "2784-501 OEIRAS",
+      "telefone": "214 408 300",
+      "email_ou_web": "geral@oeiras.pt",
+      "website": "http://www.cm-oeiras.pt"
+    },
+    {
+      "camara_municipal": "Oleiros",
+      "presidente": "Miguel Alexandre Silva Costa Santos Marques",
+      "endereco": "Praça do Município",
+      "codigo_postal_localidade": "6160-409 OLEIROS",
+      "telefone": "272 680 130",
+      "email_ou_web": "geral@cm-oleiros.pt",
+      "website": "http://www.cm-oleiros.pt/"
+    },
+    {
+      "camara_municipal": "Olhão",
+      "presidente": "Ricardo Manuel Veia Calé",
+      "endereco": "Câmara Municipal",
+      "codigo_postal_localidade": "8700-349 OLHÃO",
+      "telefone": "289 700 100",
+      "email_ou_web": "geral@cm-olhao.pt",
+      "website": "https://cm-olhao.pt/"
+    },
+    {
+      "camara_municipal": "Oliveira de Azeméis",
+      "presidente": "Joaquim Jorge Ferreira",
+      "endereco": "Praça da República",
+      "codigo_postal_localidade": "3720-240 OLIVEIRA DE AZEMÉIS",
+      "telefone": "256 600 600",
+      "email_ou_web": "geral@cm-oaz.pt",
+      "website": "http://www.cm-oaz.pt"
+    },
+    {
+      "camara_municipal": "Oliveira de Frades",
+      "presidente": "João Carlos Ferreira Valério",
+      "endereco": "Largo Dr. Joaquim de Almeida",
+      "codigo_postal_localidade": "3680-111 OLIVEIRA DE FRADES",
+      "telefone": "232 760 300",
+      "email_ou_web": "geral@cm-ofrades.pt",
+      "website": "http://www.cm-ofrades.com"
+    },
+    {
+      "camara_municipal": "Oliveira do Bairro",
+      "presidente": "Duarte dos Santos Almeida Novo",
+      "endereco": "Praça do Município",
+      "codigo_postal_localidade": "3770-851 OLIVEIRA DO BAIRRO",
+      "telefone": "234 732 100",
+      "email_ou_web": "geral@cm-olb.pt",
+      "website": "http://www.cm-olb.pt/"
+    },
+    {
+      "camara_municipal": "Oliveira do Hospital",
+      "presidente": "José Francisco Tavares Rolo",
+      "endereco": "Largo Conselheiro Cabral Metello",
+      "codigo_postal_localidade": "3400-062 OLIVEIRA DO HOSPITAL",
+      "telefone": "238 605 250",
+      "email_ou_web": "geral@cm-oliveiradohospital.pt",
+      "website": "http://www.cm-oliveiradohospital.pt"
+    },
+    {
+      "camara_municipal": "Ourém",
+      "presidente": "Luís Miguel Marques Grossinho Coutinho Albuquerque",
+      "endereco": "Praça do Município, 11",
+      "codigo_postal_localidade": "2490-499 OURÉM",
+      "telefone": "249 540 900",
+      "email_ou_web": "geral@mail.cm-ourem.pt",
+      "website": "http://www.ourem.pt"
+    },
+    {
+      "camara_municipal": "Ourique",
+      "presidente": "Marcelo David Coelho Guerreiro",
+      "endereco": "Avenida 25 de Abril",
+      "codigo_postal_localidade": "7670-281 OURIQUE",
+      "telefone": "286 510 400",
+      "email_ou_web": "geral@cmourique.pt",
+      "website": "http://www.cm-ourique.pt"
+    },
+    {
+      "camara_municipal": "Ovar",
+      "presidente": "Domingos Silva",
+      "endereco": "Praça da República",
+      "codigo_postal_localidade": "3880-141 OVAR",
+      "telefone": "256 581 300",
+      "email_ou_web": "gapresidencia@cm-ovar.pt",
+      "website": "http://www.cm-ovar.pt"
+    },
+    {
+      "camara_municipal": "Paços de Ferreira",
+      "presidente": "Paulo Ferreira",
+      "endereco": "Praça da República, nº 46",
+      "codigo_postal_localidade": "4590-527 PACOS DE FERREIRA",
+      "telefone": "255 860 700",
+      "email_ou_web": "geral@cm-pacosdeferreira.pt",
+      "website": "http://www.cm-pacosdeferreira.pt"
+    },
+    {
+      "camara_municipal": "Palmela",
+      "presidente": "Ana Teresa Vicente Custódio de Sá",
+      "endereco": "Largo do Município",
+      "codigo_postal_localidade": "2954-001 PALMELA",
+      "telefone": "212 336 600",
+      "email_ou_web": "geral@cm-palmela.pt",
+      "website": "http://www.cm-palmela.pt"
+    },
+    {
+      "camara_municipal": "Pampilhosa da Serra",
+      "presidente": "Jorge Alves Custódio",
+      "endereco": "Rua Rangel de Lima",
+      "codigo_postal_localidade": "3320-229 PAMPILHOSA DA SERRA",
+      "telefone": "235 590 320",
+      "email_ou_web": "municipio@cm-pampilhosadaserra.pt",
+      "website": "http://www.cm-pampilhosadaserra.pt"
+    },
+    {
+      "camara_municipal": "Paredes",
+      "presidente": "José Alexandre da Silva Almeida",
+      "endereco": "Parque José Guilherme",
+      "codigo_postal_localidade": "4580-229 PAREDES",
+      "telefone": "255 788 800",
+      "email_ou_web": "cmparedes@cm-paredes.pt",
+      "website": "http://www.cm-paredes.pt"
+    },
+    {
+      "camara_municipal": "Paredes de Coura",
+      "presidente": "Tiago Manuel Pereira da Cunha",
+      "endereco": "Largo Visconde de Moselos -",
+      "codigo_postal_localidade": "4940-525 PAREDES DE COURA",
+      "telefone": "251 780 100",
+      "email_ou_web": "geral@paredesdecoura.pt",
+      "website": "http://www.paredesdecoura.pt"
+    },
+    {
+      "camara_municipal": "Pedrógão Grande",
+      "presidente": "João Manuel Gomes Marques",
+      "endereco": "Largo da Devesa",
+      "codigo_postal_localidade": "3271-909 PEDROGÃO GRANDE",
+      "telefone": "236 480 150",
+      "email_ou_web": "geral@cm-pedrogaogrande.pt",
+      "website": "http://www.cm-pedrogaogrande.pt"
+    },
+    {
+      "camara_municipal": "Penacova",
+      "presidente": "álvaro Gil Ferreira Martins Coimbra",
+      "endereco": "Largo Alberto Leitão, 5",
+      "codigo_postal_localidade": "3360-191 PENACOVA",
+      "telefone": "239 470 300",
+      "email_ou_web": "geral@cm-penacova.pt",
+      "website": "http://www.cm-penacova.pt"
+    },
+    {
+      "camara_municipal": "Penafiel",
+      "presidente": "Pedro Miguel Santana Cepeda",
+      "endereco": "Praça do Município",
+      "codigo_postal_localidade": "4564-002 PENAFIEL",
+      "telefone": "255 710 700",
+      "email_ou_web": "penafiel@cm-penafiel.pt",
+      "website": "http://www.cm-penafiel.pt"
+    },
+    {
+      "camara_municipal": "Penalva do Castelo",
+      "presidente": "José Dias Lopes Laires",
+      "endereco": "Avenida Castendo",
+      "codigo_postal_localidade": "3550-186 PENALVA DO CASTELO",
+      "telefone": "232 640 020",
+      "email_ou_web": "geral@cm-penalvadocastelo.pt",
+      "website": "http://www.cm-penalvadocastelo.pt/"
+    },
+    {
+      "camara_municipal": "Penamacor",
+      "presidente": "José Miguel Ribeiro de Oliveira",
+      "endereco": "Largo do Município",
+      "codigo_postal_localidade": "6090-543 PENAMACOR",
+      "telefone": "277 394 106",
+      "email_ou_web": "secretaria.gap@cm-penamacor.pt",
+      "website": "http://www.cm-penamacor.pt"
+    },
+    {
+      "camara_municipal": "Penedono",
+      "presidente": "Sónia Isabel Anjos Numão Lopes",
+      "endereco": "Largo da Devesa",
+      "codigo_postal_localidade": "3630-253 PENEDONO",
+      "telefone": "254 509 030",
+      "email_ou_web": "geral@cm-penedono.pt",
+      "website": "http://www.cm-penedono.pt"
+    },
+    {
+      "camara_municipal": "Penela",
+      "presidente": "Eduardo Jorge Mendes Nogueira dos Santos",
+      "endereco": "Praça do Município",
+      "codigo_postal_localidade": "3230-253 PENELA",
+      "telefone": "239 560 120",
+      "email_ou_web": "cmpenela@cm-penela.pt",
+      "website": "http://www.cm-penela.pt"
+    },
+    {
+      "camara_municipal": "Peniche",
+      "presidente": "Filipe Maia de Matos Ferreira Sales",
+      "endereco": "Largo do Município",
+      "codigo_postal_localidade": "2520-239 PENICHE",
+      "telefone": "262 780 100",
+      "email_ou_web": "cmpeniche@cm-peniche.pt",
+      "website": "http://www.cm-peniche.pt"
+    },
+    {
+      "camara_municipal": "Peso da Régua",
+      "presidente": "José Manuel Gonçalves",
+      "endereco": "Rua Serpa Pinto, 327",
+      "codigo_postal_localidade": "5054-003 PESO DA RÉGUA",
+      "telefone": "254 320 230",
+      "email_ou_web": "cmregua@cmpr.pt",
+      "website": "http://www.cm-pesoregua.pt"
+    },
+    {
+      "camara_municipal": "Pinhel",
+      "presidente": "Daniela Patrícia Monteiro Capelo",
+      "endereco": "Largo Ministro Duarte Pacheco, 8",
+      "codigo_postal_localidade": "6400-358 PINHEL",
+      "telefone": "271 410 000",
+      "email_ou_web": "cm-pinhel@cm-pinhel.pt",
+      "website": "http://www.cm-pinhel.pt"
+    },
+    {
+      "camara_municipal": "Pombal",
+      "presidente": "Pedro Alexandre Antunes Faustino Pimpão dos Santos",
+      "endereco": "Largo do Cardal",
+      "codigo_postal_localidade": "3100-440 POMBAL",
+      "telefone": "236 210 500",
+      "email_ou_web": "geral@cm-pombal.pt",
+      "website": "http://www.cm-pombal.pt"
+    },
+    {
+      "camara_municipal": "Ponta Delgada",
+      "presidente": "Pedro Miguel de Medeiros do Nascimento Cabral",
+      "endereco": "Praça do Município",
+      "codigo_postal_localidade": "9504-523 PONTA DELGADA",
+      "telefone": "296 304 400",
+      "email_ou_web": "geral@mpdelgada.pt",
+      "website": "https://www.cm-pontadelgada.pt"
+    },
+    {
+      "camara_municipal": "Ponta do Sol",
+      "presidente": "Rui David Pita Marques Luis",
+      "endereco": "Rua de Santo António, 5",
+      "codigo_postal_localidade": "9360-219 PONTA DO SOL",
+      "telefone": "291 972 106",
+      "email_ou_web": "geral@cm-pontadosol.pt",
+      "website": "http://www.cm-pontadosol.pt/"
+    },
+    {
+      "camara_municipal": "Ponte da Barca",
+      "presidente": "Augusto Manuel dos Reis Marinho",
+      "endereco": "Praça Dr. António Lacerda",
+      "codigo_postal_localidade": "4980-620 PONTE DA BARCA",
+      "telefone": "258 480 180",
+      "email_ou_web": "geral@cmpb.pt",
+      "website": "http://www.cmpb.pt"
+    },
+    {
+      "camara_municipal": "Ponte de Lima",
+      "presidente": "Vasco Nuno Magalhães Velho de Almeida Ferraz",
+      "endereco": "Praça da República",
+      "codigo_postal_localidade": "4990-062 PONTE DE LIMA",
+      "telefone": "258 900 400",
+      "email_ou_web": "geral@cm-pontedelima.pt",
+      "website": "http://www.cm-pontedelima.pt"
+    },
+    {
+      "camara_municipal": "Ponte de Sor",
+      "presidente": "Rogério Eduardo Correia Silva Alves",
+      "endereco": "Campo da Restauração",
+      "codigo_postal_localidade": "7400-223 Ponte de Sor",
+      "telefone": "242 291 580",
+      "email_ou_web": "geral@cm-pontedesor.pt",
+      "website": "http://www.cm-pontedesor.pt"
+    },
+    {
+      "camara_municipal": "Portalegre",
+      "presidente": "Fermelinda de Jesus Pombo Carvalho",
+      "endereco": "R.Guilherme Gomes Fernandes, 28",
+      "codigo_postal_localidade": "7300-186 PORTALEGRE",
+      "telefone": "245 307 400",
+      "email_ou_web": "municipio@cm-portalegre.pt",
+      "website": "http://www.cm-portalegre.pt"
+    },
+    {
+      "camara_municipal": "Portel",
+      "presidente": "Maria Luísa Leonço Farinha",
+      "endereco": "Praça D.Nuno Alvares Pereira, 3",
+      "codigo_postal_localidade": "7220-375 PORTEL",
+      "telefone": "266 619 030",
+      "email_ou_web": "geral@mail.cm-portel.pt",
+      "website": "http://www.cm-portel.pt"
+    },
+    {
+      "camara_municipal": "Portimão",
+      "presidente": "álvaro Miguel Bila",
+      "endereco": "Praça 1º de Maio",
+      "codigo_postal_localidade": "8500-543 PORTIMÃO",
+      "telefone": "282 470 700",
+      "email_ou_web": "geral@cm-portimao.pt",
+      "website": "http://www.cm-portimao.pt"
+    },
+    {
+      "camara_municipal": "Porto",
+      "presidente": "Pedro Miguel Azeredo Duarte",
+      "endereco": "Praça General Humberto Delgado",
+      "codigo_postal_localidade": "4049-001 PORTO",
+      "telefone": "220100220",
+      "email_ou_web": "geral@cm-porto.pt",
+      "website": "http://www.cm-porto.pt"
+    },
+    {
+      "camara_municipal": "Porto de Mós",
+      "presidente": "José Jorge Couto Vala",
+      "endereco": "Praça da República",
+      "codigo_postal_localidade": "2484-001 PORTO DE MOS",
+      "telefone": "244 499 600",
+      "email_ou_web": "geral@municipio-portodemos.pt",
+      "website": "http://www.municipio-portodemos.pt"
+    },
+    {
+      "camara_municipal": "Porto Moniz",
+      "presidente": "Olavo Balona Gouveia Câmara",
+      "endereco": "Praça do Lyra",
+      "codigo_postal_localidade": "9270-053 PORTO MONIZ",
+      "telefone": "291 850 180",
+      "email_ou_web": "geral@portomoniz.pt",
+      "website": "http://www.portomoniz.pt"
+    },
+    {
+      "camara_municipal": "Porto Santo",
+      "presidente": "Nuno Filipe Melim Batista",
+      "endereco": "Largo do Pelourinho -",
+      "codigo_postal_localidade": "9400-001 PORTO SANTO",
+      "telefone": "291 980 640",
+      "email_ou_web": "geral@cm-portosanto.pt",
+      "website": "http://www.cm-portosanto.pt"
+    },
+    {
+      "camara_municipal": "Póvoa de Lanhoso",
+      "presidente": "Frederico de Oliveira Castro",
+      "endereco": "Avenida da República",
+      "codigo_postal_localidade": "4830-513 PÓVOA DE LANHOSO",
+      "telefone": "253 639 700",
+      "email_ou_web": "geral@mun-planhoso.pt",
+      "website": "http://www.mun-planhoso.pt/"
+    },
+    {
+      "camara_municipal": "Póvoa de Varzim",
+      "presidente": "Andrea Luísa Neiva Maia da Silva",
+      "endereco": "Praça do Almada",
+      "codigo_postal_localidade": "4490-438 PÓVOA DE VARZIM",
+      "telefone": "252 090 000",
+      "email_ou_web": "geral@cm-pvarzim.pt",
+      "website": "http://www.cm-pvarzim.pt"
+    },
+    {
+      "camara_municipal": "Povoação",
+      "presidente": "Pedro Nuno Sousa Melo",
+      "endereco": "Largo do Município",
+      "codigo_postal_localidade": "9650-411 POVOAÇÃO",
+      "telefone": "296 550 200",
+      "email_ou_web": "geral@cm-povoacao.pt",
+      "website": "http://www.cm-povoacao.pt"
+    },
+    {
+      "camara_municipal": "Praia da Vitória",
+      "presidente": "Vânia Marisa Borges Figueiredo Ferreira",
+      "endereco": "Praça Francisco Ornelas da Câmara",
+      "codigo_postal_localidade": "9760-851 PRAIA DA VITÓRIA",
+      "telefone": "295 540 200",
+      "email_ou_web": "geral@cmpv.pt",
+      "website": "http://www.cmpv.pt"
+    },
+    {
+      "camara_municipal": "Proença-a-Nova",
+      "presidente": "João Manuel Ventura Grilo de Melo Lobo",
+      "endereco": "Avenida do Colégio",
+      "codigo_postal_localidade": "6150-401 PROENÇA-A-NOVA",
+      "telefone": "274 670 000",
+      "email_ou_web": "geral@cm-proencanova.pt",
+      "website": "http://www.cm-proencanova.pt"
+    },
+    {
+      "camara_municipal": "Redondo",
+      "presidente": "David Manuel Fialho Galego",
+      "endereco": "Praça da República",
+      "codigo_postal_localidade": "7170-011 REDONDO",
+      "telefone": "266 989 210",
+      "email_ou_web": "geral@cm-redondo.pt",
+      "website": "http://www.cm-redondo.pt"
+    },
+    {
+      "camara_municipal": "Reguengos de Monsaraz",
+      "presidente": "Marta Sofia da Silva Chilrito Prates",
+      "endereco": "Praça da Liberdade -",
+      "codigo_postal_localidade": "7201-970 REGUENGOS DE MONSARAZ",
+      "telefone": "266 508 040",
+      "email_ou_web": "geral@cm-reguengos-monsaraz.pt",
+      "website": "http://www.cm-reguengos-monsaraz.pt"
+    },
+    {
+      "camara_municipal": "Resende",
+      "presidente": "Fernando Silvério Cardoso de Sousa",
+      "endereco": "Av. Rebelo Moniz",
+      "codigo_postal_localidade": "4660-212 RESENDE",
+      "telefone": "254 877 153",
+      "email_ou_web": "geral@cm-resende.pt",
+      "website": "http://www.cm-resende.pt"
+    },
+    {
+      "camara_municipal": "Ribeira Brava",
+      "presidente": "Jorge Manuel Faria dos Santos",
+      "endereco": "Rua do Visconde, 56",
+      "codigo_postal_localidade": "9350-213 RIBEIRA BRAVA",
+      "telefone": "291 952 548",
+      "email_ou_web": "geral@cm-ribeirabrava.pt",
+      "website": "http://www.cm-ribeirabrava.pt"
+    },
+    {
+      "camara_municipal": "Ribeira de Pena",
+      "presidente": "João Avelino Noronha Rodrigues de Carvalho",
+      "endereco": "Praça do Município",
+      "codigo_postal_localidade": "4870-152 RIBEIRA DE PENA",
+      "telefone": "259 490 500",
+      "email_ou_web": "geral@cm-rpena.pt",
+      "website": "http://www.cm-rpena.pt"
+    },
+    {
+      "camara_municipal": "Ribeira Grande",
+      "presidente": "Jaime Luís Melo Vieira",
+      "endereco": "Largo Conselheiro Artur Ribeiro",
+      "codigo_postal_localidade": "9600-509 RIBEIRA GRANDE",
+      "telefone": "296 470 730",
+      "email_ou_web": "geralcmrg@cm-ribeiragrande.pt",
+      "website": "http://www.cm-ribeiragrande.pt"
+    },
+    {
+      "camara_municipal": "Rio Maior",
+      "presidente": "Luís Filipe Santana Dias",
+      "endereco": "Praça da República",
+      "codigo_postal_localidade": "2040-320 RIO MAIOR",
+      "telefone": "243 999 300",
+      "email_ou_web": "geral@cm-riomaior.pt",
+      "website": "http://www.cm-riomaior.pt"
+    },
+    {
+      "camara_municipal": "Sabrosa",
+      "presidente": "Maria Helena Marques Pinto da Lapa",
+      "endereco": "Rua do Loreto",
+      "codigo_postal_localidade": "5060-328 SABROSA",
+      "telefone": "259 937 120",
+      "email_ou_web": "geral@cm-sabrosa.pt",
+      "website": "http://www.sabrosa.pt"
+    },
+    {
+      "camara_municipal": "Sabugal",
+      "presidente": "Vítor Manuel Dias Proença",
+      "endereco": "Praça da República",
+      "codigo_postal_localidade": "6324-007 SABUGAL",
+      "telefone": "271 751 040",
+      "email_ou_web": "geral@cm-sabugal.pt",
+      "website": "http://www.cm-sabugal.pt"
+    },
+    {
+      "camara_municipal": "Salvaterra de Magos",
+      "presidente": "Helena Maria Pereira das Neves",
+      "endereco": "Praça da República",
+      "codigo_postal_localidade": "2120-072 SALVATERRA DE MAGOS",
+      "telefone": "263 509 500",
+      "email_ou_web": "geral@cm-salvaterrademagos.pt",
+      "website": "http://www.cm-salvaterrademagos.pt"
+    },
+    {
+      "camara_municipal": "Santa Comba Dão",
+      "presidente": "Inês Maria Varela Matos",
+      "endereco": "Largo do Município, 13",
+      "codigo_postal_localidade": "3440-337 SANTA COMBA DAO",
+      "telefone": "232 880 500",
+      "email_ou_web": "geral@cm-santacombadao.pt",
+      "website": "http://www.cm-santacombadao.pt"
+    },
+    {
+      "camara_municipal": "Santa Cruz",
+      "presidente": "élia Luísa Dias Gonçalves Ascensão",
+      "endereco": "Praça Dr. João Abel de Freitas",
+      "codigo_postal_localidade": "9100-157 SANTA CRUZ",
+      "telefone": "291 520 100",
+      "email_ou_web": "geral@cm-santacruz.pt",
+      "website": "http://www.cm-santacruz.pt"
+    },
+    {
+      "camara_municipal": "Santa Cruz da Graciosa",
+      "presidente": "António Manuel Ramos dos Reis",
+      "endereco": "Largo Vasco da Gama",
+      "codigo_postal_localidade": "9880-352 SANTA CRUZ DA GRACIOSA",
+      "telefone": "295 730 040",
+      "email_ou_web": "geral@cm-graciosa.pt",
+      "website": "http://www.cm-graciosa.pt"
+    },
+    {
+      "camara_municipal": "Santa Cruz das Flores",
+      "presidente": "Maria Elisabete Avelar Nóia",
+      "endereco": "R. Senador André de Freitas,13",
+      "codigo_postal_localidade": "9970-337 SANTA CRUZ DAS FLORES",
+      "telefone": "292 590 700",
+      "email_ou_web": "geral@cmscflores.pt",
+      "website": "http://www.cmscflores.pt"
+    },
+    {
+      "camara_municipal": "Santa Maria da Feira",
+      "presidente": "Amadeu Albergaria",
+      "endereco": "Praça da República",
+      "codigo_postal_localidade": "4524-909 FEIRA",
+      "telefone": "256 370 800",
+      "email_ou_web": "santamariadafeira@cm-feira.pt",
+      "website": "http://www.cm-feira.pt"
+    },
+    {
+      "camara_municipal": "Santa Marta de Penaguião",
+      "presidente": "Sílvia Fonseca Silva",
+      "endereco": "Rua dos Combatentes",
+      "codigo_postal_localidade": "5030-477 SANTA MARTA DE PENAGUIÃO",
+      "telefone": "254 810 130",
+      "email_ou_web": "geral@cm-smpenaguiao.pt",
+      "website": "http://www.cm-smpenaguiao.pt"
+    },
+    {
+      "camara_municipal": "Santana",
+      "presidente": "Márcio Dinarte da Silva Fernandes",
+      "endereco": "Sítio do Serrado - Santana",
+      "codigo_postal_localidade": "9230-116 SANTANA",
+      "telefone": "291 570 200",
+      "email_ou_web": "gap@cm-santana.com",
+      "website": "http://www.cm-santana.com"
+    },
+    {
+      "camara_municipal": "Santarém",
+      "presidente": "João Teixeira Leite",
+      "endereco": "Praça do Município",
+      "codigo_postal_localidade": "2000-027 SANTARÉM",
+      "telefone": "243 304 200",
+      "email_ou_web": "geral@cm-santarem.pt",
+      "website": "http://www.cm-santarem.pt"
+    },
+    {
+      "camara_municipal": "Santiago do Cacém",
+      "presidente": "Bruno José Peixoto Gonçalves Pereira",
+      "endereco": "Praça do Município",
+      "codigo_postal_localidade": "7540-136 SANTIAGO DO CACEM",
+      "telefone": "269 829 400",
+      "email_ou_web": "geral@cm-santiagocacem.pt",
+      "website": "http://www.cm-santiagocacem.pt"
+    },
+    {
+      "camara_municipal": "Santo Tirso",
+      "presidente": "Alberto Costa",
+      "endereco": "Praça 25 de Abril",
+      "codigo_postal_localidade": "4780-373 SANTO TIRSO",
+      "telefone": "252 830 400",
+      "email_ou_web": "santotirso@cm-stirso.pt",
+      "website": "http://www.cm-stirso.pt"
+    },
+    {
+      "camara_municipal": "São Brás de Alportel",
+      "presidente": "Marlene de Sousa Guerreiro",
+      "endereco": "Rua Gago Coutinho, 1",
+      "codigo_postal_localidade": "8150-151 S. BRÁS DE ALPORTEL",
+      "telefone": "289 840 000",
+      "email_ou_web": "camara@cm-sbras.pt",
+      "website": "http://www.cm-sbras.pt"
+    },
+    {
+      "camara_municipal": "São João da Madeira",
+      "presidente": "João Gomes Oliveira",
+      "endereco": "Av. da Liberdade",
+      "codigo_postal_localidade": "3701-956 SÃO JOÃO DA MADEIRA",
+      "telefone": "256 200 200",
+      "email_ou_web": "atendimento@cm-sjm.pt",
+      "website": "http://www.cm-sjm.pt"
+    },
+    {
+      "camara_municipal": "São João da Pesqueira",
+      "presidente": "Manuel António Natário Cordeiro",
+      "endereco": "Av. Marquês de Soveral, 67",
+      "codigo_postal_localidade": "5130-321 SÃO JOÃO DA PESQUEIRA",
+      "telefone": "254 489 999",
+      "email_ou_web": "cmsjp@sjpesqueira.pt",
+      "website": "http://www.sjpesqueira.pt"
+    },
+    {
+      "camara_municipal": "São Pedro do Sul",
+      "presidente": "Pedro Miguel Mouro Lourenço",
+      "endereco": "Largo de Camões",
+      "codigo_postal_localidade": "3660-436 SÃO PEDRO DO SUL",
+      "telefone": "232 720 140",
+      "email_ou_web": "geral@cm-spsul.pt",
+      "website": "http://www.cm-spsul.pt"
+    },
+    {
+      "camara_municipal": "São Roque do Pico",
+      "presidente": "Luís Filipe Ramos Macedo da Silva",
+      "endereco": "Alameda 10 de Novembro de 1542",
+      "codigo_postal_localidade": "9940-353 S. ROQUE DO PICO",
+      "telefone": "292 648 700",
+      "email_ou_web": "geral@cm-saoroquedopico.pt",
+      "website": "http://www.cm-saoroquedopico.pt"
+    },
+    {
+      "camara_municipal": "São Vicente",
+      "presidente": "José Carlos Gonçalves",
+      "endereco": "Sítio da Vila",
+      "codigo_postal_localidade": "9240-225 São Vicente - Madeira",
+      "telefone": "291 840 020",
+      "email_ou_web": "geral@cm-saovicente.pt",
+      "website": "http://www.cm-saovicente.pt/"
+    },
+    {
+      "camara_municipal": "Sardoal",
+      "presidente": "Pedro Manuel dos Santos Rosa",
+      "endereco": "Praça da República",
+      "codigo_postal_localidade": "2230-139 SARDOAL",
+      "telefone": "241 850 000",
+      "email_ou_web": "geral@cm-sardoal.pt",
+      "website": "http://www.cm-sardoal.pt"
+    },
+    {
+      "camara_municipal": "Sátão",
+      "presidente": "Alexandre Manuel Mendonça Vaz",
+      "endereco": "Praça Paulo VI",
+      "codigo_postal_localidade": "3560-154 SÁTÃO",
+      "telefone": "232 980 000",
+      "email_ou_web": "geral@cm-satao.pt",
+      "website": "http://www.cm-satao.pt"
+    },
+    {
+      "camara_municipal": "Seia",
+      "presidente": "António Luciano da Silva Ribeiro",
+      "endereco": "Largo Dr. António Borges Pires",
+      "codigo_postal_localidade": "6270-494 SEIA",
+      "telefone": "238 310 230",
+      "email_ou_web": "cm-seia@cm-seia.pt",
+      "website": "http://www.cm-seia.pt"
+    },
+    {
+      "camara_municipal": "Seixal",
+      "presidente": "Paulo Silva",
+      "endereco": "Alameda dos Bombeiros Voluntários, 45",
+      "codigo_postal_localidade": "2844-001 Seixal",
+      "telefone": "212 276 700",
+      "email_ou_web": "camara.geral@cm-seixal.pt",
+      "website": "http://www.cm-seixal.pt"
+    },
+    {
+      "camara_municipal": "Sernancelhe",
+      "presidente": "Carlos Manuel Ramos dos Santos",
+      "endereco": "Av. Dr. Oliveira Serrão",
+      "codigo_postal_localidade": "3640-240 SERNANCELHE",
+      "telefone": "254 598 300",
+      "email_ou_web": "geral@cm-sernancelhe.pt",
+      "website": "http://www.cm-sernancelhe.pt"
+    },
+    {
+      "camara_municipal": "Serpa",
+      "presidente": "Francisco José Palma Picareta",
+      "endereco": "Praça da República",
+      "codigo_postal_localidade": "7830-389 SERPA",
+      "telefone": "284 540 100",
+      "email_ou_web": "geral@cm-serpa.pt",
+      "website": "http://www.cm-serpa.pt"
+    },
+    {
+      "camara_municipal": "Sertã",
+      "presidente": "Carlos Alberto de Miranda",
+      "endereco": "Largo do Município",
+      "codigo_postal_localidade": "6100-738 SERTÃ",
+      "telefone": "274 600 300",
+      "email_ou_web": "geral@cm-serta.pt",
+      "website": "http://www.cm-serta.pt"
+    },
+    {
+      "camara_municipal": "Sesimbra",
+      "presidente": "Francisco Manuel Firmino de Jesus",
+      "endereco": "Rua da República, 3",
+      "codigo_postal_localidade": "2970-741 SESIMBRA",
+      "telefone": "212 288 500",
+      "email_ou_web": "informacao@cm-sesimbra.pt",
+      "website": "http://www.sesimbra.pt"
+    },
+    {
+      "camara_municipal": "Setúbal",
+      "presidente": "Maria das Dores Marques Banheiro Meira",
+      "endereco": "Praça do Bocage",
+      "codigo_postal_localidade": "2901-866 SETÚBAL",
+      "telefone": "265 541 500",
+      "email_ou_web": "geral@mun-setubal.pt",
+      "website": "http://www.mun-setubal.pt"
+    },
+    {
+      "camara_municipal": "Sever do Vouga",
+      "presidente": "Pedro Amadeu Fernandes Lopes Lobo",
+      "endereco": "Largo do Município",
+      "codigo_postal_localidade": "3740-262 SEVER DO VOUGA",
+      "telefone": "234 555 566",
+      "email_ou_web": "cm.sever@cm-sever.pt",
+      "website": "http://www.cm-sever.pt"
+    },
+    {
+      "camara_municipal": "Silves",
+      "presidente": "Maria Luisa Medeiro Conduto Luís",
+      "endereco": "Praça do Município",
+      "codigo_postal_localidade": "8300-117 SILVES",
+      "telefone": "282 440 800",
+      "email_ou_web": "expediente@cm-silves.pt",
+      "website": "http://www.cm-silves.pt"
+    },
+    {
+      "camara_municipal": "Sines",
+      "presidente": "álvaro dos Santos Bejinha",
+      "endereco": "Largo Ramos da Costa",
+      "codigo_postal_localidade": "7520-159 SINES",
+      "telefone": "269 630 600",
+      "email_ou_web": "geral@mun-sines.pt",
+      "website": "http://www.sines.pt"
+    },
+    {
+      "camara_municipal": "Sintra",
+      "presidente": "Marco Paulo Caldeira de Almeida",
+      "endereco": "Largo Dr. Virgílio Horta, 4",
+      "codigo_postal_localidade": "2714-501 SINTRA",
+      "telefone": "219 238 500",
+      "email_ou_web": "municipe@cm-sintra.pt",
+      "website": "http://www.cm-sintra.pt"
+    },
+    {
+      "camara_municipal": "Sobral de Monte Agraço",
+      "presidente": "Raquel Filipa Soares Lourenço",
+      "endereco": "Praça Dr. Eugénio Dias, 4",
+      "codigo_postal_localidade": "2590-016 SOBRAL DE MONTE AGRAÇO",
+      "telefone": "261 940 300",
+      "email_ou_web": "geral@cm-sobral.pt",
+      "website": "http://www.cm-sobral.pt"
+    },
+    {
+      "camara_municipal": "Soure",
+      "presidente": "Rui Miguel Freire Mendes Fernandes",
+      "endereco": "Praça da República",
+      "codigo_postal_localidade": "3130-218 SOURE",
+      "telefone": "239 506 550",
+      "email_ou_web": "geral@cm-soure.pt",
+      "website": "http://www.cm-soure.pt"
+    },
+    {
+      "camara_municipal": "Sousel",
+      "presidente": "Manuel Joaquim Silva Valério",
+      "endereco": "Praça da República, 1",
+      "codigo_postal_localidade": "7470-220 SOUSEL",
+      "telefone": "268 550 100",
+      "email_ou_web": "geral@cm-sousel.pt",
+      "website": "http://www.cm-sousel.pt"
+    },
+    {
+      "camara_municipal": "Tábua",
+      "presidente": "Ricardo Manuel Oliveira da Silva Cruz",
+      "endereco": "Câmara Municipal",
+      "codigo_postal_localidade": "3420-308 TABUA",
+      "telefone": "235 410 340",
+      "email_ou_web": "geral@cm-tabua.pt",
+      "website": "http://www.cm-tabua.pt"
+    },
+    {
+      "camara_municipal": "Tabuaço",
+      "presidente": "José João Monteiro Patrício",
+      "endereco": "Rua António José D´Almeida",
+      "codigo_postal_localidade": "5120-423 TABUAÇO",
+      "telefone": "254 780 000",
+      "email_ou_web": "cm-tabuaco@cm-tabuaco.pt",
+      "website": "http://www.cm-tabuaco.pt"
+    },
+    {
+      "camara_municipal": "Tarouca",
+      "presidente": "José Damião Lopes Guedes de Melo",
+      "endereco": "Av. Dr. Alexandre Taveira Cardoso",
+      "codigo_postal_localidade": "3610-128 TAROUCA",
+      "telefone": "254 677 420",
+      "email_ou_web": "camara@cm-tarouca.pt",
+      "website": "http://www.cm-tarouca.pt"
+    },
+    {
+      "camara_municipal": "Tavira",
+      "presidente": "Ana Paula Martins",
+      "endereco": "Praça da República",
+      "codigo_postal_localidade": "8800-951 TAVIRA",
+      "telefone": "281 320 500",
+      "email_ou_web": "camara@cm-tavira.pt",
+      "website": "http://www.cm-tavira.pt"
+    },
+    {
+      "camara_municipal": "Terras de Bouro",
+      "presidente": "Manuel João Sampaio Tibo",
+      "endereco": "Largo Padre Martins Capela",
+      "codigo_postal_localidade": "4840-100 TERRAS DO BOURO",
+      "telefone": "253 350 010",
+      "email_ou_web": "geral@cm-terrasdebouro.pt",
+      "website": "http://www.cm-terrasdebouro.pt"
+    },
+    {
+      "camara_municipal": "Tomar",
+      "presidente": "Tiago Manuel Henriques Ferreira Carrão",
+      "endereco": "Praça da República",
+      "codigo_postal_localidade": "2300-550 TOMAR",
+      "telefone": "249 329 800",
+      "email_ou_web": "presidencia@cm-tomar.pt",
+      "website": "http://www.cm-tomar.pt"
+    },
+    {
+      "camara_municipal": "Tondela",
+      "presidente": "Carla Antunes Borges",
+      "endereco": "Largo da República,16",
+      "codigo_postal_localidade": "3464-001 TONDELA",
+      "telefone": "232 811 110",
+      "email_ou_web": "geral@cm-tondela.pt",
+      "website": "http://www.cm-tondela.pt"
+    },
+    {
+      "camara_municipal": "Torre de Moncorvo",
+      "presidente": "José Meneses",
+      "endereco": "Largo Campos Monteiro",
+      "codigo_postal_localidade": "5160-303 TORRE DE MONCORVO",
+      "telefone": "279 200 220",
+      "email_ou_web": "geral@torredemoncorvo.pt",
+      "website": "http://www.torredemoncorvo.pt"
+    },
+    {
+      "camara_municipal": "Torres Novas",
+      "presidente": "José Manuel Paulo Trincão Marques",
+      "endereco": "R.Gen António César de Vasconcelos Correia",
+      "codigo_postal_localidade": "2350-421 TORRES NOVAS",
+      "telefone": "249 839 430",
+      "email_ou_web": "geral@cm-torresnovas.pt",
+      "website": "http://www.cm-torresnovas.pt"
+    },
+    {
+      "camara_municipal": "Torres Vedras",
+      "presidente": "Sérgio Paulo Matias Galvão",
+      "endereco": "Av. 5 de Outubro",
+      "codigo_postal_localidade": "2560-270 TORRES VEDRAS",
+      "telefone": "261 310 400",
+      "email_ou_web": "geral@cm-tvedras.pt",
+      "website": "http://www.cm-tvedras.pt"
+    },
+    {
+      "camara_municipal": "Trancoso",
+      "presidente": "Daniel José Salvador Joana",
+      "endereco": "Praça do Município",
+      "codigo_postal_localidade": "6420-107 TRANCOSO",
+      "telefone": "271 829 120",
+      "email_ou_web": "geral@cm-trancoso.pt",
+      "website": "http://www.cm-trancoso.pt"
+    },
+    {
+      "camara_municipal": "Trofa",
+      "presidente": "Sérgio Daniel da Costa Araújo",
+      "endereco": "R. das Indústrias, 393",
+      "codigo_postal_localidade": "4785-624 TROFA",
+      "telefone": "252 409 290",
+      "email_ou_web": "geral@mun-trofa.pt",
+      "website": "http://www.mun-trofa.pt"
+    },
+    {
+      "camara_municipal": "Vagos",
+      "presidente": "Rui Miguel Rocha da Cruz",
+      "endereco": "Rua da Saudade",
+      "codigo_postal_localidade": "3840-420 VAGOS",
+      "telefone": "234 799 600",
+      "email_ou_web": "geral@cm-vagos.pt",
+      "website": "http://www.cm-vagos.pt"
+    },
+    {
+      "camara_municipal": "Vale de Cambra",
+      "presidente": "André Agostinho Martins da Silva",
+      "endereco": "Av. Camilo de Matos",
+      "codigo_postal_localidade": "3730-901 VALE DE CAMBRA",
+      "telefone": "256 420 510",
+      "email_ou_web": "geral@cm-valedecambra.pt",
+      "website": "http://www.cm-valedecambra.pt"
+    },
+    {
+      "camara_municipal": "Valença",
+      "presidente": "José Manuel Vaz Carpinteira",
+      "endereco": "Praça da Republica",
+      "codigo_postal_localidade": "4930-702 VALENÇA",
+      "telefone": "251 809 500",
+      "email_ou_web": "geral@cm-valenca.pt",
+      "website": "http://www.cm-valenca.pt"
+    },
+    {
+      "camara_municipal": "Valongo",
+      "presidente": "Paulo Esteves Ferreira",
+      "endereco": "Av. 5 de Outubro, Nº 160",
+      "codigo_postal_localidade": "4440-503 VALONGO",
+      "telefone": "224 227 900",
+      "email_ou_web": "gabmunicipe@cm-valongo.pt",
+      "website": "http://www.cm-valongo.pt"
+    },
+    {
+      "camara_municipal": "Valpaços",
+      "presidente": "Jorge Manuel da Mata Pires",
+      "endereco": "Praça do Município",
+      "codigo_postal_localidade": "5430-469 VALPAÇOS",
+      "telefone": "278 710 130",
+      "email_ou_web": "municipio@valpacos.pt",
+      "website": "http://valpacos.pt"
+    },
+    {
+      "camara_municipal": "Velas",
+      "presidente": "Catarina Oliveira Cabeceiras",
+      "endereco": "Rua Jardim da República",
+      "codigo_postal_localidade": "9800-539 VELAS",
+      "telefone": "295 412 214",
+      "email_ou_web": "geral@cmvelas.pt",
+      "website": "http://www.cmvelas.pt"
+    },
+    {
+      "camara_municipal": "Vendas Novas",
+      "presidente": "Ricardo Manuel Coelho Videira",
+      "endereco": "Av. da República",
+      "codigo_postal_localidade": "7080-099 VENDAS NOVAS",
+      "telefone": "265 807 700",
+      "email_ou_web": "geral@cm-vendasnovas.pt",
+      "website": "http://www.cm-vendasnovas.pt"
+    },
+    {
+      "camara_municipal": "Viana do Alentejo",
+      "presidente": "Luís Miguel Horta Metrogos",
+      "endereco": "Rua Brito Camacho,13",
+      "codigo_postal_localidade": "7090-237 VIANA DO ALENTEJO",
+      "telefone": "266 930 010",
+      "email_ou_web": "camara@cm-vianadoalentejo.pt",
+      "website": "http://www.cm-vianadoalentejo.pt"
+    },
+    {
+      "camara_municipal": "Viana do Castelo",
+      "presidente": "Joaquim Luís Nobre Pereira",
+      "endereco": "Passeio das Mordomas da Romaria",
+      "codigo_postal_localidade": "4904-877 VIANA DO CASTELO",
+      "telefone": "258 809 300",
+      "email_ou_web": "cmviana@cm-viana-castelo.pt",
+      "website": "http://www.cm-viana-castelo.pt"
+    },
+    {
+      "camara_municipal": "Vidigueira",
+      "presidente": "Ricardo Manuel Bogango Bonito",
+      "endereco": "Praça da República",
+      "codigo_postal_localidade": "7960-225 VIDIGUEIRA",
+      "telefone": "284 437 400",
+      "email_ou_web": "geral@cm-vidigueira.pt",
+      "website": "http://www.cm-vidigueira.pt"
+    },
+    {
+      "camara_municipal": "Vieira do Minho",
+      "presidente": "Filipe Alexandre Soares Oliveira",
+      "endereco": "Praça Guilherme de Abreu",
+      "codigo_postal_localidade": "4850-527 VIEIRA DO MINHO",
+      "telefone": "253 649 270",
+      "email_ou_web": "geral@cm-vminho.pt",
+      "website": "http://www.cm-vminho.pt"
+    },
+    {
+      "camara_municipal": "Vila de Rei",
+      "presidente": "Paulo César Laranjeira Luís",
+      "endereco": "Praça Família Mattos e Silva Neves",
+      "codigo_postal_localidade": "6110-174 VILA DE REI",
+      "telefone": "274 890 010",
+      "email_ou_web": "geral@cm-viladerei.pt",
+      "website": "http://www.cm-viladerei.pt"
+    },
+    {
+      "camara_municipal": "Vila do Bispo",
+      "presidente": "Paula Alexandra Xavier Alves de Freitas",
+      "endereco": "Paços do Concelho",
+      "codigo_postal_localidade": "8650-407 VILA DO BISPO",
+      "telefone": "282 630 600",
+      "email_ou_web": "geral@cm-viladobispo.pt",
+      "website": "http://www.cm-viladobispo.pt"
+    },
+    {
+      "camara_municipal": "Vila do Conde",
+      "presidente": "Vítor Manuel Moreira da Costa",
+      "endereco": "Rua da Igreja",
+      "codigo_postal_localidade": "4480-754 VILA DO CONDE",
+      "telefone": "252 248 400",
+      "email_ou_web": "geral@cm-viladoconde.pt",
+      "website": "http://www.cm-viladoconde.pt"
+    },
+    {
+      "camara_municipal": "Vila do Porto",
+      "presidente": "Bárbara Pereira Torres de Medeiros Chaves",
+      "endereco": "Largo Nossa Senhora da Conceição",
+      "codigo_postal_localidade": "9580-539 VILA DO PORTO",
+      "telefone": "296 820 000",
+      "email_ou_web": "geral@cm-viladoporto.pt",
+      "website": "http://www.cm-viladoporto.pt"
+    },
+    {
+      "camara_municipal": "Vila Flor",
+      "presidente": "Pedro Miguel Saraiva Lima Cordeiro de Melo",
+      "endereco": "Av. Marechal Carmona",
+      "codigo_postal_localidade": "5360-303 VILA FLOR",
+      "telefone": "278 510 100",
+      "email_ou_web": "geral@cm-vilaflor.pt",
+      "website": "http://www.cm-vilaflor.pt"
+    },
+    {
+      "camara_municipal": "Vila Franca de Xira",
+      "presidente": "Fernando Paulo Ferreira",
+      "endereco": "Praça Afonso Albuquerque, 2",
+      "codigo_postal_localidade": "2600-093 VILA FRANCA DE XIRA",
+      "telefone": "263 285 600",
+      "email_ou_web": "lojadomunicipe@cm-vfxira.pt",
+      "website": "http://www.cm-vfxira.pt"
+    },
+    {
+      "camara_municipal": "Vila Franca do Campo",
+      "presidente": "Graça Melo",
+      "endereco": "Largo do Município",
+      "codigo_postal_localidade": "9680-115 VILA FRANCA DO CAMPO",
+      "telefone": "296 539 100",
+      "email_ou_web": "geral@cmvfc.pt",
+      "website": "http://www.cmvfc.pt"
+    },
+    {
+      "camara_municipal": "Vila Nova da Barquinha",
+      "presidente": "Manuel José Coimbra Mourato",
+      "endereco": "Praça da República",
+      "codigo_postal_localidade": "2260-411 VILA NOVA DA BARQUINHA",
+      "telefone": "249 720 350",
+      "email_ou_web": "geral@cm-vnbarquinha.pt",
+      "website": "http://www.cm-vnbarquinha.pt"
+    },
+    {
+      "camara_municipal": "Vila Nova de Cerveira",
+      "presidente": "Rui Pedro Teixeira Ferreira da Silva",
+      "endereco": "Praça do Município",
+      "codigo_postal_localidade": "4920-284 VILA NOVA DE CERVEIRA",
+      "telefone": "251 708 020",
+      "email_ou_web": "geral@cm-vncerveira.pt",
+      "website": "http://www.cm-vncerveira.pt"
+    },
+    {
+      "camara_municipal": "Vila Nova de Famalicão",
+      "presidente": "Mário Sousa Passos",
+      "endereco": "Praça Álvaro Marques",
+      "codigo_postal_localidade": "4760-502 VILA NOVA DE FAMALICÃO",
+      "telefone": "252 320 900",
+      "email_ou_web": "gabinetepresidente@famalicao.pt",
+      "website": "http://www.cm-vnfamalicao.pt"
+    },
+    {
+      "camara_municipal": "Vila Nova de Foz Côa",
+      "presidente": "Pedro Duarte",
+      "endereco": "Praça do Município",
+      "codigo_postal_localidade": "5150-642 VILA NOVA DE FOZ CÔA",
+      "telefone": "279 760 400",
+      "email_ou_web": "correio@cm-fozcoa.pt",
+      "website": "http://www.cm-fozcoa.pt"
+    },
+    {
+      "camara_municipal": "Vila Nova de Gaia",
+      "presidente": "Luís Filipe Menezes Lopes",
+      "endereco": "Rua Álvares Cabral",
+      "codigo_postal_localidade": "4400-017 VILA NOVA DE GAIA",
+      "telefone": "22 374 24 00",
+      "email_ou_web": "geral@cm-gaia.pt",
+      "website": "http://www.cm-gaia.pt"
+    },
+    {
+      "camara_municipal": "Vila Nova de Paiva",
+      "presidente": "Paulo Manuel Teixeira Marques",
+      "endereco": "Praça D. Afonso Henriques",
+      "codigo_postal_localidade": "3650-207 VILA NOVA DE PAIVA",
+      "telefone": "232 609 900",
+      "email_ou_web": "geral@cm-vnpaiva.pt",
+      "website": "http://www.cm-vnpaiva.pt"
+    },
+    {
+      "camara_municipal": "Vila Nova de Poiares",
+      "presidente": "Nuno Alexandre Figueiredo Neves",
+      "endereco": "Largo da República, n°1",
+      "codigo_postal_localidade": "3350-156 VILA NOVA DE POIARES",
+      "telefone": "239 420 850",
+      "email_ou_web": "geral@cm-vilanovadepoiares.pt",
+      "website": "http://www.cm-vilanovadepoiares.pt"
+    },
+    {
+      "camara_municipal": "Vila Pouca de Aguiar",
+      "presidente": "Ana Rita Dias",
+      "endereco": "Rua Dr. Henrique Botelho",
+      "codigo_postal_localidade": "5450-027 VILA POUCA DE AGUIAR",
+      "telefone": "259 419 100",
+      "email_ou_web": "geral@cm-vpaguiar.pt",
+      "website": "http://www.cm-vpaguiar.pt"
+    },
+    {
+      "camara_municipal": "Vila Real",
+      "presidente": "Alexandre Favaios",
+      "endereco": "Av. Carvalho Araújo",
+      "codigo_postal_localidade": "5000-657 VILA REAL",
+      "telefone": "259 308 100",
+      "email_ou_web": "geral@cm-vilareal.pt",
+      "website": "http://www.cm-vilareal.pt"
+    },
+    {
+      "camara_municipal": "Vila Real de Santo António",
+      "presidente": "álvaro Palma de Araújo",
+      "endereco": "Praça Marquês de Pombal",
+      "codigo_postal_localidade": "8900-231 VILA REAL DE SANTO ANTÓNIO",
+      "telefone": "281 510 000",
+      "email_ou_web": "geral@cm-vrsa.pt",
+      "website": "http://www.cm-vrsa.pt"
+    },
+    {
+      "camara_municipal": "Vila Velha de Ródão",
+      "presidente": "António Tavares Pinto Carmona Mendes",
+      "endereco": "Rua Santana",
+      "codigo_postal_localidade": "6030-230 VILA VELHA DE RODÃO",
+      "telefone": "272 540 300",
+      "email_ou_web": "geral@cm-vvrodao.pt",
+      "website": "http://www.cm-vvrodao.pt"
+    },
+    {
+      "camara_municipal": "Vila Verde",
+      "presidente": "Júlia Maria Caridade Rodrigues Fernandes",
+      "endereco": "Praça do Município",
+      "codigo_postal_localidade": "4730-733 VILA VERDE",
+      "telefone": "253 310 500",
+      "email_ou_web": "geral@cm-vilaverde.pt",
+      "website": "http://www.cm-vilaverde.pt"
+    },
+    {
+      "camara_municipal": "Vila Viçosa",
+      "presidente": "Inácio José Ludovico Esperança",
+      "endereco": "Praça da República",
+      "codigo_postal_localidade": "7160-207 VILA VIÇOSA",
+      "telefone": "268 889 310",
+      "email_ou_web": "geral@cm-vilavicosa.pt",
+      "website": "http://www.cm-vilavicosa.pt"
+    },
+    {
+      "camara_municipal": "Vimioso",
+      "presidente": "António dos Santos João Vaz",
+      "endereco": "Praça Eduardo Coelho",
+      "codigo_postal_localidade": "5230-315 VIMIOSO",
+      "telefone": "273 518 120",
+      "email_ou_web": "gi.cmv@cm-vimioso.pt",
+      "website": "http://www.cm-vimioso.pt"
+    },
+    {
+      "camara_municipal": "Vinhais",
+      "presidente": "Luís dos Santos Fernandes",
+      "endereco": "Rua das Freiras",
+      "codigo_postal_localidade": "5320-326 VINHAIS",
+      "telefone": "273 770 300",
+      "email_ou_web": "geral@cm-vinhais.pt",
+      "website": "http://www.cm-vinhais.pt"
+    },
+    {
+      "camara_municipal": "Viseu",
+      "presidente": "João Nuno Ferreira Gonçalves Azevedo",
+      "endereco": "Praça da República",
+      "codigo_postal_localidade": "3514-501 VISEU",
+      "telefone": "232 427 427",
+      "email_ou_web": "geral@cmviseu.pt",
+      "website": "http://www.cm-viseu.pt"
+    },
+    {
+      "camara_municipal": "Vizela",
+      "presidente": "Victor Hugo Salgado",
+      "endereco": "Praça do Município, n.º522",
+      "codigo_postal_localidade": "4815-013 VIZELA",
+      "telefone": "253 489 630",
+      "email_ou_web": "geral@cm-vizela.pt",
+      "website": "http://www.cm-vizela.pt"
+    },
+    {
+      "camara_municipal": "Vouzela",
+      "presidente": "Carlos Alberto Santos Oliveira",
+      "endereco": "Alameda D.Duarte de Almeida",
+      "codigo_postal_localidade": "3670-250 VOUZELA",
+      "telefone": "232 740 740",
+      "email_ou_web": "geral@cm-vouzela.pt",
+      "website": "http://www.cm-vouzela.pt"
+    }
+  ]
+}
